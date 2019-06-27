@@ -1,0 +1,699 @@
+,CAP HIT,CHIP,GAMES MISSED,INJURY TYPE,PLAYER,POSITION,SEASON,TEAM
+7935,0.925,157.926829268,14,Lower body,Comtois Maxime,F,2018/19,Anaheim
+7937,3.15,1267.6829268289998,33,Ribs,Eaves Patrick,F,2018/19,Anaheim
+7938,3.15,499.39024390199995,13,Shoulder,Eaves Patrick,F,2018/19,Anaheim
+7939,8.25,503.04878048800003,5,Groin,Getzlaf Ryan,F,2018/19,Anaheim
+7940,8.25,100.60975609799999,1,Upper body,Getzlaf Ryan,F,2018/19,Anaheim
+7941,8.25,402.43902439,4,Upper body,Getzlaf Ryan,F,2018/19,Anaheim
+7942,8.25,503.04878048800003,5,Upper body,Getzlaf Ryan,F,2018/19,Anaheim
+7943,1.0,12.195121950999999,1,Hand,Gibbons Brian,F,2018/19,Anaheim
+7944,0.65,23.780487805,3,Upper body,Grant Derek,F,2018/19,Anaheim
+7945,2.6,570.731707317,18,Concussion,Kase Ondrej,F,2018/19,Anaheim
+7946,2.6,1078.048780488,34,Shoulder,Kase Ondrej,F,2018/19,Anaheim
+7947,6.875,251.52439024400002,3,Hip,Kesler Ryan,F,2018/19,Anaheim
+7948,6.875,1173.780487805,14,Hip,Kesler Ryan,F,2018/19,Anaheim
+7949,6.875,419.207317073,5,Lower body,Kesler Ryan,F,2018/19,Anaheim
+7950,8.625,5364.329268293,51,Knee,Perry Corey,F,2018/19,Anaheim
+7951,3.789444,600.765512195,13,Ankle,Rakell Rickard,F,2018/19,Anaheim
+7953,1.64,40.0,2,Lower body,Ritchie Nick,F,2018/19,Anaheim
+7954,1.64,80.0,4,Upper body,Ritchie Nick,F,2018/19,Anaheim
+7955,1.64,120.0,6,Upper body,Ritchie Nick,F,2018/19,Anaheim
+7956,1.133333,276.422682927,20,Upper body,Rowney Carter,F,2018/19,Anaheim
+7957,2.3,56.097560976000004,2,Knee,Shore Devin,F,2018/19,Anaheim
+7958,3.75,228.658536585,5,Finger,Silfverberg Jakob,F,2018/19,Anaheim
+7959,3.75,182.926829268,4,Lower body,Silfverberg Jakob,F,2018/19,Anaheim
+7960,1.491666,54.573146341000005,3,Leg,Terry Troy,F,2018/19,Anaheim
+7961,6.5,1823.1707317070002,23,Facial,Fowler Cam,D,2018/19,Anaheim
+7962,0.888333,151.666609756,14,Oblique,Guhle Brendan,D,2018/19,Anaheim
+7963,0.9,460.975609756,42,Wrist,Holzer Korbinian,D,2018/19,Anaheim
+7964,0.894166,43.617853659,4,Charley horse,Larsson Jacob,D,2018/19,Anaheim
+7965,5.205556,380.89434146300005,6,Lower body,Lindholm Hampus,D,2018/19,Anaheim
+7967,4.1,200.0,4,Upper body,Manson Josh,D,2018/19,Anaheim
+7969,2.3,252.43902439,9,Upper body,Gibson John,G,2018/19,Anaheim
+7970,1.75,554.87804878,26,Head,Johnson Chad,G,2018/19,Anaheim
+7971,2.0,585.365853659,24,Knee,Miller Ryan,G,2018/19,Anaheim
+7972,2.0,24.390243901999998,1,Lower body,Miller Ryan,G,2018/19,Anaheim
+7973,0.675,32.926829268,4,Upper body,Archibald Josh,F,2018/19,Arizona/Phoenix
+7974,1.106667,53.983756098,4,Lower body,Dvorak Christian,F,2018/19,Arizona/Phoenix
+7975,1.106667,782.764463415,58,Pectoral,Dvorak Christian,F,2018/19,Arizona/Phoenix
+7976,4.9,179.268292683,3,Lower body,Galchenyuk Alex,F,2018/19,Arizona/Phoenix
+7977,4.9,418.292682927,7,Lower body,Galchenyuk Alex,F,2018/19,Arizona/Phoenix
+7978,3.35,1675.0,41,Eye,Grabner Michael,F,2018/19,Arizona/Phoenix
+7979,1.5,182.926829268,10,Lower body,Hinostroza Vinnie,F,2018/19,Arizona/Phoenix
+7980,0.7,17.073170732,2,Upper body,Kempe Mario,F,2018/19,Arizona/Phoenix
+7983,1.25,198.17073170700002,13,Upper body,Richardson Brad,F,2018/19,Arizona/Phoenix
+7984,1.541667,808.4351341460001,43,Lower body,Schmaltz Nick,F,2018/19,Arizona/Phoenix
+7985,6.5,792.6829268289999,10,Leg,Stepan Derek,F,2018/19,Arizona/Phoenix
+7986,5.5,5500.0,82,Lower body,Bolland Dave,"F ""retired""",2018/19,Arizona/Phoenix
+7987,5.275,5275.0,82,Skin infection,Hossa Marian,"F ""retired""",2018/19,Arizona/Phoenix
+7988,0.894166,305.32497561,28,Lower body,Capobianco Kyle,D,2018/19,Arizona/Phoenix
+7989,1.35,263.41463414599997,16,Knee,Chychrun Jakob,D,2018/19,Arizona/Phoenix
+7990,1.35,65.853658537,4,Lower body,Chychrun Jakob,D,2018/19,Arizona/Phoenix
+7991,1.35,32.926829268,2,Upper body,Chychrun Jakob,D,2018/19,Arizona/Phoenix
+7993,1.375,16.768292683,1,Lower body,Connauton Kevin,D,2018/19,Arizona/Phoenix
+7994,1.375,83.841463415,5,Lower body,Connauton Kevin,D,2018/19,Arizona/Phoenix
+7995,3.9375,2256.8597560979997,47,Knee,Demers Jason,D,2018/19,Arizona/Phoenix
+7996,5.5,67.073170732,1,Knee,Ekman-Larsson Oliver,D,2018/19,Arizona/Phoenix
+7998,5.475,333.841463415,5,Lower body,Goligoski Alex,D,2018/19,Arizona/Phoenix
+7999,0.65,7.926829268,1,Upper body,Oesterle Jordan,D,2018/19,Arizona/Phoenix
+8000,1.85,157.926829268,7,Lower body,Kuemper Darcy,G,2018/19,Arizona/Phoenix
+8001,1.85,22.56097561,1,Upper body,Kuemper Darcy,G,2018/19,Arizona/Phoenix
+8002,4.25,3057.926829268,59,Knee,Raanta Antti,G,2018/19,Arizona/Phoenix
+8003,4.25,362.804878049,7,Lower body,Raanta Antti,G,2018/19,Arizona/Phoenix
+8004,6.0,365.85365853699994,5,Upper body,Backes David,F,2018/19,Boston
+8005,6.875,1341.463414634,16,Sternoclavicular,Bergeron Patrice,F,2018/19,Boston
+8006,0.925,22.56097561,2,Lower body,Cehlarik Peter,F,2018/19,Boston
+8007,1.288333,141.40240243899999,9,Concussion,DeBrusk Jake,F,2018/19,Boston
+8008,1.288333,78.556890244,5,Foot,DeBrusk Jake,F,2018/19,Boston
+8010,2.75,335.36585365900004,10,Lung,Johansson Marcus,F,2018/19,Boston
+8011,1.275,31.097560976,2,Concussion,Kuraly Sean,F,2018/19,Boston
+8012,1.275,124.39024390200001,8,Hand,Kuraly Sean,F,2018/19,Boston
+8013,6.125,74.695121951,1,Upper body,Marchand Brad,F,2018/19,Boston
+8014,1.0,121.95121951200001,10,Leg,Nordstrom Joakim,F,2018/19,Boston
+8015,6.666666,1300.812878049,16,Thumb,Pastrnak David,F,2018/19,Boston
+8016,1.25,15.243902439000001,1,Lower body,Wagner Chris,F,2018/19,Boston
+8017,1.25,30.487804878000002,2,Lower body,Wagner Chris,F,2018/19,Boston
+8018,0.894167,98.14028048799999,9,Upper body,Carlo Brandon,D,2018/19,Boston
+8019,6.75,1564.024390244,19,Knee,Chara Zdeno,D,2018/19,Boston
+8020,1.4,136.585365854,8,Arm,Grzelcyk Matt,D,2018/19,Boston
+8021,1.4,34.146341463,2,Lower body,Grzelcyk Matt,D,2018/19,Boston
+8022,1.4,68.292682927,4,Lower body,Grzelcyk Matt,D,2018/19,Boston
+8023,5.25,704.268292683,11,Ankle,Krug Torey,D,2018/19,Boston
+8024,5.25,384.14634146300006,6,Concussion,Krug Torey,D,2018/19,Boston
+8025,1.258333,306.910487805,20,Concussion,McAvoy Charlie,D,2018/19,Boston
+8026,1.258333,107.41867073200001,7,Lower body,McAvoy Charlie,D,2018/19,Boston
+8027,2.5,396.341463415,13,Hand,Miller Kevan,D,2018/19,Boston
+8028,2.5,396.341463415,13,Larynx,Miller Kevan,D,2018/19,Boston
+8029,2.5,30.487804878000002,1,Lower body,Miller Kevan,D,2018/19,Boston
+8030,2.5,487.804878049,16,Upper body,Miller Kevan,D,2018/19,Boston
+8031,2.75,100.60975609799999,3,Lower body,Moore John,D,2018/19,Boston
+8032,2.75,201.219512195,6,Upper body,Moore John,D,2018/19,Boston
+8033,1.333333,422.764121951,26,Concussion,Vaakanainen Urho,D,2018/19,Boston
+8034,7.0,85.365853659,1,Concussion,Rask Tuukka,G,2018/19,Boston
+8036,3.85,234.756097561,5,Upper body,Berglund Patrik,F,2018/19,Buffalo
+8037,10.0,365.85365853699994,3,Upper body,Eichel Jack,F,2018/19,Buffalo
+8038,1.6,78.048780488,4,Upper body,Girgensons Zemgus,F,2018/19,Buffalo
+8039,1.475,53.963414633999996,3,Foot,Larsson Johan,F,2018/19,Buffalo
+8040,1.475,35.975609756,2,Upper body,Larsson Johan,F,2018/19,Buffalo
+8042,1.491666,36.382097561,2,Lower body,Mittelstadt Casey,F,2018/19,Buffalo
+8043,1.7133330000000002,41.788609756,2,Leg,Nylander Alexander,F,2018/19,Buffalo
+8044,6.0,292.682926829,4,Concussion,Okposo Kyle,F,2018/19,Buffalo
+8047,0.65,15.853658537000001,2,Upper body,Rodrigues Evan,F,2018/19,Buffalo
+8048,3.0,146.341463415,4,Upper body,Sheary Conor,F,2018/19,Buffalo
+8049,3.5,128.048780488,3,Upper body,Sobotka Vladimir,F,2018/19,Buffalo
+8050,3.5,213.414634146,5,Upper body,Sobotka Vladimir,F,2018/19,Buffalo
+8051,1.05,550.609756098,43,Ankle,Wilson Scott,F,2018/19,Buffalo
+8053,2.4,117.07317073200001,4,Upper body,Beaulieu Nathan,D,2018/19,Buffalo
+8054,5.142857,62.717768293,1,Lower body,Bogosian Zach,D,2018/19,Buffalo
+8055,5.142857,125.435536585,2,Lower body,Bogosian Zach,D,2018/19,Buffalo
+8056,5.142857,313.588841463,5,Lower body,Bogosian Zach,D,2018/19,Buffalo
+8057,5.142857,501.74214634099997,8,Lower body,Bogosian Zach,D,2018/19,Buffalo
+8058,5.142857,62.717768293,1,Upper body,Bogosian Zach,D,2018/19,Buffalo
+8059,2.25,27.43902439,1,Lower body,Hunwick Matt,D,2018/19,Buffalo
+8060,2.25,82.317073171,3,Lower body,Hunwick Matt,D,2018/19,Buffalo
+8061,2.25,878.048780488,32,Neck,Hunwick Matt,D,2018/19,Buffalo
+8062,2.25,246.951219512,9,Upper body,Hunwick Matt,D,2018/19,Buffalo
+8063,1.6,19.512195122,1,Upper body,McCabe Jake,D,2018/19,Buffalo
+8064,1.6,175.609756098,9,Upper body,McCabe Jake,D,2018/19,Buffalo
+8065,1.6,253.658536585,13,Upper body,McCabe Jake,D,2018/19,Buffalo
+8066,0.8125,287.347560976,29,Upper body,Nelson Casey,D,2018/19,Buffalo
+8067,1.35,49.390243901999995,3,Lower body,Pilut Lawrence,D,2018/19,Buffalo
+8069,4.0,48.780487805,1,Lower body,Scandella Marco,D,2018/19,Buffalo
+8070,4.0,195.12195122,4,Lower body,Scandella Marco,D,2018/19,Buffalo
+8071,4.0,48.780487805,1,Upper body,Scandella Marco,D,2018/19,Buffalo
+8072,4.0,195.12195122,4,Upper body,Scandella Marco,D,2018/19,Buffalo
+8073,4.0,390.243902439,8,Vertigo,Scandella Marco,D,2018/19,Buffalo
+8074,2.75,33.536585366,1,Upper body,Hutton Carter,G,2018/19,Buffalo
+8076,5.35,260.975609756,4,Concussion,Backlund Mikael,F,2018/19,Calgary
+8077,1.95,47.56097561,2,Upper body,Bennett Sam,F,2018/19,Calgary
+8078,1.95,118.902439024,5,Upper body,Bennett Sam,F,2018/19,Calgary
+8079,0.910833,44.43087804899999,4,Concussion,Dube Dillon,F,2018/19,Calgary
+8080,0.910833,11.107719512000001,1,Lower body,Dube Dillon,F,2018/19,Calgary
+8081,4.3,786.585365854,15,Lower body,Frolik Michael,F,2018/19,Calgary
+8086,5.75,1192.0731707319999,17,Lower body,Neal James,F,2018/19,Calgary
+8087,5.75,70.12195122,1,Upper body,Neal James,F,2018/19,Calgary
+8089,3.857143,376.30663414599996,8,Facial,Hamonic Travis,D,2018/19,Calgary
+8090,3.857143,47.038329268000005,1,Lower body,Hamonic Travis,D,2018/19,Calgary
+8093,3.5,2091.463414634,49,Blood clots,Stone Michael,D,2018/19,Calgary
+8094,1.319166,450.446926829,28,Lower body,Valimaki Juuso,D,2018/19,Calgary
+8095,0.8,19.512195122,2,Lower body,Rittich David,G,2018/19,Calgary
+8097,0.713333,69.593463415,8,Lower body,Bishop Clark,F,2018/19,Carolina
+8098,1.75,21.341463415,1,Back,Ferland Micheal,F,2018/19,Carolina
+8099,1.75,85.365853659,4,Concussion,Ferland Micheal,F,2018/19,Carolina
+8100,1.75,21.341463415,1,Upper body,Ferland Micheal,F,2018/19,Carolina
+8101,1.75,42.682926829,2,Upper body,Ferland Micheal,F,2018/19,Carolina
+8102,1.75,64.024390244,3,Upper body,Ferland Micheal,F,2018/19,Carolina
+8103,4.0,975.609756098,20,Hand,Rask Victor,F,2018/19,Carolina
+8104,6.0,365.85365853699994,5,Concussion,Staal Jordan,F,2018/19,Carolina
+8105,6.0,1975.609756098,27,Concussion,Staal Jordan,F,2018/19,Carolina
+8106,4.55,166.463414634,3,Eye,de Haan Calvin,D,2018/19,Carolina
+8107,4.55,110.975609756,2,Upper body,de Haan Calvin,D,2018/19,Carolina
+8108,4.55,166.463414634,3,Upper body,de Haan Calvin,D,2018/19,Carolina
+8109,1.7133330000000002,62.682914634,3,Concussion,Fleury Haydn,D,2018/19,Carolina
+8110,1.7133330000000002,188.048743902,9,Concussion,Fleury Haydn,D,2018/19,Carolina
+8111,4.025,441.768292683,9,Lower body,Pesce Brett,D,2018/19,Carolina
+8112,4.15,404.87804878,8,Lower body,Darling Scott,G,2018/19,Carolina
+8113,0.85,41.463414634,4,Knee,McElhinney Curtis,G,2018/19,Carolina
+8114,0.85,51.829268293,5,Lower body,McElhinney Curtis,G,2018/19,Carolina
+8115,1.5,164.634146341,9,Lower body,Mrazek Petr,G,2018/19,Carolina
+8116,4.55,221.951219512,4,Concussion,Anisimov Artem,F,2018/19,Chicago
+8117,1.5,237.80487804900002,13,Concussion,Caggiula Drake,F,2018/19,Chicago
+8118,0.925,22.56097561,2,Facial,Kampf David,F,2018/19,Chicago
+8119,0.925,135.365853659,12,Foot,Kampf David,F,2018/19,Chicago
+8121,2.775,135.365853659,4,Concussion,Kruger Marcus,F,2018/19,Chicago
+8122,2.775,101.524390244,3,Leg,Kruger Marcus,F,2018/19,Chicago
+8123,0.65,23.780487805,3,Back,Martinsen Andreas,F,2018/19,Chicago
+8124,1.363333,49.878036585,3,Concussion,Perlini Brendan,F,2018/19,Chicago
+8126,6.0,146.341463415,2,Arm,Saad Brandon,F,2018/19,Chicago
+8128,0.65,190.243902439,24,Leg,Davidson Brandon,D,2018/19,Chicago
+8129,0.925,67.682926829,6,Shoulder,Forsling Gustav,D,2018/19,Chicago
+8130,0.925,90.243902439,8,Torso,Forsling Gustav,D,2018/19,Chicago
+8131,0.925,90.243902439,8,Wrist,Forsling Gustav,D,2018/19,Chicago
+8134,3.85,1408.536585366,30,Back,Murphy Connor,D,2018/19,Chicago
+8135,6.875,251.52439024400002,3,Abdominal,Seabrook Brent,D,2018/19,Chicago
+8137,6.0,365.85365853699994,5,Concussion,Crawford Corey,G,2018/19,Chicago
+8138,6.0,2048.780487805,28,Concussion,Crawford Corey,G,2018/19,Chicago
+8139,6.0,73.170731707,1,Groin,Crawford Corey,G,2018/19,Chicago
+8141,3.0,146.341463415,4,Knee,Ward Cam,G,2018/19,Chicago
+8142,1.4,102.43902439,6,Lower body,Andrighetto Sven,F,2018/19,Colorado
+8143,1.0,195.12195122,16,Concussion,Compher J.T.,F,2018/19,Colorado
+8144,1.6733330000000002,81.626,4,Head,Jost Tyson,F,2018/19,Colorado
+8145,0.894167,567.0327317069999,52,Shoulder,Kamenev Vladislav,F,2018/19,Colorado
+8146,1.1375,55.487804878,4,Upper body,Kerfoot Alexander,F,2018/19,Colorado
+8147,5.571429,611.498304878,9,Shoulder,Landeskog Gabriel,F,2018/19,Colorado
+8148,1.975,48.170731707,2,Lower body,Nieto Matt,F,2018/19,Colorado
+8149,1.975,361.280487805,15,Lower body,Nieto Matt,F,2018/19,Colorado
+8151,3.9375,48.018292683,1,Lower body,Wilson Colin,F,2018/19,Colorado
+8152,3.9375,384.14634146300006,8,Shoulder,Wilson Colin,F,2018/19,Colorado
+8153,3.9375,384.14634146300006,8,Upper body,Wilson Colin,F,2018/19,Colorado
+8154,1.45,141.463414634,8,Head,Barberio Mark,D,2018/19,Colorado
+8155,1.45,335.975609756,19,Upper body,Barberio Mark,D,2018/19,Colorado
+8156,5.5,268.292682927,4,Lower body,Barrie Tyson,D,2018/19,Colorado
+8157,4.25,570.12195122,11,Orbital bone,Cole Ian,D,2018/19,Colorado
+8158,6.0,146.341463415,2,Concussion,Johnson Erik,D,2018/19,Colorado
+8159,2.5,60.975609756000004,2,Upper body,Nemeth Patrik,D,2018/19,Colorado
+8160,2.15,262.195121951,10,Lower body,Zadorov Nikita,D,2018/19,Colorado
+8161,2.15,26.219512195,1,Upper body,Zadorov Nikita,D,2018/19,Colorado
+8163,5.9,143.902439024,2,Lower body,Varlamov Semyon,G,2018/19,Colorado
+8164,5.875,71.646341463,1,Facial,Atkinson Cam,F,2018/19,Columbus
+8166,5.85,499.39024390199995,7,Hip,Dubinsky Brandon,F,2018/19,Columbus
+8167,5.85,285.36585365900004,4,Lower body,Dubinsky Brandon,F,2018/19,Columbus
+8168,5.85,713.414634146,10,Oblique,Dubinsky Brandon,F,2018/19,Columbus
+8170,0.675,49.390243901999995,6,Upper body,Hannikainen Markus,F,2018/19,Columbus
+8171,3.75,137.195121951,3,Ankle,Jenner Boone,F,2018/19,Columbus
+8177,6.0,73.170731707,1,Lower body,Panarin Artemi,F,2018/19,Columbus
+8178,0.675,16.463414634,2,Concussion,Harrington Scott,D,2018/19,Columbus
+8180,5.4,460.975609756,7,Knee,Jones Seth,D,2018/19,Columbus
+8181,2.75,167.682926829,5,Upper body,McQuaid Adam,D,2018/19,Columbus
+8183,2.825,34.451219512,1,Lower body,Murray Ryan,D,2018/19,Columbus
+8184,2.825,826.829268293,24,Upper body,Murray Ryan,D,2018/19,Columbus
+8187,7.425,90.54878048799999,1,Upper body,Bobrovsky Sergei,G,2018/19,Columbus
+8188,9.5,115.853658537,1,Upper body,Benn Jamie,F,2018/19,Dallas
+8189,9.5,231.70731707299998,2,Upper body,Benn Jamie,F,2018/19,Dallas
+8190,3.25,118.902439024,3,Upper body,Cogliano Andrew,F,2018/19,Dallas
+8192,2.4,87.804878049,3,Upper body,Comeau Blake,F,2018/19,Dallas
+8193,0.875,117.37804878,11,Back,Dickinson Jason,F,2018/19,Dallas
+8194,0.875,21.341463415,2,Lower body,Dickinson Jason,F,2018/19,Dallas
+8195,0.65,23.780487805,3,Upper body,Dowling Justin,F,2018/19,Dallas
+8196,2.2,26.829268293000002,1,Neck,Faksa Radek,F,2018/19,Dallas
+8197,4.75,57.926829268,1,Back,Hanzal Martin,F,2018/19,Dallas
+8198,4.75,1679.87804878,29,Back,Hanzal Martin,F,2018/19,Dallas
+8199,4.75,2606.707317073,45,Back,Hanzal Martin,F,2018/19,Dallas
+8201,2.95,71.951219512,2,Lower body,Nichushkin Valeri,F,2018/19,Dallas
+8202,2.95,107.92682926799999,3,Lower body,Nichushkin Valeri,F,2018/19,Dallas
+8203,2.95,107.92682926799999,3,Upper body,Nichushkin Valeri,F,2018/19,Dallas
+8205,1.0,365.85365853699994,30,Wrist,Pitlick Tyler,F,2018/19,Dallas
+8207,6.25,304.87804878,4,Lower body,Radulov Alexander,F,2018/19,Dallas
+8208,6.25,457.317073171,6,Lower body,Radulov Alexander,F,2018/19,Dallas
+8209,1.75,21.341463415,1,Hand,Ritchie Brett,F,2018/19,Dallas
+8210,1.75,42.682926829,2,Hand,Ritchie Brett,F,2018/19,Dallas
+8211,1.75,21.341463415,1,Upper body,Ritchie Brett,F,2018/19,Dallas
+8212,1.75,85.365853659,4,Upper body,Ritchie Brett,F,2018/19,Dallas
+8213,2.3,112.195121951,4,Lower body,Shore Devin,F,2018/19,Dallas
+8215,3.15,653.048780488,17,Arm,Zuccarello Mats,F,2018/19,Dallas
+8216,1.3,428.04878048800003,27,Foot,Carrick Connor,D,2018/19,Dallas
+8219,2.35,2350.0,82,Head,Johns Stephen,D,2018/19,Dallas
+8220,4.25,932.926829268,18,Hand,Klingberg John,D,2018/19,Dallas
+8221,4.9,119.51219512200001,2,Lower body,Methot Marc,D,2018/19,Dallas
+8222,4.9,4182.926829268,70,Lower body,Methot Marc,D,2018/19,Dallas
+8223,4.9,59.756097561000004,1,Soreness,Methot Marc,D,2018/19,Dallas
+8226,4.916666,119.918682927,2,Lower body,Bishop Ben,G,2018/19,Dallas
+8227,4.916666,239.837365854,4,Lower body,Bishop Ben,G,2018/19,Dallas
+8228,4.916666,299.796707317,5,Lower body,Bishop Ben,G,2018/19,Dallas
+8229,4.916666,359.75604878,6,Upper body,Bishop Ben,G,2018/19,Dallas
+8230,4.25,570.12195122,11,Leg,Abdelkader Justin,F,2018/19,Detroit
+8232,3.0,73.170731707,2,Upper body,Athanasiou Andreas,F,2018/19,Detroit
+8233,1.4,119.51219512200001,7,Upper body,Bertuzzi Tyler,F,2018/19,Detroit
+8234,0.9,98.780487805,9,Heart,De La Rose Jacob,F,2018/19,Detroit
+8235,0.9,32.926829268,3,Upper body,De La Rose Jacob,F,2018/19,Detroit
+8237,3.85,985.975609756,21,Upper body,Helm Darren,F,2018/19,Detroit
+8238,6.1,371.95121951199997,5,Neck,Larkin Dylan,F,2018/19,Detroit
+8239,6.1,74.390243902,1,Oblique,Larkin Dylan,F,2018/19,Detroit
+8240,3.3,603.658536585,15,Hand,Mantha Anthony,F,2018/19,Detroit
+8241,5.25,320.12195122,5,Concussion,Nielsen Frans,F,2018/19,Detroit
+8245,1.7108330000000003,208.63817073200002,10,Hamstring,Rasmussen Michael,F,2018/19,Detroit
+8246,1.7108330000000003,166.910536585,8,Upper body,Rasmussen Michael,F,2018/19,Detroit
+8247,3.0,109.756097561,3,Hip,Vanek Thomas,F,2018/19,Detroit
+8248,3.0,292.682926829,8,Lower body,Vanek Thomas,F,2018/19,Detroit
+8249,3.0,256.097560976,7,Mid-body,Vanek Thomas,F,2018/19,Detroit
+8250,3.9545449999999995,3954.545,82,Concussion,Franzen Johan,"F ""retired""",2018/19,Detroit
+8251,6.0833330000000005,6083.3330000000005,82,Back,Zetterberg Henrik,"F ""retired""",2018/19,Detroit
+8252,0.894166,21.808926829,2,Upper body,Cholowski Dennis,D,2018/19,Detroit
+8253,3.166666,77.235756098,2,Back,Daley Trevor,D,2018/19,Detroit
+8254,3.166666,424.796658537,11,Back,Daley Trevor,D,2018/19,Detroit
+8255,3.166666,617.88604878,16,Foot,Daley Trevor,D,2018/19,Detroit
+8256,3.166666,193.08939024400001,5,Lower body,Daley Trevor,D,2018/19,Detroit
+8257,3.166666,154.471512195,4,Upper body,Daley Trevor,D,2018/19,Detroit
+8258,5.0,487.804878049,8,Hand,DeKeyser Danny,D,2018/19,Detroit
+8259,5.0,1158.536585366,19,Hand,DeKeyser Danny,D,2018/19,Detroit
+8260,5.0,182.926829268,3,Lower body,DeKeyser Danny,D,2018/19,Detroit
+8261,4.25,259.146341463,5,Lower body,Ericsson Jonathan,D,2018/19,Detroit
+8263,4.25,362.804878049,7,Upper body,Ericsson Jonathan,D,2018/19,Detroit
+8266,5.375,852.134146341,13,Lower body,Green Mike,D,2018/19,Detroit
+8269,3.0,146.341463415,4,Upper body,Bernier Jonathan,G,2018/19,Detroit
+8270,5.291666,64.532512195,1,Back,Howard Jimmy,G,2018/19,Detroit
+8274,1.5,73.170731707,4,Hand,Caggiula Drake,F,2018/19,Edmonton
+8276,1.5,54.87804878,3,Lower body,Caggiula Drake,F,2018/19,Edmonton
+8277,0.65,23.780487805,3,Knee,Chiasson Alex,F,2018/19,Edmonton
+8278,1.95,23.780487805,1,Neck,Kassian Zack,F,2018/19,Edmonton
+8279,0.675,41.158536585,5,Foot,Khaira Jujhar,F,2018/19,Edmonton
+8282,6.0,146.341463415,2,Hip,Lucic Milan,F,2018/19,Edmonton
+8283,6.0,73.170731707,1,Lower body,Lucic Milan,F,2018/19,Edmonton
+8285,3.425,1044.207317073,25,Hip,Puljujarvi Jesse,F,2018/19,Edmonton
+8286,0.8,68.292682927,7,Mid-body,Rattie Ty,F,2018/19,Edmonton
+8287,2.0,317.073170732,13,Upper body,Rieder Tobias,F,2018/19,Edmonton
+8289,1.124166,109.674731707,8,Upper body,Yamamoto Kailer,F,2018/19,Edmonton
+8291,1.9,92.682926829,4,Upper body,Benning Matt,D,2018/19,Edmonton
+8293,4.167,1067.158536585,21,Hand,Klefbom Oscar,D,2018/19,Edmonton
+8294,1.95,142.682926829,6,Concussion,Petrovic Alex,D,2018/19,Edmonton
+8295,4.0,487.804878049,10,Groin,Russell Kris,D,2018/19,Edmonton
+8296,5.5,3890.243902439,58,Achilles,Sekera Andrej,D,2018/19,Edmonton
+8297,4.1,800.0,16,Upper body,Bjugstad Nick,F,2018/19,Florida
+8298,3.0,36.585365854,1,Upper body,Brassard Derick,F,2018/19,Florida
+8300,0.925,45.12195122,4,Lower body,Hawryluk Jayce,F,2018/19,Florida
+8301,1.375,1358.231707317,81,Shoulder,MacKenzie Derek,F,2018/19,Florida
+8303,0.693333,50.731682927,6,Upper body,Malgin Denis,F,2018/19,Florida
+8304,1.25,15.243902439000001,1,Upper body,McCann Jared,F,2018/19,Florida
+8305,3.333333,1951.219317073,48,Back,McGinn Jamie,F,2018/19,Florida
+8307,1.2,248.780487805,17,Hand,Sceviour Colton,F,2018/19,Florida
+8308,4.75,1564.024390244,27,Ankle,Trocheck Vincent,F,2018/19,Florida
+8309,0.925,22.56097561,2,Jaw,Kiselevich Bogdan,D,2018/19,Florida
+8310,4.875,237.80487804900002,4,Lower body,Matheson Mike,D,2018/19,Florida
+8311,2.733333,199.99997561,6,Upper body,Pysyk Mark,D,2018/19,Florida
+8312,0.9,43.902439023999996,4,Concussion,Weegar MacKenzie,D,2018/19,Florida
+8313,0.9,43.902439023999996,4,Lower body,Weegar MacKenzie,D,2018/19,Florida
+8314,0.9,32.926829268,3,Shoulder,Weegar MacKenzie,D,2018/19,Florida
+8315,0.9,76.829268293,7,Upper body,Weegar MacKenzie,D,2018/19,Florida
+8316,4.533333,442.276390244,8,Knee,Luongo Roberto,G,2018/19,Florida
+8317,4.533333,276.422743902,5,Lower body,Luongo Roberto,G,2018/19,Florida
+8318,3.4,207.31707317099998,5,Lower body,Reimer James,G,2018/19,Florida
+8319,0.65,467.682926829,59,Shoulder,Brodzinski Jonny,F,2018/19,Los Angeles
+8320,5.875,716.463414634,10,Finger,Brown Dustin,F,2018/19,Los Angeles
+8321,5.272727,321.507743902,5,Lower body,Carter Jeff,F,2018/19,Los Angeles
+8322,5.272727,64.30154878,1,Upper body,Carter Jeff,F,2018/19,Los Angeles
+8323,1.6,136.585365854,7,Upper body,Clifford Kyle,F,2018/19,Los Angeles
+8324,3.75,914.634146341,20,Knee,Hagelin Carl,F,2018/19,Los Angeles
+8325,0.894167,10.90447561,1,Upper body,Kempe Adrian,F,2018/19,Los Angeles
+8327,6.25,762.195121951,10,Ankle,Kovalchuk Ilya,F,2018/19,Los Angeles
+8328,6.25,76.219512195,1,Upper body,Kovalchuk Ilya,F,2018/19,Los Angeles
+8329,0.65,71.341463415,9,Lower body,Leipsic Brendan,F,2018/19,Los Angeles
+8330,2.0,926.829268293,38,Foot,Lewis Trevor,F,2018/19,Los Angeles
+8331,1.063333,12.96747561,1,Lower body,Scherbak Nikita,F,2018/19,Los Angeles
+8333,0.925,45.12195122,4,Lower body,Wagner Austin,F,2018/19,Los Angeles
+8334,0.925,11.280487805,1,Upper body,Wagner Austin,F,2018/19,Los Angeles
+8335,0.65,23.780487805,3,Lower body,Fantenberg Oscar,D,2018/19,Los Angeles
+8336,0.825,50.304878048999996,5,Upper body,LaDue Paul,D,2018/19,Los Angeles
+8337,0.675,24.695121950999997,3,Upper body,MacDermid Kurtis,D,2018/19,Los Angeles
+8338,4.0,390.243902439,8,Upper body,Martinez Alec,D,2018/19,Los Angeles
+8339,4.0,682.926829268,14,Upper body,Martinez Alec,D,2018/19,Los Angeles
+8340,5.25,448.17073170699996,7,Upper body,Phaneuf Dion,D,2018/19,Los Angeles
+8341,0.745,18.170731707,2,Facial,Walker Sean,D,2018/19,Los Angeles
+8342,0.675,189.32926829299998,23,Knee,Campbell Jack,G,2018/19,Los Angeles
+8343,5.8,919.512195122,13,Knee,Quick Jonathan,G,2018/19,Los Angeles
+8344,5.8,353.658536585,5,Lower body,Quick Jonathan,G,2018/19,Los Angeles
+8345,0.65,63.414634146000004,8,Lower body,Aberg Pontus,F,2018/19,Minnesota
+8347,1.106667,80.975634146,6,Lower body,Eriksson Ek Joel,F,2018/19,Minnesota
+8348,1.106667,94.471573171,7,Lower body,Eriksson Ek Joel,F,2018/19,Minnesota
+8351,0.7,51.219512195,6,Leg,Hendricks Matt,F,2018/19,Minnesota
+8353,0.7,25.609756098000002,3,Upper body,Hendricks Matt,F,2018/19,Minnesota
+8354,5.5,1945.12195122,29,Knee,Koivu Mikko,F,2018/19,Minnesota
+8355,5.5,268.292682927,4,Lower body,Koivu Mikko,F,2018/19,Minnesota
+8356,1.425,34.756097561,2,Upper body,Kunin Luke,F,2018/19,Minnesota
+8357,7.538461999999999,91.932463415,1,Foot,Parise Zach,F,2018/19,Minnesota
+8360,7.538461999999999,367.729853659,4,Lower body,Parise Zach,F,2018/19,Minnesota
+8361,4.0,585.365853659,12,Lower body,Rask Victor,F,2018/19,Minnesota
+8364,6.0,3658.5365853659996,50,Pectoral,Dumba Matt,D,2018/19,Minnesota
+8366,0.725,17.682926829,2,Upper body,Seeler Nick,D,2018/19,Minnesota
+8368,1.85,564.024390244,25,Knee,Armia Joel,F,2018/19,Montreal
+8369,1.166667,85.365878049,6,Arm,Byron Paul,F,2018/19,Montreal
+8370,1.166667,199.18704878,14,Lower body,Byron Paul,F,2018/19,Montreal
+8371,1.166667,28.455292683000003,2,Upper body,Byron Paul,F,2018/19,Montreal
+8372,1.166667,14.227646341,1,Wrist,Byron Paul,F,2018/19,Montreal
+8373,0.9,65.853658537,6,Heart,De La Rose Jacob,F,2018/19,Montreal
+8374,0.95,69.512195122,6,Facial,Deslauriers Nicolas,F,2018/19,Montreal
+8376,3.5,426.82926829300004,10,Back,Plekanec Tomas,F,2018/19,Montreal
+8377,1.063333,103.73980487799999,8,Lower body,Scherbak Nikita,F,2018/19,Montreal
+8379,3.9,713.414634146,15,Neck,Shaw Andrew,F,2018/19,Montreal
+8382,1.063333,116.707280488,9,Facial,Juulsen Noah,D,2018/19,Montreal
+8383,1.063333,25.93495122,2,Upper body,Juulsen Noah,D,2018/19,Montreal
+8384,0.87,21.219512195,2,Hand,Mete Victor,D,2018/19,Montreal
+8385,2.1,409.756097561,16,Knee,Schlemko David,D,2018/19,Montreal
+8386,2.1,179.268292683,7,Upper body,Schlemko David,D,2018/19,Montreal
+8387,7.857142999999999,2299.651609756,24,Knee,Weber Shea,D,2018/19,Montreal
+8389,10.5,384.14634146300006,3,Lower body,Price Carey,G,2018/19,Montreal
+8390,4.25,155.487804878,3,Lower body,Arvidsson Viktor,F,2018/19,Nashville
+8391,4.25,1088.414634146,21,Thumb,Arvidsson Viktor,F,2018/19,Nashville
+8393,2.55,31.097560976,1,Lower body,Boyle Brian,F,2018/19,Nashville
+8394,6.0,73.170731707,1,Upper body,Forsberg Filip,F,2018/19,Nashville
+8395,6.0,1243.902439024,17,Upper body,Forsberg Filip,F,2018/19,Nashville
+8396,0.65,47.56097561,6,Upper body,Grimaldi Rocco,F,2018/19,Nashville
+8397,2.0,73.170731707,3,Lower body,Jarnkrok Calle,F,2018/19,Nashville
+8398,0.65,15.853658537000001,2,Lower body,Rinaldo Zac,F,2018/19,Nashville
+8399,0.65,237.80487804900002,30,Shoulder,Rinaldo Zac,F,2018/19,Nashville
+8400,0.75,310.975609756,34,Upper body,Salomaki Miikka,F,2018/19,Nashville
+8401,0.625,53.353658537,7,Ankle,Sissons Colton,F,2018/19,Nashville
+8402,4.25,310.975609756,6,Lower body,Smith Craig,F,2018/19,Nashville
+8403,6.0,1243.902439024,17,Lower body,Turris Kyle,F,2018/19,Nashville
+8406,1.25,137.195121951,9,Lower body,Hamhuis Dan,D,2018/19,Nashville
+8407,1.25,213.414634146,14,Lower body,Hamhuis Dan,D,2018/19,Nashville
+8408,9.0,2085.365853659,19,Upper body,Subban P.K.,D,2018/19,Nashville
+8410,0.675,8.231707317,1,Upper body,Weber Yannick,D,2018/19,Nashville
+8413,0.925,372.256097561,33,Ankle,Anderson Joey,F,2018/19,New Jersey
+8414,0.905,154.512195122,14,Upper body,Bastian Nathan,F,2018/19,New Jersey
+8415,2.55,155.487804878,5,Upper body,Boyle Brian,F,2018/19,New Jersey
+8417,0.825,130.79268292700002,13,Jaw,Bratt Jesper,F,2018/19,New Jersey
+8418,0.825,20.12195122,2,Lower body,Bratt Jesper,F,2018/19,New Jersey
+8419,0.825,150.914634146,15,Lower body,Bratt Jesper,F,2018/19,New Jersey
+8420,1.8,87.804878049,4,Upper body,Coleman Blake,F,2018/19,New Jersey
+8423,0.65,23.780487805,3,Upper body,Gabriel Kurtis,F,2018/19,New Jersey
+8424,6.0,3439.024390244,47,Knee,Hall Taylor,F,2018/19,New Jersey
+8425,6.0,146.341463415,2,Lower body,Hall Taylor,F,2018/19,New Jersey
+8426,3.775,184.146341463,4,Upper body,Hischier Nico,F,2018/19,New Jersey
+8427,3.775,414.32926829300004,9,Upper body,Hischier Nico,F,2018/19,New Jersey
+8429,4.5833330000000005,55.894304878,1,Lower body,Johansson Marcus,F,2018/19,New Jersey
+8430,4.5833330000000005,558.94304878,10,Upper body,Johansson Marcus,F,2018/19,New Jersey
+8432,1.725,483.841463415,23,Lower body,Noesen Stefan,F,2018/19,New Jersey
+8433,1.725,21.036585366,1,Upper body,Noesen Stefan,F,2018/19,New Jersey
+8434,1.725,84.146341463,4,Upper body,Noesen Stefan,F,2018/19,New Jersey
+8435,4.65,170.12195122,3,Lower body,Palmieri Kyle,F,2018/19,New Jersey
+8436,4.65,226.82926829299998,4,Lower body,Palmieri Kyle,F,2018/19,New Jersey
+8437,4.65,56.707317073,1,Upper body,Palmieri Kyle,F,2018/19,New Jersey
+8438,0.894167,21.80895122,2,Upper body,Quenneville John,F,2018/19,New Jersey
+8439,0.894167,43.617902439,4,Upper body,Quenneville John,F,2018/19,New Jersey
+8442,0.81,39.512195122,4,Upper body,Stafford Drew,F,2018/19,New Jersey
+8443,2.75,402.43902439,12,Ankle,Wood Miles,F,2018/19,New Jersey
+8444,2.75,134.146341463,4,Arm,Wood Miles,F,2018/19,New Jersey
+8445,2.75,100.60975609799999,3,Lower body,Wood Miles,F,2018/19,New Jersey
+8446,1.7441669999999998,340.32526829299997,16,Upper body,Zacha Pavel,F,2018/19,New Jersey
+8447,5.75,70.12195122,1,Lower body,Zajac Travis,F,2018/19,New Jersey
+8449,3.775,46.036585366000004,1,Lower body,Butcher Will,D,2018/19,New Jersey
+8450,2.666667,97.560987805,3,Lower body,Lovejoy Ben,D,2018/19,New Jersey
+8451,2.666667,195.12197561,6,Upper body,Lovejoy Ben,D,2018/19,New Jersey
+8452,0.85,114.024390244,11,Shoulder,Mueller Mirco,D,2018/19,New Jersey
+8453,1.416666,310.975463415,18,Jaw,Santini Steven,D,2018/19,New Jersey
+8454,4.875,832.3170731710001,14,Concussion,Vatanen Sami,D,2018/19,New Jersey
+8457,4.875,178.353658537,3,Lower body,Vatanen Sami,D,2018/19,New Jersey
+8459,0.925,22.56097561,2,Upper body,Yakovlev Egor,D,2018/19,New Jersey
+8460,0.913333,33.414621951,3,Lower body,Blackwood Mackenzie,G,2018/19,New Jersey
+8461,6.0,1243.902439024,17,Abdominal,Schneider Cory,G,2018/19,New Jersey
+8462,6.0,585.365853659,8,Hip,Schneider Cory,G,2018/19,New Jersey
+8464,3.35,40.853658537,1,Lower body,Cizikas Casey,F,2018/19,NY Islanders
+8465,3.35,81.707317073,2,Lower body,Cizikas Casey,F,2018/19,NY Islanders
+8466,3.35,245.12195122,6,Lower body,Cizikas Casey,F,2018/19,NY Islanders
+8468,3.5,42.682926829,1,Lower body,Clutterbuck Cal,F,2018/19,NY Islanders
+8470,3.5,85.365853659,2,Upper body,Clutterbuck Cal,F,2018/19,NY Islanders
+8471,3.5,128.048780488,3,Upper body,Clutterbuck Cal,F,2018/19,NY Islanders
+8472,6.0,292.682926829,4,Upper body,Eberle Jordan,F,2018/19,NY Islanders
+8473,2.75,67.073170732,2,Upper body,Filppula Valtteri,F,2018/19,NY Islanders
+8474,2.75,268.292682927,8,Upper body,Filppula Valtteri,F,2018/19,NY Islanders
+8475,0.65,39.634146341,5,Hand,Fritz Tanner,F,2018/19,NY Islanders
+8478,5.5,402.43902439,6,Knee,Ladd Andrew,F,2018/19,NY Islanders
+8479,5.5,2951.219512195,44,Leg,Ladd Andrew,F,2018/19,NY Islanders
+8481,2.5,121.95121951200001,4,Upper body,Martin Matt,F,2018/19,NY Islanders
+8482,2.5,304.87804878,10,Upper body,Martin Matt,F,2018/19,NY Islanders
+8483,6.0,146.341463415,2,Concussion,Boychuk Johnny,D,2018/19,NY Islanders
+8484,2.5,884.146341463,29,Upper body,Hickey Thomas,D,2018/19,NY Islanders
+8486,1.5,18.292682927,1,Back,Lehner Robin,G,2018/19,NY Islanders
+8488,1.5,54.87804878,3,Upper body,Lehner Robin,G,2018/19,NY Islanders
+8490,0.925,11.280487805,1,Concussion,Buchnevich Pavel,F,2018/19,NY Rangers
+8491,0.925,146.646341463,13,Thumb,Buchnevich Pavel,F,2018/19,NY Rangers
+8494,1.85,112.804878049,5,Upper body,Fast Jesper,F,2018/19,NY Rangers
+8495,1.85,225.609756098,10,Upper body,Fast Jesper,F,2018/19,NY Rangers
+8496,5.175,567.987804878,9,Upper body,Hayes Kevin,F,2018/19,NY Rangers
+8497,0.863333,157.92676829299998,15,Knee,Howden Brett,F,2018/19,NY Rangers
+8499,4.625,169.20731707299998,3,Lower body,Kreider Chris,F,2018/19,NY Rangers
+8500,0.75,128.048780488,14,Hand,McLeod Cody,F,2018/19,NY Rangers
+8501,4.0,146.341463415,3,Concussion,Namestnikov Vladislav,F,2018/19,NY Rangers
+8502,4.0,48.780487805,1,Lower body,Spooner Ryan,F,2018/19,NY Rangers
+8503,4.5,54.87804878,1,Foot,Zuccarello Mats,F,2018/19,NY Rangers
+8504,4.5,164.634146341,3,Groin,Zuccarello Mats,F,2018/19,NY Rangers
+8505,4.5,384.14634146300006,7,Groin,Zuccarello Mats,F,2018/19,NY Rangers
+8506,0.7,110.975609756,13,Shoulder,Claesson Fredrik,D,2018/19,NY Rangers
+8507,0.7,76.829268293,9,Upper body,Claesson Fredrik,D,2018/19,NY Rangers
+8508,1.263333,15.4065,1,Lower body,DeAngelo Tony,D,2018/19,NY Rangers
+8509,0.894166,152.662487805,14,Shoulder,Hajek Libor,D,2018/19,NY Rangers
+8510,2.75,704.268292683,21,Lower body,McQuaid Adam,D,2018/19,NY Rangers
+8512,1.775,21.646341463000002,1,Eye,Pionk Neal,D,2018/19,NY Rangers
+8513,1.775,21.646341463000002,1,Lower body,Pionk Neal,D,2018/19,NY Rangers
+8514,1.775,64.93902439,3,Lower body,Pionk Neal,D,2018/19,NY Rangers
+8515,6.65,567.682926829,7,Shoulder,Shattenkirk Kevin,D,2018/19,NY Rangers
+8516,5.25,64.024390244,1,Knee,Skjei Brady,D,2018/19,NY Rangers
+8517,4.35,106.097560976,2,Upper body,Smith Brendan,D,2018/19,NY Rangers
+8519,5.7,139.024390244,2,Lower body,Staal Marc,D,2018/19,NY Rangers
+8521,4.0,341.463414634,7,Mid-body,Boedker Mikkel,F,2018/19,Ottawa
+8522,6.0,439.024390244,6,Groin,Duchene Matt,F,2018/19,Ottawa
+8523,1.8,43.902439023999996,2,Lower body,Dzingel Ryan,F,2018/19,Ottawa
+8524,0.894166,32.713390244,3,Concussion,Formenton Alex,F,2018/19,Ottawa
+8525,4.875,4875.0,82,Back,Gaborik Marian,F,2018/19,Ottawa
+8526,0.65,55.487804878,7,Lower body,McCormick Max,F,2018/19,Ottawa
+8527,0.9,21.951219511999998,2,Upper body,Paajarvi Magnus,F,2018/19,Ottawa
+8528,3.1,1587.8048780489999,42,Achilles,Pageau Jean-Gabriel,F,2018/19,Ottawa
+8529,0.7075,34.512195122,4,Abdominal,Rodewald Jack,F,2018/19,Ottawa
+8530,7.25,265.243902439,3,Concussion,Ryan Bobby,F,2018/19,Ottawa
+8532,3.25,118.902439024,3,Back,Smith Zack,F,2018/19,Ottawa
+8533,3.25,356.707317073,9,Facial,Smith Zack,F,2018/19,Ottawa
+8535,3.425,83.536585366,2,Groin,Tkachuk Brady,F,2018/19,Ottawa
+8536,3.425,375.91463414599997,9,Leg,Tkachuk Brady,F,2018/19,Ottawa
+8537,1.491666,90.955243902,5,Neck,White Colin,F,2018/19,Ottawa
+8538,1.491666,90.955243902,5,Shoulder,White Colin,F,2018/19,Ottawa
+8541,1.2,87.804878049,6,Foot,Borowiecki Mark,D,2018/19,Ottawa
+8542,1.2,175.609756098,12,Hand,Borowiecki Mark,D,2018/19,Ottawa
+8544,1.2,14.634146341,1,Lower body,Borowiecki Mark,D,2018/19,Ottawa
+8545,1.2,14.634146341,1,Upper body,Borowiecki Mark,D,2018/19,Ottawa
+8546,1.2,58.536585366000004,4,Upper body,Borowiecki Mark,D,2018/19,Ottawa
+8547,4.3,157.317073171,3,Upper body,Ceci Cody,D,2018/19,Ottawa
+8548,4.3,209.756097561,4,Upper body,Ceci Cody,D,2018/19,Ottawa
+8549,1.223333,59.674780488,4,Toe,Chabot Thomas,D,2018/19,Ottawa
+8550,1.223333,119.349560976,8,Upper body,Chabot Thomas,D,2018/19,Ottawa
+8551,0.9,54.87804878,5,Upper body,DeMelo Dylan,D,2018/19,Ottawa
+8552,0.65,95.12195122,12,Concussion,Falk Justin,D,2018/19,Ottawa
+8554,0.725,35.365853659,4,Shoulder,Harpur Ben,D,2018/19,Ottawa
+8558,0.801667,29.329280488000002,3,Finger,Jaros Christian,D,2018/19,Ottawa
+8559,0.801667,39.105707317,4,Hamstring,Jaros Christian,D,2018/19,Ottawa
+8560,0.801667,19.552853659,2,Lower body,Jaros Christian,D,2018/19,Ottawa
+8561,0.801667,39.105707317,4,Lower body,Jaros Christian,D,2018/19,Ottawa
+8563,1.0,12.195121950999999,1,Lower body,Wideman Chris,D,2018/19,Ottawa
+8564,4.75,637.195121951,11,Concussion,Anderson Craig,G,2018/19,Ottawa
+8565,4.75,173.780487805,3,Eye,Anderson Craig,G,2018/19,Ottawa
+8566,4.3333330000000005,105.69104878,2,Lower body,Couturier Sean,F,2018/19,Philadelphia
+8568,0.65,348.780487805,44,Collarbone,Knight Corban,F,2018/19,Philadelphia
+8569,0.65,39.634146341,5,Upper body,Knight Corban,F,2018/19,Philadelphia
+8570,3.575,43.597560976000004,1,Upper body,Patrick Nolan,F,2018/19,Philadelphia
+8571,3.575,87.195121951,2,Upper body,Patrick Nolan,F,2018/19,Philadelphia
+8572,3.575,130.79268292700002,3,Upper body,Patrick Nolan,F,2018/19,Philadelphia
+8573,3.575,174.390243902,4,Upper body,Patrick Nolan,F,2018/19,Philadelphia
+8575,2.35,401.219512195,14,Lower body,Raffl Michael,F,2018/19,Philadelphia
+8576,7.0,1365.853658537,16,Lower body,van Riemsdyk James,F,2018/19,Philadelphia
+8577,8.25,201.219512195,2,Lower body,Voracek Jakub,F,2018/19,Philadelphia
+8578,4.5,164.634146341,3,Lower body,Gostisbehere Shayne,D,2018/19,Philadelphia
+8580,5.0,365.85365853699994,6,Lower body,MacDonald Andrew,D,2018/19,Philadelphia
+8583,2.75,1341.463414634,40,Lower body,Elliott Brian,G,2018/19,Philadelphia
+8585,0.863333,73.699158537,7,Ankle,Hart Carter,G,2018/19,Philadelphia
+8586,0.75,9.146341462999999,1,Lower body,Lyon Alex,G,2018/19,Philadelphia
+8587,2.5,274.390243902,9,Groin,Neuvirth Michal,G,2018/19,Philadelphia
+8588,2.5,1280.4878048780001,42,Lower body,Neuvirth Michal,G,2018/19,Philadelphia
+8590,0.76125,148.536585366,16,Lower body,Stolarz Anthony,G,2018/19,Philadelphia
+8591,0.925,146.646341463,13,Hand,Aston-Reese Zach,F,2018/19,Pittsburgh
+8592,0.925,146.646341463,13,Lower body,Aston-Reese Zach,F,2018/19,Pittsburgh
+8593,3.0,329.26829268299997,9,Lower body,Brassard Derick,F,2018/19,Pittsburgh
+8594,3.0,36.585365854,1,Upper body,Brassard Derick,F,2018/19,Pittsburgh
+8595,8.7,318.292682927,3,Upper body,Crosby Sidney,F,2018/19,Pittsburgh
+8596,0.65,87.195121951,11,Lower body,Cullen Matt,F,2018/19,Pittsburgh
+8598,5.3,193.90243902400002,3,Concussion,Hornqvist Patric,F,2018/19,Pittsburgh
+8599,5.3,258.536585366,4,Concussion,Hornqvist Patric,F,2018/19,Pittsburgh
+8600,5.3,387.804878049,6,Upper body,Hornqvist Patric,F,2018/19,Pittsburgh
+8601,9.5,579.268292683,5,Upper body,Malkin Evgeni,F,2018/19,Pittsburgh
+8602,9.5,926.829268293,8,Upper body,Malkin Evgeni,F,2018/19,Pittsburgh
+8603,3.5,42.682926829,1,Lower body,Rust Bryan,F,2018/19,Pittsburgh
+8604,3.5,384.14634146300006,9,Lower body,Rust Bryan,F,2018/19,Pittsburgh
+8605,0.75,73.170731707,8,Lower body,Simon Dominik,F,2018/19,Pittsburgh
+8606,4.1,150.0,3,Concussion,Dumoulin Brian,D,2018/19,Pittsburgh
+8607,4.1,150.0,3,Lower body,Dumoulin Brian,D,2018/19,Pittsburgh
+8608,7.25,88.414634146,1,Lower body,Letang Kris,D,2018/19,Pittsburgh
+8609,7.25,353.658536585,4,Upper body,Letang Kris,D,2018/19,Pittsburgh
+8610,7.25,972.56097561,11,Upper body,Letang Kris,D,2018/19,Pittsburgh
+8611,4.0833330000000005,1045.731621951,21,Upper body,Maatta Olli,D,2018/19,Pittsburgh
+8612,2.1375,78.201219512,3,Concussion,Oleksiak Jamie,D,2018/19,Pittsburgh
+8613,0.65,150.609756098,19,Upper body,Ruhwedel Chad,D,2018/19,Pittsburgh
+8614,5.5,3554.87804878,53,Leg,Schultz Justin,D,2018/19,Pittsburgh
+8615,3.75,45.731707317,1,Concussion,Murray Matt,G,2018/19,Pittsburgh
+8616,3.75,411.58536585400003,9,Lower body,Murray Matt,G,2018/19,Pittsburgh
+8617,3.75,45.731707317,1,Upper body,Murray Matt,G,2018/19,Pittsburgh
+8620,5.625,205.79268292700002,3,Head,Hertl Tomas,F,2018/19,San Jose
+8621,5.625,137.195121951,2,Lower body,Hertl Tomas,F,2018/19,San Jose
+8622,7.0,426.82926829300004,5,Mid-body,Kane Evander,F,2018/19,San Jose
+8623,2.0,73.170731707,3,Lower body,Karlsson Melker,F,2018/19,San Jose
+8624,1.644167,60.15245122,3,Upper body,Meier Timo,F,2018/19,San Jose
+8625,1.644167,20.050817073,1,Wrist,Meier Timo,F,2018/19,San Jose
+8626,6.0,512.195121951,7,Lower body,Pavelski Joe,F,2018/19,San Jose
+8627,0.75,36.585365854,4,Lower body,Radil Lukas,F,2018/19,San Jose
+8628,0.7,17.073170732,2,Mouth,Sorensen Marcus,F,2018/19,San Jose
+8629,5.0,548.780487805,9,Knee,Thornton Joe,F,2018/19,San Jose
+8630,3.8,185.365853659,4,Knee,Braun Justin,D,2018/19,San Jose
+8632,6.5,79.268292683,1,Groin,Karlsson Erik,D,2018/19,San Jose
+8633,6.5,1347.56097561,17,Groin,Karlsson Erik,D,2018/19,San Jose
+8634,6.5,713.414634146,9,Lower body,Karlsson Erik,D,2018/19,San Jose
+8635,0.675,16.463414634,2,Concussion,Simek Radek,D,2018/19,San Jose
+8636,0.675,98.780487805,12,Knee,Simek Radek,D,2018/19,San Jose
+8637,7.0,853.658536585,10,Wrist,Vlasic Marc-Edouard,D,2018/19,San Jose
+8638,0.725833,115.071085366,13,Lower body,Blais Sammy,F,2018/19,St. Louis
+8639,5.0,548.780487805,9,Concussion,Bozak Tyler,F,2018/19,St. Louis
+8640,0.925,112.804878049,10,Groin,Fabbri Robby,F,2018/19,St. Louis
+8641,0.925,112.804878049,10,Shoulder,Fabbri Robby,F,2018/19,St. Louis
+8642,1.75,85.365853659,4,Upper body,Maroon Patrick,F,2018/19,St. Louis
+8643,4.0,1170.731707317,24,Concussion,Perron David,F,2018/19,St. Louis
+8644,0.925,33.841463415,3,Concussion,Sanford Zach,F,2018/19,St. Louis
+8645,5.125,250.0,4,Upper body,Schenn Brayden,F,2018/19,St. Louis
+8646,5.125,375.0,6,Upper body,Schenn Brayden,F,2018/19,St. Louis
+8647,5.35,130.487804878,2,Foot,Schwartz Jaden,F,2018/19,St. Louis
+8648,5.35,717.6829268289999,11,Upper body,Schwartz Jaden,F,2018/19,St. Louis
+8649,0.8,97.56097561,10,Concussion,Soshnikov Nikita,F,2018/19,St. Louis
+8650,5.75,140.243902439,2,Concussion,Steen Alex,F,2018/19,St. Louis
+8652,5.75,420.731707317,6,Shoulder,Steen Alex,F,2018/19,St. Louis
+8653,5.75,420.731707317,6,Upper body,Steen Alex,F,2018/19,St. Louis
+8654,0.7,68.292682927,8,Upper body,Sundqvist Oskar,F,2018/19,St. Louis
+8656,7.5,457.317073171,5,Upper body,Tarasenko Vladimir,F,2018/19,St. Louis
+8657,1.1775,100.518292683,7,Shoulder,Thomas Robert,F,2018/19,St. Louis
+8658,1.15,14.024390244000001,1,Lower body,Bortuzzo Robert,D,2018/19,St. Louis
+8659,1.15,224.390243902,16,Lower body,Bortuzzo Robert,D,2018/19,St. Louis
+8660,5.4,197.56097561,3,Hip,Bouwmeester Jay,D,2018/19,St. Louis
+8661,0.888333,21.666658536999996,2,Lower body,Dunn Vince,D,2018/19,St. Louis
+8662,3.0,73.170731707,2,Groin,Edmundson Joel,D,2018/19,St. Louis
+8663,3.0,73.170731707,2,Hand,Edmundson Joel,D,2018/19,St. Louis
+8664,3.0,402.43902439,11,Lower body,Edmundson Joel,D,2018/19,St. Louis
+8666,2.9,353.658536585,10,Knee,Gunnarsson Carl,D,2018/19,St. Louis
+8667,2.9,707.3170731710001,20,Upper body,Gunnarsson Carl,D,2018/19,St. Louis
+8668,2.9,848.780487805,24,Upper body,Gunnarsson Carl,D,2018/19,St. Louis
+8670,6.5,871.951219512,11,Hand,Pietrangelo Alex,D,2018/19,St. Louis
+8671,5.8,282.926829268,4,Shoulder,Callahan Ryan,F,2018/19,Tampa Bay
+8672,5.8,141.463414634,2,Upper body,Callahan Ryan,F,2018/19,Tampa Bay
+8674,0.8,9.756097561,1,Upper body,Erne Adam,F,2018/19,Tampa Bay
+8675,5.0,60.975609756000004,1,Lower body,Johnson Tyler,F,2018/19,Tampa Bay
+8676,5.0,60.975609756000004,1,Upper body,Johnson Tyler,F,2018/19,Tampa Bay
+8677,0.910833,66.646317073,6,Lower body,Joseph Mathieu,F,2018/19,Tampa Bay
+8678,5.25,384.14634146300006,6,Upper body,Miller J.T.,F,2018/19,Tampa Bay
+8679,5.3,1034.146341463,16,Lower body,Palat Ondrej,F,2018/19,Tampa Bay
+8680,5.3,129.268292683,2,Upper body,Palat Ondrej,F,2018/19,Tampa Bay
+8681,1.0,12.195121950999999,1,Lower body,Paquette Cedric,F,2018/19,Tampa Bay
+8682,0.919167,11.209353659000001,1,Lower body,Point Brayden,F,2018/19,Tampa Bay
+8683,0.89,21.707317073000002,2,Lower body,Cernak Erik,D,2018/19,Tampa Bay
+8684,3.7,45.12195122,1,Upper body,Coburn Braydon,D,2018/19,Tampa Bay
+8685,3.0,475.60975609800005,13,Lower body,Girardi Dan,D,2018/19,Tampa Bay
+8686,7.875,96.036585366,1,Lower body,Hedman Victor,D,2018/19,Tampa Bay
+8687,7.875,384.14634146300006,4,Upper body,Hedman Victor,D,2018/19,Tampa Bay
+8688,7.875,672.2560975609999,7,Upper body,Hedman Victor,D,2018/19,Tampa Bay
+8689,4.5,658.5365853659999,12,Lower body,Stralman Anton,D,2018/19,Tampa Bay
+8690,4.5,932.926829268,17,Upper body,Stralman Anton,D,2018/19,Tampa Bay
+8691,1.15,56.097560976000004,4,Lower body,Domingue Louis,G,2018/19,Tampa Bay
+8692,3.5,597.56097561,14,Foot,Vasilevskiy Andrei,G,2018/19,Tampa Bay
+8693,0.65,142.682926829,18,Ankle,Ennis Tyler,F,2018/19,Toronto
+8694,0.675,16.463414634,2,Foot,Gauthier Frederik,F,2018/19,Toronto
+8695,2.25,219.512195122,8,Ankle,Hyman Zach,F,2018/19,Toronto
+8697,0.7875,9.603658537000001,1,Concussion,Johnsson Andreas,F,2018/19,Toronto
+8699,0.7875,9.603658537000001,1,Leg,Johnsson Andreas,F,2018/19,Toronto
+8700,4.5,439.024390244,8,Concussion,Kadri Nazem,F,2018/19,Toronto
+8702,0.863333,42.113804878,4,Concussion,Kapanen Kasperi,F,2018/19,Toronto
+8703,3.775,644.512195122,14,Shoulder,Matthews Auston,F,2018/19,Toronto
+8704,5.3,5300.0,82,Back,Horton Nathan,"F ""retired""",2018/19,Toronto
+8706,0.863333,147.398317073,14,Shoulder,Dermott Travis,D,2018/19,Toronto
+8707,4.05,98.780487805,2,Back,Gardiner Jake,D,2018/19,Toronto
+8708,4.05,889.024390244,18,Back,Gardiner Jake,D,2018/19,Toronto
+8712,5.0,365.85365853699994,6,Groin,Andersen Frederik,G,2018/19,Toronto
+8713,5.0,60.975609756000004,1,Knee,Andersen Frederik,G,2018/19,Toronto
+8714,0.675,41.158536585,5,Concussion,Sparks Garret,G,2018/19,Toronto
+8715,3.3666660000000004,944.308756098,23,Concussion,Baertschi Sven,F,2018/19,Vancouver
+8716,3.3666660000000004,1231.707073171,30,Concussion,Baertschi Sven,F,2018/19,Vancouver
+8717,3.0,878.048780488,24,Arm,Beagle Jay,F,2018/19,Vancouver
+8719,1.491667,36.382121951,2,Groin,Boeser Brock,F,2018/19,Vancouver
+8720,1.491667,200.101670732,11,Groin,Boeser Brock,F,2018/19,Vancouver
+8723,0.925,33.841463415,3,Back,Leivo Josh,F,2018/19,Vancouver
+8725,0.925,67.682926829,6,Upper body,Motte Tyler,F,2018/19,Vancouver
+8726,3.775,276.219512195,6,Concussion,Pettersson Elias,F,2018/19,Vancouver
+8727,3.775,230.18292682900002,5,Knee,Pettersson Elias,F,2018/19,Vancouver
+8728,3.0,146.341463415,4,Concussion,Roussel Antoine,F,2018/19,Vancouver
+8729,3.0,439.024390244,12,Knee,Roussel Antoine,F,2018/19,Vancouver
+8730,3.0,36.585365854,1,Upper body,Roussel Antoine,F,2018/19,Vancouver
+8731,3.1,415.85365853699994,11,Groin,Spooner Ryan,F,2018/19,Vancouver
+8732,4.375,1387.1951219510001,26,Hernia,Sutter Brandon,F,2018/19,Vancouver
+8733,4.375,1600.609756098,30,Shoulder,Sutter Brandon,F,2018/19,Vancouver
+8734,1.25,30.487804878000002,2,Lower body,Virtanen Jake,F,2018/19,Vancouver
+8735,1.25,152.43902439,10,Ribs,Virtanen Jake,F,2018/19,Vancouver
+8736,2.65,2650.0,82,Neck,Dorsett Derek,"F ""retired""",2018/19,Vancouver
+8737,0.888333,75.833304878,7,Hip,Brisebois Guillaume,D,2018/19,Vancouver
+8738,5.0,670.731707317,11,Concussion,Edler Alexander,D,2018/19,Vancouver
+8739,5.0,914.634146341,15,Knee,Edler Alexander,D,2018/19,Vancouver
+8740,4.0,97.56097561,2,Back,Gudbranson Erik,D,2018/19,Vancouver
+8741,4.0,146.341463415,3,Neck,Gudbranson Erik,D,2018/19,Vancouver
+8742,1.604166,156.504,8,Ankle,Hughes Quinn,D,2018/19,Vancouver
+8743,2.8,375.60975609800005,11,Foot,Hutton Ben,D,2018/19,Vancouver
+8744,2.325,85.06097561,3,Concussion,Stecher Troy,D,2018/19,Vancouver
+8745,4.45,596.951219512,11,Ankle,Tanev Chris,D,2018/19,Vancouver
+8746,4.45,271.341463415,5,Hip,Tanev Chris,D,2018/19,Vancouver
+8747,4.45,596.951219512,11,Lower body,Tanev Chris,D,2018/19,Vancouver
+8748,2.941667,322.865890244,9,Knee,Demko Thatcher,G,2018/19,Vancouver
+8749,2.5,335.36585365900004,11,Finger,Nilsson Anders,G,2018/19,Vancouver
+8752,0.65,63.414634146000004,8,Upper body,Carpenter Ryan,F,2018/19,Vegas
+8754,0.725,123.780487805,14,Upper body,Carrier William,F,2018/19,Vegas
+8755,3.85,140.853658537,3,Lower body,Eakin Cody,F,2018/19,Vegas
+8756,2.75,2246.951219512,67,Lower body,Haula Erik,F,2018/19,Vegas
+8758,0.9625,11.737804878,1,Lower body,Nosek Tomas,F,2018/19,Vegas
+8761,4.05,148.17073170700002,3,Leg,Pacioretty Max,F,2018/19,Vegas
+8762,4.05,345.731707317,7,Lower body,Pacioretty Max,F,2018/19,Vegas
+8764,4.05,197.56097561,4,Upper body,Pacioretty Max,F,2018/19,Vegas
+8765,0.65,31.707317073000002,4,Lower body,Pirri Brandon,F,2018/19,Vegas
+8766,0.65,15.853658537000001,2,Neck,Pirri Brandon,F,2018/19,Vegas
+8768,6.5,2378.048780488,30,Lower body,Stastny Paul,F,2018/19,Vegas
+8771,5.25,5250.0,82,Back,Clarkson David,"F ""retired""",2018/19,Vegas
+8772,2.5,91.463414634,3,Arm,Engelland Deryk,D,2018/19,Vegas
+8774,3.875,614.329268293,13,Upper body,Miller Colin,D,2018/19,Vegas
+8776,5.75,631.097560976,9,Lower body,Fleury Marc-Andre,G,2018/19,Vegas
+8779,0.8,117.07317073200001,12,Lower body,Boyd Travis,F,2018/19,Washington
+8781,3.5,42.682926829,1,Lower body,Eller Lars,F,2018/19,Washington
+8783,7.8,570.731707317,6,Upper body,Kuznetsov Evgeny,F,2018/19,Washington
+8784,5.75,771.341463415,11,Concussion,Oshie T.J.,F,2018/19,Washington
+8786,5.166666,189.02436585400002,3,Concussion,WIlson Tom,F,2018/19,Washington
+8787,8.0,97.56097561,1,Lower body,Carlson John,D,2018/19,Washington
+8788,0.65,190.243902439,24,Thigh,Djoos Christian,D,2018/19,Washington
+8789,2.5,243.90243902400002,8,Hamstring,Kempny Michal,D,2018/19,Washington
+8791,2.5,60.975609756000004,2,Upper body,Kempny Michal,D,2018/19,Washington
+8792,5.75,140.243902439,2,Head,Niskanen Matt,D,2018/19,Washington
+8793,1.5,493.902439024,27,Lower body,Orpik Brooks,D,2018/19,Washington
+8794,6.1,148.780487805,2,Upper body,Holtby Braden,G,2018/19,Washington
+8795,1.0,36.585365854,3,Concussion,Copp Andrew,F,2018/19,Winnipeg/Atlanta
+8797,6.0,1463.414634146,20,Shoulder,Ehlers Nikolaj,F,2018/19,Winnipeg/Atlanta
+8798,2.916666,71.138195122,2,Upper body,Lowry Adam,F,2018/19,Winnipeg/Atlanta
+8799,1.15,28.048780488000002,2,Finger,Tanev Brandon,F,2018/19,Winnipeg/Atlanta
+8801,7.6,1760.975609756,19,Ankle,Byfuglien Dustin,D,2018/19,Winnipeg/Atlanta
+8802,7.6,370.731707317,4,Concussion,Byfuglien Dustin,D,2018/19,Winnipeg/Atlanta
+8803,7.6,1390.2439024389998,15,Leg,Byfuglien Dustin,D,2018/19,Winnipeg/Atlanta
+8804,7.6,185.365853659,2,Upper body,Byfuglien Dustin,D,2018/19,Winnipeg/Atlanta
+8805,1.4,68.292682927,4,Lower body,Chiarot Ben,D,2018/19,Winnipeg/Atlanta
+8807,4.3333330000000005,211.382097561,4,Upper body,Kulikov Dmitry,D,2018/19,Winnipeg/Atlanta
+8808,4.3333330000000005,634.1462926830001,12,Upper body,Kulikov Dmitry,D,2018/19,Winnipeg/Atlanta
+8809,3.15,38.414634146,1,Lower body,Morrissey Josh,D,2018/19,Winnipeg/Atlanta
+8810,3.15,76.829268293,2,Lower body,Morrissey Josh,D,2018/19,Winnipeg/Atlanta
+8811,3.15,768.292682927,20,Upper body,Morrissey Josh,D,2018/19,Winnipeg/Atlanta
+8812,1.0,97.56097561,8,Lower body,Morrow Joel,D,2018/19,Winnipeg/Atlanta
+8813,1.0,170.731707317,14,Lower body,Morrow Joel,D,2018/19,Winnipeg/Atlanta
+8814,5.5,134.146341463,2,Lower body,Myers Tyler,D,2018/19,Winnipeg/Atlanta
+8815,0.65,63.414634146000004,8,Lower body,Brossoit Laurent,G,2018/19,Winnipeg/Atlanta
