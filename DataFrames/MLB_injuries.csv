@@ -1,0 +1,218 @@
+,Player (216),Pos.,Team,Injury,Status,Dates,Days
+0,"Josh Rogers SP, BAL",SP,BAL,Elbow,10-day,6/26 -,2
+1,"Tim Anderson SS, CHW",SS,CHW,Ankle,10-day,6/26 -,2
+2,"Giancarlo Stanton DH, NYY",DH,NYY,Knee,10-day,6/26 -,2
+3,"Brendan Rodgers SS, COL",SS,COL,Shoulder,10-day,6/25 -,3
+4,"Jordan Hicks RP, STL",RP,STL,Elbow,10-day,6/25 -,3
+5,"Diego Castillo RP, TB",RP,TB,Shoulder,10-day,6/23 -,5
+6,"Gregory Polanco RF, PIT",RF,PIT,Shoulder,10-day,6/22 -,6
+7,"Daniel Robertson SS, TB",SS,TB,Knee,10-day,6/22 -,6
+8,"Blake Treinen RP, OAK",RP,OAK,Shoulder,10-day,6/22 -,6
+9,"Cameron Maybin RF, NYY",RF,NYY,Calf,10-day,6/22 -,6
+10,"Steven Duggar CF, SF",CF,SF,Back,10-day,6/21 -,7
+11,"Jorge Alfaro C, MIA",C,MIA,Concussion,7-day,6/21 -,7
+12,"Josh Sborz RP, LAD",RP,LAD,Back,10-day,6/21 -,7
+13,"David Freese 1B, LAD",1B,LAD,Hamstring,10-day,6/21 -,7
+14,"Trevor Story SS, COL",SS,COL,Thumb,10-day,6/20 -,8
+15,"Pat Neshek RP, PHI",RP,PHI,Hamstring,10-day,6/20 -,8
+16,"Rich Hill SP, LAD",SP,LAD,Arm,10-day,6/20 -,8
+17,"Pablo Lopez SP, MIA",SP,MIA,Shoulder,10-day,6/19 -,9
+18,"Manny Banuelos RP, CHW",RP,CHW,Shoulder,10-day,6/19 -,9
+19,"Marwin Gonzalez LF, MIN",LF,MIN,Hamstring,10-day,6/19 -,9
+20,"Adalberto Mondesi SS, KC",SS,KC,Groin,10-day,6/19 -,9
+21,"Kevan Smith C, LAA",C,LAA,Hand,10-day,6/19 -,9
+22,"Jeurys Familia RP, NYM",RP,NYM,Shoulder,10-day,6/18 -,10
+23,"Justin Smoak 1B, TOR",1B,TOR,Quad,10-day,6/18 -,10
+24,"Edwin Jackson SP, TOR",SP,TOR,Back,10-day,6/18 -,10
+25,"Ehire Adrianza SS, MIN",SS,MIN,Abdominal,10-day,6/18 -,10
+26,"Byron Buxton CF, MIN",CF,MIN,Wrist,10-day,6/18 -,10
+27,"Welington Castillo C, CHW",C,CHW,Oblique,10-day,6/18 -,10
+28,"Mike Clevinger SP, CLE",SP,CLE,Ankle,10-day,6/18 -,10
+29,"Yandy Diaz 3B, TB",3B,TB,Hamstring,10-day,6/17 -,11
+30,"John Means RP, BAL",RP,BAL,Shoulder,10-day,6/17 -,11
+31,"Jeffrey Springs RP, TEX",RP,TEX,Biceps,10-day,6/17 -,11
+32,"Kyle Hendricks SP, CHC",SP,CHC,Shoulder,10-day,6/16 -,12
+33,"Grayson Greiner C, DET",C,DET,Back,10-day,6/16 -,12
+34,"Kyle Barraclough RP, WSH",RP,WSH,Arm,10-day,6/16 -,12
+35,"Noah Syndergaard SP, NYM",SP,NYM,Hamstring,10-day,6/16 -,12
+36,"Heath Hembree RP, BOS",RP,BOS,Elbow,10-day,6/14 -,14
+37,"Martin Prado 3B, MIA",3B,MIA,Hamstring,10-day,6/14 -,14
+38,"Christian Arroyo SS, TB",SS,TB,Arm,10-day,6/14 -,14
+39,"Alex Avila C, ARI",C,ARI,Calf,10-day,6/14 -,14
+40,"Brandon Brennan RP, SEA",RP,SEA,Shoulder,10-day,6/14 -,14
+41,"Josh Lucas RP, BAL",RP,BAL,Shoulder,10-day,6/14 -,14
+42,"Elvis Luciano RP, TOR",RP,TOR,Elbow,10-day,6/13 -,15
+43,"Ryan Helsley P, STL",P,STL,Shoulder,10-day,6/13 -,15
+44,"Kendrys Morales DH, NYY",DH,NYY,Calf,10-day,6/13 -,15
+45,"Jon Duplantier P, ARI",P,ARI,Shoulder,10-day,6/12 -,16
+46,"Corey Seager SS, LAD",SS,LAD,Hamstring,10-day,6/12 -,16
+47,"Kevin Gausman SP, ATL",SP,ATL,Foot,10-day,6/11 -,17
+48,"C.J. Edwards RP, CHC",RP,CHC,Arm,10-day,6/10 -,18
+49,"Nick Hundley C, OAK",C,OAK,Back,10-day,6/9 -,19
+50,"Adam Warren RP, SD",RP,SD,Arm,10-day,6/9 -,19
+51,"Rookie Davis SP, PIT",SP,PIT,Finger,10-day,6/9 -,19
+52,"Jordan Lyles SP, PIT",SP,PIT,Hamstring,10-day,6/9 -,19
+53,"Mitch Moreland 1B, BOS",1B,BOS,Quad,10-day,6/8 -,20
+54,"Domingo German SP, NYY",SP,NYY,Hip,10-day,6/8 -,20
+55,"Jedd Gyorko 3B, STL",3B,STL,Back,10-day,6/8 -,20
+56,"Seung-Hwan Oh RP, COL",RP,COL,Abdominal,10-day,6/8 -,20
+57,"Scott Alexander RP, LAD",RP,LAD,Arm,10-day,6/8 -,20
+58,"Jose Urena SP, MIA",SP,MIA,Back,60-day,6/8 -,20
+59,"Caleb Smith SP, MIA",SP,MIA,Hip,10-day,6/7 -,21
+60,"Isiah Kiner-Falefa 3B, TEX",3B,TEX,Finger,10-day,6/7 -,21
+61,"Mitch Haniger RF, SEA",RF,SEA,Groin,10-day,6/7 -,21
+62,"D.J. Stewart RF, BAL",RF,BAL,Ankle,10-day,6/6 -,22
+63,"Seranthony Dominguez RP, PHI",RP,PHI,Elbow,10-day,6/6 -,22
+64,"Dylan Covey RP, CHW",RP,CHW,Shoulder,10-day,6/6 -,22
+65,"Adam Haseley OF, PHI",OF,PHI,Groin,10-day,6/6 -,22
+66,"Carlos Carrasco SP, CLE",SP,CLE,Illness,10-day,6/5 -,23
+67,"Braden Bishop CF, SEA",CF,SEA,Stomach,10-day,6/5 -,23
+68,"Connor Sadzeck RP, SEA",RP,SEA,Elbow,10-day,6/4 -,24
+69,"Andrew McCutchen RF, PHI",RF,PHI,Knee ACL,60-day,6/4 -,24
+70,"Chasen Bradford RP, SEA",RP,SEA,Arm,60-day,6/3 -,25
+71,"Jhoulys Chacin SP, MIL",SP,MIL,Back,10-day,6/2 -,26
+72,"Jefry Rodriguez SP, CLE",SP,CLE,Shoulder,10-day,6/2 -,26
+73,"Jeimer Candelario 3B, DET",3B,DET,Shoulder,10-day,6/2 -,26
+74,"Steven Pearce 1B, BOS",1B,BOS,Back,10-day,6/1 -,27
+75,"Blake Swihart C, ARI",C,ARI,Oblique,10-day,6/1 -,27
+76,"Gio Gonzalez SP, MIL",SP,MIL,Arm,10-day,6/1 -,27
+77,"Kyle Dowdy RP, TEX",RP,TEX,Elbow,10-day,6/1 -,27
+78,"Dan Otero RP, CLE",RP,CLE,Shoulder,10-day,5/31 -,28
+79,"Hector Velazquez RP, BOS",RP,BOS,Back,10-day,5/30 -,29
+80,"Carlos Correa SS, HOU",SS,HOU,Ribs,10-day,5/29 -,30
+81,"Jacob Waguespack P, TOR",P,TOR,Shoulder,10-day,5/29 -,30
+82,"Nick Vincent RP, SF",RP,SF,Pectoral,60-day,5/29 -,30
+83,"Josh Harrison 2B, DET",2B,DET,Hamstring,60-day,5/28 -,31
+84,"Luke Weaver SP, ARI",SP,ARI,Arm,10-day,5/27 -,32
+85,"Aledmys Diaz SS, HOU",SS,HOU,Hamstring,10-day,5/27 -,32
+86,"Zack Cozart 3B, LAA",3B,LAA,Shoulder,10-day,5/27 -,32
+87,"Francisco Cervelli C, PIT",C,PIT,Concussion,10-day,5/26 -,33
+88,"Matt Harvey SP, LAA",SP,LAA,Back,10-day,5/25 -,34
+89,"Ryan Burr RP, CHW",RP,CHW,Elbow,10-day,5/25 -,34
+90,"Tyler Thornburg RP, BOS",RP,BOS,Hip,10-day,5/23 -,36
+91,"Jake Barrett RP, NYY",RP,NYY,Elbow,60-day,5/23 -,36
+92,"Brandon Nimmo CF, NYM",CF,NYM,Neck,10-day,5/22 -,37
+93,"Willie Calhoun LF, TEX",LF,TEX,Quad,10-day,5/22 -,37
+94,"Xavier Cedeno RP, CHC",RP,CHC,Wrist,10-day,5/22 -,37
+95,"Tyler Anderson SP, COL",SP,COL,Knee,60-day,5/22 -,37
+96,"Chad Wallach C, MIA",C,MIA,Concussion,60-day,5/22 -,37
+97,"Jon Berti 2B, MIA",2B,MIA,Oblique,10-day,5/21 -,38
+98,"Ryon Healy 1B, SEA",1B,SEA,Back,10-day,5/21 -,38
+99,"Wilmer Flores 2B, ARI",2B,ARI,Foot,10-day,5/21 -,38
+100,"Andrelton Simmons SS, LAA",SS,LAA,Ankle,10-day,5/21 -,38
+101,"Travis Bergen RP, SF",RP,SF,Shoulder,10-day,5/21 -,38
+102,"Ryan Tepera RP, TOR",RP,TOR,Elbow,60-day,5/21 -,38
+103,"Jeremy Hellickson RP, WSH",RP,WSH,Shoulder,60-day,5/21 -,38
+104,"Justin Miller RP, WSH",RP,WSH,Shoulder,10-day,5/18 -,41
+105,"Anthony Bemboom C, TB",C,TB,Knee,60-day,5/16 -,43
+106,"Ender Inciarte CF, ATL",CF,ATL,Back,10-day,5/15 -,44
+107,"Jonathan Loaisiga RP, NYY",RP,NYY,Shoulder,60-day,5/13 -,46
+108,"Miguel Andujar 3B, NYY",3B,NYY,Shoulder,60-day,5/13 -,46
+109,"Justin Wilson RP, NYM",RP,NYM,Elbow,10-day,5/12 -,47
+110,"Felix Hernandez RP, SEA",RP,SEA,Shoulder,10-day,5/12 -,47
+111,"Tyson Ross SP, DET",SP,DET,Elbow,60-day,5/12 -,47
+112,"Tyler Glasnow SP, TB",SP,TB,Arm,60-day,5/11 -,48
+113,"Allen Webster SP, CHC",SP,CHC,Arm,60-day,5/11 -,48
+114,"Peter O'Brien RF, MIA",RF,MIA,Ribs,10-day,5/11 -,48
+115,"Clay Buchholz SP, TOR",SP,TOR,Shoulder,60-day,5/10 -,49
+116,"Jordy Mercer SS, DET",SS,DET,Quad,10-day,5/9 -,50
+117,"Drew Steckenrider RP, MIA",RP,MIA,Elbow,60-day,5/7 -,52
+118,"Keone Kela RP, PIT",RP,PIT,Elbow,10-day,5/6 -,53
+119,"Tzu-Wei Lin SS, BOS",SS,BOS,Knee,10-day,5/4 -,55
+120,"Luis Avilan RP, NYM",RP,NYM,Elbow,10-day,5/4 -,55
+121,"Jameson Taillon SP, PIT",SP,PIT,Elbow,60-day,5/4 -,55
+122,"Harrison Musgrave RP, COL",RP,COL,Elbow,60-day,5/4 -,55
+123,"Corey Kluber SP, CLE",SP,CLE,Arm,10-day,5/3 -,56
+124,"Carlos Rodon SP, CHW",SP,CHW,Elbow,60-day,5/2 -,57
+125,"Adalberto Mejia RP, MIN",RP,MIN,Calf,60-day,5/2 -,57
+126,"A.J. Pollock CF, LAD",CF,LAD,Elbow,10-day,4/30 -,59
+127,"Nate Jones RP, CHW",RP,CHW,Elbow,60-day,4/27 -,62
+128,"Alex Cobb SP, BAL",SP,BAL,Arm,60-day,4/27 -,62
+129,"Ryan Zimmerman 1B, WSH",1B,WSH,Foot,10-day,4/26 -,63
+130,"Taylor Hearn P, TEX",P,TEX,Elbow,60-day,4/26 -,63
+131,"Roman Quinn CF, PHI",CF,PHI,Quad,10-day,4/25 -,64
+132,"Jose Pirela 2B, SD",2B,SD,Oblique,10-day,4/24 -,65
+133,"Nick Burdi RP, PIT",RP,PIT,Elbow,60-day,4/23 -,66
+134,"Matt Shoemaker SP, TOR",SP,TOR,Knee ACL,60-day,4/21 -,68
+135,"Erik Gonzalez 2B, PIT",2B,PIT,Collarbone,60-day,4/20 -,69
+136,"Nathan Eovaldi SP, BOS",SP,BOS,Elbow,60-day,4/20 -,69
+137,"Austen Williams RP, WSH",RP,WSH,Shoulder,10-day,4/19 -,70
+138,"Victor Arano RP, PHI",RP,PHI,Elbow,60-day,4/19 -,70
+139,"Dustin Pedroia 2B, BOS",2B,BOS,Knee,60-day,4/18 -,71
+140,"Marco Estrada SP, OAK",SP,OAK,Back,10-day,4/17 -,72
+141,"Greg Bird 1B, NYY",1B,NYY,Foot,60-day,4/16 -,73
+142,"Mike Mayers RP, STL",RP,STL,Arm,60-day,4/16 -,73
+143,"David Robertson RP, PHI",RP,PHI,Elbow,60-day,4/15 -,74
+144,"Arodys Vizcaino RP, SEA",RP,SEA,Shoulder,60-day,4/11 -,78
+145,"Nate Karns SP, BAL",SP,BAL,Arm,60-day,4/9 -,80
+146,"Franchy Cordero OF, SD",OF,SD,Elbow,10-day,4/8 -,81
+147,"Aaron Loup RP, SD",RP,SD,Elbow,60-day,4/8 -,81
+148,"Matt Moore SP, DET",SP,DET,Knee,60-day,4/6 -,83
+149,"Edinson Volquez SP, TEX",SP,TEX,Elbow,60-day,4/5 -,84
+150,"Troy Tulowitzki SS, NYY",SS,NYY,Calf,60-day,4/4 -,85
+151,"Hunter Strickland RP, SEA",RP,SEA,Arm,10-day,3/30 -,90
+152,"Brett Cecil RP, STL",RP,STL,Wrist,60-day,3/29 -,91
+153,"Sean Manaea SP, OAK",SP,OAK,Shoulder,60-day,3/28 -,92
+154,"Taijuan Walker SP, ARI",SP,ARI,Elbow Tommy John,60-day,3/28 -,92
+155,"Jesse Hahn SP, KC",SP,KC,Elbow Tommy John,60-day,3/28 -,92
+156,"Johnny Cueto SP, SF",SP,SF,Elbow Tommy John,60-day,3/28 -,92
+157,"Garrett Richards SP, SD",SP,SD,Elbow Tommy John,60-day,3/28 -,92
+158,"Kendall Graveman SP, CHC",SP,CHC,Elbow Tommy John,60-day,3/28 -,92
+159,"Salvador Perez C, KC",C,KC,Elbow Tommy John,60-day,3/28 -,92
+160,"Michael Kopech SP, CHW",SP,CHW,Elbow Tommy John,60-day,3/28 -,92
+161,"Keynan Middleton RP, LAA",RP,LAA,Elbow Tommy John,60-day,3/28 -,92
+162,"Silvino Bracho RP, ARI",RP,ARI,Elbow Tommy John,60-day,3/28 -,92
+163,"Julian Fernández RP, MIA",RP,MIA,Elbow Tommy John,60-day,3/28 -,92
+164,"Brent Suter SP, MIL",SP,MIL,Elbow Tommy John,60-day,3/28 -,92
+165,"Daniel Gossett SP, OAK",SP,OAK,Elbow Tommy John,60-day,3/28 -,92
+166,"Chad Kuhl SP, PIT",SP,PIT,Elbow Tommy John,60-day,3/28 -,92
+167,"Jose Castillo RP, SD",RP,SD,Elbow,60-day,3/28 -,92
+168,"Scott Heineman OF, TEX",OF,TEX,Shoulder,60-day,3/28 -,92
+169,"Trevor Oaks SP, KC",SP,KC,Hip,60-day,3/28 -,92
+170,"Steven Souza RF, ARI",RF,ARI,Knee,10-day,3/28 -,92
+171,"Jacob Nix SP, SD",SP,SD,Elbow,60-day,3/28 -,92
+172,"Dinelson Lamet SP, SD",SP,SD,Elbow,60-day,3/28 -,92
+173,"J.C. Ramirez SP, LAA",SP,LAA,Elbow Tommy John,60-day,3/28 -,92
+174,"Jharel Cotton SP, OAK",SP,OAK,Elbow,60-day,3/28 -,92
+175,"Chris Herrmann C, OAK",C,OAK,Knee,60-day,3/28 -,92
+176,"Edgar Santana RP, PIT",RP,PIT,Elbow Tommy John,60-day,3/28 -,92
+177,"Michael Fulmer SP, DET",SP,DET,Elbow Tommy John,60-day,3/28 -,92
+178,"Jordan Montgomery SP, NYY",SP,NYY,Elbow Tommy John,60-day,3/28 -,92
+179,"Mark Trumbo DH, BAL",DH,BAL,Knee,60-day,3/28 -,92
+180,"Devon Travis 2B, TOR",2B,TOR,Knee,60-day,3/28 -,92
+181,"Danny Salazar SP, CLE",SP,CLE,Shoulder,60-day,3/28 -,92
+182,"Dalton Pompey CF, TOR",CF,TOR,Concussion,60-day,3/28 -,92
+183,"Yohander Mendez SP, TEX",SP,TEX,Elbow,60-day,3/28 -,92
+184,"Anthony Banda RP, TB",RP,TB,Elbow Tommy John,60-day,3/28 -,92
+185,"Joe Smith RP, HOU",RP,HOU,Knee ACL,10-day,3/28 -,92
+186,"Travis Jankowski RF, SD",RF,SD,Wrist,60-day,3/28 -,92
+187,"Bradley Zimmer CF, CLE",CF,CLE,Shoulder,10-day,3/28 -,92
+188,"Alex Wood SP, CIN",SP,CIN,Back,10-day,3/28 -,92
+189,"Ben Heller RP, NYY",RP,NYY,Elbow Tommy John,60-day,3/28 -,92
+190,"Bobby Wahl RP, MIL",RP,MIL,Knee ACL,60-day,3/28 -,92
+191,"Luke Farrell RP, TEX",RP,TEX,Face Jaw,60-day,3/28 -,92
+192,"Corey Knebel RP, MIL",RP,MIL,Elbow,60-day,3/28 -,92
+193,"Ryan Borucki SP, TOR",SP,TOR,Elbow,60-day,3/28 -,92
+194,"Jacoby Ellsbury CF, NYY",CF,NYY,Foot,60-day,3/28 -,92
+195,"Tommy Hunter RP, PHI",RP,PHI,Arm,60-day,3/28 -,92
+196,"Jose De Leon RP, TB",RP,TB,Elbow Tommy John,60-day,3/28 -,92
+197,"Luis Severino SP, NYY",SP,NYY,Shoulder,60-day,3/28 -,92
+198,"Koda Glover RP, WSH",RP,WSH,Arm,60-day,3/28 -,92
+199,"Brandon Morrow RP, CHC",RP,CHC,Elbow,60-day,3/28 -,92
+200,"Scooter Gennett 2B, CIN",2B,CIN,Groin,60-day,3/28 -,92
+201,"Drew Smith RP, NYM",RP,NYM,Elbow Tommy John,60-day,3/28 -,92
+202,"Brett Kennedy SP, SD",SP,SD,Arm,60-day,3/28 -,92
+203,"Justin Williams OF, STL",OF,STL,Hand,10-day,3/28 -,92
+204,"Yoenis Cespedes LF, NYM",LF,NYM,Heel,60-day,3/28 -,92
+205,"Matt Duffy 3B, TB",3B,TB,Hamstring,60-day,3/28 -,92
+206,"Dellin Betances RP, NYY",RP,NYY,Shoulder,60-day,3/28 -,92
+207,"David Phelps RP, TOR",RP,TOR,Elbow Tommy John,60-day,3/28 -,92
+208,"Jed Lowrie 2B, NYM",2B,NYM,Knee,60-day,3/28 -,92
+209,"Sam Tuivailala RP, SEA",RP,SEA,Achilles,60-day,3/28 -,92
+210,"Lonnie Chisenhall RF, PIT",RF,PIT,Finger,60-day,3/28 -,92
+211,"Michael Hermosillo CF, LAA",CF,LAA,Groin,60-day,3/28 -,92
+212,"Darren O'Day RP, ATL",RP,ATL,Arm,60-day,3/28 -,92
+213,"Lance McCullers SP, HOU",SP,HOU,Elbow Tommy John,60-day,3/28 -,92
+214,"Riley Ferrell RP, HOU",RP,HOU,Biceps,60-day,3/28 -,92
+215,"Tony Cingrani RP, LAD",RP,LAD,Shoulder,60-day,3/28 -,92
+216,,216,10896,"$216,044,823",,216,10896
