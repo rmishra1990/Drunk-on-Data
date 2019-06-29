@@ -1,0 +1,515 @@
+,Date,Year,Team_x,Player,Notes,Age,Height,Weight,College,Country,Draft Year,Draft Round,Draft Number,GP,PTS,REB,AST,NetRtg,OREB%,DREB%,USG%,TS%,AST%,MP,Pos
+0,10/25/2017,2017,Blazers,Meyers Leonard,sore/sprained right ankle (DTD),27,7.08,255,Illinois,USA,2012,1,11,61,5.9,3.8,1.2,-3.7,5.50%,20.60%,14.90%,67.50%,12.30%,7.7,C
+1,12/13/2017,2017,Blazers,Meyers Leonard,illness (DTD),27,7.08,255,Illinois,USA,2012,1,11,61,5.9,3.8,1.2,-3.7,5.50%,20.60%,14.90%,67.50%,12.30%,7.7,C
+2,12/30/2017,2017,Blazers,Meyers Leonard,ankle injury (DTD),27,7.08,255,Illinois,USA,2012,1,11,61,5.9,3.8,1.2,-3.7,5.50%,20.60%,14.90%,67.50%,12.30%,7.7,C
+3,1/1/2018,2018,Kings,Frank Mason,bruised right heel (DTD),25,5.92,190,Kansas,USA,2017,2,34,38,5.1,1.1,2.2,-14.5,1.30%,8.30%,21.30%,50.20%,28.00%,18.9,PG
+4,4/9/2018,2018,Kings,Frank Mason,partially torn plantar fascia in left foot (out for season),25,5.92,190,Kansas,USA,2017,2,34,38,5.1,1.1,2.2,-14.5,1.30%,8.30%,21.30%,50.20%,28.00%,18.9,PG
+5,1/1/2018,2018,Rockets,James Harden,strained left hamstring (DTD),29,6.42,220,Arizona State,USA,2009,1,3,78,36.1,6.6,7.5,6.3,2.30%,15.70%,39.60%,61.60%,39.40%,35.4,SG
+6,3/11/2018,2018,Rockets,James Harden,sore left knee (DTD),29,6.42,220,Arizona State,USA,2009,1,3,78,36.1,6.6,7.5,6.3,2.30%,15.70%,39.60%,61.60%,39.40%,35.4,SG
+7,1/3/2018,2018,Cavaliers,Isaiah Thomas,right hip injury (DTD),30,5.75,185,Washington,USA,2011,2,60,12,8.1,1.1,1.9,-5.5,2.30%,4.00%,27.40%,43.70%,19.80%,26.9,PG
+8,3/24/2018,2018,Lakers,Isaiah Thomas,right hip injury (out for season),30,5.75,185,Washington,USA,2011,2,60,12,8.1,1.1,1.9,-5.5,2.30%,4.00%,27.40%,43.70%,19.80%,26.9,PG
+9,3/28/2018,2018,Lakers,Isaiah Thomas,surgery on right hip (out for season),30,5.75,185,Washington,USA,2011,2,60,12,8.1,1.1,1.9,-5.5,2.30%,4.00%,27.40%,43.70%,19.80%,26.9,PG
+10,9/26/2017,2017,Cavaliers,Isaiah Thomas,right hip impingement (DTD),30,5.75,185,Washington,USA,2011,2,60,12,8.1,1.1,1.9,-5.5,2.30%,4.00%,27.40%,43.70%,19.80%,26.9,PG
+11,1/2/2018,2018,Clippers,Austin Rivers,sore right Achilles (DTD),26,6.33,200,Duke,USA,2012,1,10,76,8.1,2.1,2.2,2.5,1.20%,6.50%,14.20%,50.30%,12.00%,33.7,SG
+12,4/9/2018,2018,Clippers,Austin Rivers,sore right elbow (out for season),26,6.33,200,Duke,USA,2012,1,10,76,8.1,2.1,2.2,2.5,1.20%,6.50%,14.20%,50.30%,12.00%,33.7,SG
+13,12/30/2017,2017,Clippers,Austin Rivers,strained right Achilles tendon (DTD),26,6.33,200,Duke,USA,2012,1,10,76,8.1,2.1,2.2,2.5,1.20%,6.50%,14.20%,50.30%,12.00%,33.7,SG
+14,12/30/2017,2017,Nuggets,Malik Beasley,elbow injury (DTD),22,6.42,195,Florida State,USA,2016,1,19,81,11.3,2.5,1.2,3.9,1.80%,8.50%,18.10%,59.90%,7.40%,9.4,SG
+15,11/1/2017,2017,Heat,James Johnson,tendinitis in right knee (DTD),32,6.67,240,Wake Forest,USA,2009,1,16,55,7.8,3.2,2.5,-4.6,1.80%,12.30%,17.70%,52.20%,16.70%,26.6,PF
+16,12/17/2017,2017,Heat,James Johnson,right ankle injury (DTD),32,6.67,240,Wake Forest,USA,2009,1,16,55,7.8,3.2,2.5,-4.6,1.80%,12.30%,17.70%,52.20%,16.70%,26.6,PF
+17,12/18/2017,2017,Heat,James Johnson,bursitis in right ankle (DTD),32,6.67,240,Wake Forest,USA,2009,1,16,55,7.8,3.2,2.5,-4.6,1.80%,12.30%,17.70%,52.20%,16.70%,26.6,PF
+18,12/26/2017,2017,Heat,James Johnson,bursitis in right ankle (DTD),32,6.67,240,Wake Forest,USA,2009,1,16,55,7.8,3.2,2.5,-4.6,1.80%,12.30%,17.70%,52.20%,16.70%,26.6,PF
+19,1/3/2018,2018,Pistons,Andre Drummond,bruised right rib (DTD),25,6.92,279,Connecticut,USA,2012,1,9,79,17.3,15.6,1.4,3.3,15.10%,31.10%,22.60%,55.50%,6.80%,33.7,C
+20,1/6/2018,2018,Pistons,Andre Drummond,bruised right rib (DTD),25,6.92,279,Connecticut,USA,2012,1,9,79,17.3,15.6,1.4,3.3,15.10%,31.10%,22.60%,55.50%,6.80%,33.7,C
+21,1/11/2018,2018,Spurs,Tony Parker,sprained right ankle (DTD),37,6.17,185,None,France,2001,1,28,56,9.5,1.5,3.7,-0.1,1.30%,6.70%,24.70%,51.20%,33.10%,19.5,PG
+22,2/9/2018,2018,Spurs,Tony Parker,tightness in back (DTD),37,6.17,185,None,France,2001,1,28,56,9.5,1.5,3.7,-0.1,1.30%,6.70%,24.70%,51.20%,33.10%,19.5,PG
+23,2/11/2018,2018,Spurs,LaMarcus Aldridge,sore right knee (DTD),33,6.92,260,Texas,USA,2006,1,2,81,21.3,9.2,2.4,1.5,9.60%,18.00%,26.80%,57.60%,11.50%,33.5,C
+24,3/11/2018,2018,Spurs,LaMarcus Aldridge,sore right knee (DTD),33,6.92,260,Texas,USA,2006,1,2,81,21.3,9.2,2.4,1.5,9.60%,18.00%,26.80%,57.60%,11.50%,33.5,C
+25,1/5/2018,2018,Suns,Isaiah Canaan,strained left adductor (DTD),28,6,200,Murray State,USA,2013,2,34,30,6,1.9,2.8,-12.3,1.00%,8.60%,14.70%,51.80%,19.40%,21.1,PG-SG
+26,1/31/2018,2018,Suns,Isaiah Canaan,fractured left ankle (out indefinitely),28,6,200,Murray State,USA,2013,2,34,30,6,1.9,2.8,-12.3,1.00%,8.60%,14.70%,51.80%,19.40%,21.1,PG-SG
+27,1/6/2018,2018,Celtics,Al Horford,sore left calf / knee injury (DTD),33,6.83,245,Florida,Dominican Rep...,2007,1,3,68,13.6,6.7,4.2,6.1,6.20%,16.10%,18.80%,60.50%,20.30%,31.6,C
+28,1/24/2018,2018,Celtics,Al Horford,concussion (DTD),33,6.83,245,Florida,Dominican Rep...,2007,1,3,68,13.6,6.7,4.2,6.1,6.20%,16.10%,18.80%,60.50%,20.30%,31.6,C
+29,3/28/2018,2018,Celtics,Al Horford,ankle injury (DTD),33,6.83,245,Florida,Dominican Rep...,2007,1,3,68,13.6,6.7,4.2,6.1,6.20%,16.10%,18.80%,60.50%,20.30%,31.6,C
+30,1/6/2018,2018,Clippers,Milos Teodosic,sore plantar fascia in left foot (DTD),32,6.42,196,None,Serbia,Undrafted,Undrafted,Undrafted,15,3.2,1.1,2.1,5.4,2.10%,8.40%,17.10%,55.70%,26.00%,25.2,PG
+31,2/9/2018,2018,Clippers,Milos Teodosic,sore right foot (DTD),32,6.42,196,None,Serbia,Undrafted,Undrafted,Undrafted,15,3.2,1.1,2.1,5.4,2.10%,8.40%,17.10%,55.70%,26.00%,25.2,PG
+32,3/28/2018,2018,Clippers,Milos Teodosic,plantar fascia in left foot (out for season),32,6.42,196,None,Serbia,Undrafted,Undrafted,Undrafted,15,3.2,1.1,2.1,5.4,2.10%,8.40%,17.10%,55.70%,26.00%,25.2,PG
+33,10/22/2017,2017,Clippers,Milos Teodosic,plantar fascia in left foot (out indefinitely),32,6.42,196,None,Serbia,Undrafted,Undrafted,Undrafted,15,3.2,1.1,2.1,5.4,2.10%,8.40%,17.10%,55.70%,26.00%,25.2,PG
+34,1/6/2018,2018,Magic,Jonathon Simmons,back spasms (DTD),29,6.5,195,Houston,USA,Undrafted,Undrafted,Undrafted,56,6.5,2.3,2.3,-5.3,2.40%,9.00%,18.20%,46.60%,17.50%,29.4,SG
+35,3/20/2018,2018,Magic,Jonathon Simmons,bruised right wrist (out for season),29,6.5,195,Houston,USA,Undrafted,Undrafted,Undrafted,56,6.5,2.3,2.3,-5.3,2.40%,9.00%,18.20%,46.60%,17.50%,29.4,SG
+36,1/6/2018,2018,Spurs,Kawhi Leonard,partial tear in left shoulder (DTD),28,6.58,230,San Diego State,USA,2011,1,15,60,26.6,7.3,3.3,7.9,3.90%,16.50%,30.00%,60.60%,15.90%,23.3,SF
+37,1/15/2018,2018,Spurs,Kawhi Leonard,right quadriceps injury / rest (DTD),28,6.58,230,San Diego State,USA,2011,1,15,60,26.6,7.3,3.3,7.9,3.90%,16.50%,30.00%,60.60%,15.90%,23.3,SF
+38,9/30/2017,2017,Spurs,Kawhi Leonard,sore right quadriceps (out indefinitely),28,6.58,230,San Diego State,USA,2011,1,15,60,26.6,7.3,3.3,7.9,3.90%,16.50%,30.00%,60.60%,15.90%,23.3,SF
+39,12/23/2017,2017,Spurs,Kawhi Leonard,right quadricep injury / rest (DTD),28,6.58,230,San Diego State,USA,2011,1,15,60,26.6,7.3,3.3,7.9,3.90%,16.50%,30.00%,60.60%,15.90%,23.3,SF
+40,1/7/2018,2018,Nets,DeMarre Carroll,sprained right knee (DTD),32,6.67,215,Missouri,USA,2009,1,27,67,11.1,5.2,1.3,1.9,3.70%,15.10%,18.10%,54.60%,7.50%,29.9,PF
+41,4/4/2018,2018,Nets,DeMarre Carroll,strained left hip (out for season),32,6.67,215,Missouri,USA,2009,1,27,67,11.1,5.2,1.3,1.9,3.70%,15.10%,18.10%,54.60%,7.50%,29.9,PF
+42,11/27/2017,2017,Nets,DeMarre Carroll,illness (DTD),32,6.67,215,Missouri,USA,2009,1,27,67,11.1,5.2,1.3,1.9,3.70%,15.10%,18.10%,54.60%,7.50%,29.9,PF
+43,1/7/2018,2018,Suns,Marquese Chriss,strained right hip flexor (DTD),21,6.83,240,Washington,USA,2016,1,8,43,4.2,3.3,0.5,-17.3,7.20%,21.60%,19.60%,45.50%,6.90%,21.2,PF
+44,1/8/2018,2018,Bulls,Nikola Mirotic,stomach virus (DTD),28,6.83,250,None,Montenegro,2011,1,23,46,15.2,7.4,1.2,3.7,4.50%,19.80%,20.60%,58.40%,6.10%,27.2,PF
+45,3/24/2018,2018,Pelicans,Nikola Mirotic,hip injury (DTD),28,6.83,250,None,Montenegro,2011,1,23,46,15.2,7.4,1.2,3.7,4.50%,19.80%,20.60%,58.40%,6.10%,27.2,PF
+46,3/24/2018,2018,Pelicans,Nikola Mirotic,right hip flexor injury (DTD),28,6.83,250,None,Montenegro,2011,1,23,46,15.2,7.4,1.2,3.7,4.50%,19.80%,20.60%,58.40%,6.10%,27.2,PF
+47,10/17/2017,2017,Bulls,Nikola Mirotic,fractured bones in face (out indefinitely),28,6.83,250,None,Montenegro,2011,1,23,46,15.2,7.4,1.2,3.7,4.50%,19.80%,20.60%,58.40%,6.10%,27.2,PF
+48,1/8/2018,2018,Nets,Nik Stauskas,ankle injury (DTD),25,6.5,205,Michigan,Canada,2014,1,8,68,5.9,1.9,1.2,-12.9,1.60%,10.40%,17.10%,54.50%,12.30%,12.8,SG
+49,11/10/2017,2017,76ers,Nik Stauskas,sprained right ankle (DTD),25,6.5,205,Michigan,Canada,2014,1,8,68,5.9,1.9,1.2,-12.9,1.60%,10.40%,17.10%,54.50%,12.30%,12.8,SG
+50,1/9/2018,2018,Heat,Tyler Johnson,strained left shoulder (DTD),27,6.33,190,Fresno State,USA,Undrafted,Undrafted,Undrafted,57,10.9,3,2.9,-4,2.10%,8.70%,18.00%,53.20%,16.50%,28.5,PG
+51,12/13/2017,2017,Heat,Tyler Johnson,migraine headache (DTD),27,6.33,190,Fresno State,USA,Undrafted,Undrafted,Undrafted,57,10.9,3,2.9,-4,2.10%,8.70%,18.00%,53.20%,16.50%,28.5,PG
+52,1/10/2018,2018,Jazz,Derrick Favors,sprained right ankle (DTD),27,6.83,265,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,11.50%,18.80%,18.80%,62.40%,7.90%,28,C
+53,3/5/2018,2018,Jazz,Derrick Favors,neck spasms (DTD),27,6.83,265,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,11.50%,18.80%,18.80%,62.40%,7.90%,28,C
+54,3/19/2018,2018,Jazz,Derrick Favors,sore left knee (DTD),27,6.83,265,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,11.50%,18.80%,18.80%,62.40%,7.90%,28,C
+55,12/16/2017,2017,Jazz,Derrick Favors,eye laceration (DTD),27,6.83,265,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,11.50%,18.80%,18.80%,62.40%,7.90%,28,C
+56,12/18/2017,2017,Jazz,Derrick Favors,concussion (DTD),27,6.83,265,Georgia Tech,USA,2010,1,3,76,11.8,7.4,1.2,4.6,11.50%,18.80%,18.80%,62.40%,7.90%,28,C
+57,1/10/2018,2018,Pacers,Myles Turner,right elbow injury (DTD),23,6.92,250,Texas,USA,2015,1,11,74,13.3,7.2,1.6,2.8,4.80%,19.50%,19.90%,56.70%,8.30%,28.2,C
+58,10/19/2017,2017,Pacers,Myles Turner,sore neck (DTD),23,6.92,250,Texas,USA,2015,1,11,74,13.3,7.2,1.6,2.8,4.80%,19.50%,19.90%,56.70%,8.30%,28.2,C
+59,1/10/2018,2018,Pelicans,Anthony Davis,sprained right ankle (DTD),26,6.83,253,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,8.90%,24.90%,28.80%,59.70%,18.60%,36.4,PF
+60,3/9/2018,2018,Pelicans,Anthony Davis,sprained left ankle (DTD),26,6.83,253,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,8.90%,24.90%,28.80%,59.70%,18.60%,36.4,PF
+61,10/26/2017,2017,Pelicans,Anthony Davis,left knee tendinitis (DTD),26,6.83,253,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,8.90%,24.90%,28.80%,59.70%,18.60%,36.4,PF
+62,12/2/2017,2017,Pelicans,Anthony Davis,strained adductor in left groin/pelvis (DTD),26,6.83,253,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,8.90%,24.90%,28.80%,59.70%,18.60%,36.4,PF
+63,12/11/2017,2017,Pelicans,Anthony Davis,strained adductor in left groin/pelvis (DTD),26,6.83,253,Kentucky,USA,2012,1,1,56,25.9,12,3.9,3.4,8.90%,24.90%,28.80%,59.70%,18.60%,36.4,PF
+64,1/10/2018,2018,Warriors,Stephen Curry,sprained right ankle (DTD),31,6.25,190,Davidson,USA,2009,1,7,69,27.3,5.3,5.2,13.7,2.00%,12.20%,29.20%,64.10%,22.50%,32,PG
+65,3/24/2018,2018,Warriors,Stephen Curry,sprained MCL in left knee (out indefinitely),31,6.25,190,Davidson,USA,2009,1,7,69,27.3,5.3,5.2,13.7,2.00%,12.20%,29.20%,64.10%,22.50%,32,PG
+66,12/5/2017,2017,Warriors,Stephen Curry,sprained right ankle (DTD),31,6.25,190,Davidson,USA,2009,1,7,69,27.3,5.3,5.2,13.7,2.00%,12.20%,29.20%,64.10%,22.50%,32,PG
+67,1/11/2018,2018,76ers,Amir Johnson,gasroenteritis (DTD),32,6.75,240,None,USA,2005,2,56,51,3.9,2.9,1.2,-5,8.40%,18.50%,16.90%,57.40%,15.60%,15.8,C
+68,3/28/2018,2018,76ers,Amir Johnson,illness (DTD),32,6.75,240,None,USA,2005,2,56,51,3.9,2.9,1.2,-5,8.40%,18.50%,16.90%,57.40%,15.60%,15.8,C
+69,1/11/2018,2018,Clippers,C.J. Williams,sprained right ankle (DTD),29,6.42,226,North Carolina State,USA,Undrafted,Undrafted,Undrafted,15,2.6,0.5,0.8,-17.5,0.70%,5.30%,13.80%,55.00%,15.80%,18.6,SG
+70,1/11/2018,2018,Rockets,Zhou Qi,right elbow injury (DTD),23,7.08,210,None,China,2016,2,43,1,2,0,0,-66.7,0.00%,0.00%,33.30%,100%,0.00%,6.9,C
+71,3/14/2018,2018,Rockets,Zhou Qi,rib injury (DTD),23,7.08,210,None,China,2016,2,43,1,2,0,0,-66.7,0.00%,0.00%,33.30%,100%,0.00%,6.9,C
+72,11/29/2017,2017,Rockets,Zhou Qi,sore left calf (DTD),23,7.08,210,None,China,2016,2,43,1,2,0,0,-66.7,0.00%,0.00%,33.30%,100%,0.00%,6.9,C
+73,1/12/2018,2018,Blazers,Evan Turner,illness (DTD),30,6.58,220,Ohio State,USA,2010,1,2,73,6.8,4.5,3.9,1.3,2.20%,16.70%,15.80%,50.40%,24.20%,25.7,SF
+74,10/25/2017,2017,Cavaliers,Dwyane Wade,bruised left knee (DTD),37,6.33,220,Marquette,USA,2003,1,5,72,15,4,4.2,-1.8,3.30%,10.60%,26.90%,51.00%,26.40%,22.9,SG
+75,12/12/2017,2017,Cavaliers,Dwyane Wade,sore left knee (DTD),37,6.33,220,Marquette,USA,2003,1,5,72,15,4,4.2,-1.8,3.30%,10.60%,26.90%,51.00%,26.40%,22.9,SG
+76,1/12/2018,2018,Heat,Dion Waiters,surgery on left ankle (out indefinitely) (date approximate),27,6.33,215,Syracuse,USA,2012,1,4,44,12,2.6,2.8,-2,0.60%,9.40%,21.30%,53.00%,16.40%,30.6,SG
+77,12/23/2017,2017,Heat,Dion Waiters,sprained left ankle (DTD),27,6.33,215,Syracuse,USA,2012,1,4,44,12,2.6,2.8,-2,0.60%,9.40%,21.30%,53.00%,16.40%,30.6,SG
+78,1/13/2018,2018,Clippers,DeAndre Jordan,sprained left ankle (DTD),30,6.92,265,Texas A&M,USA,2008,2,35,69,11,13.1,2.3,-5.1,10.50%,31.50%,14.80%,67.40%,11.90%,31.5,C
+79,1/13/2018,2018,Jazz,Thabo Sefolosha,surgery on right knee (out for season),35,6.58,220,None,Switzerland,2006,1,13,50,3.8,2.5,0.5,8.8,1.40%,18.10%,12.90%,59.90%,5.90%,21.2,SF
+80,1/13/2018,2018,Nets,Tyler Zeller,sore left hip (DTD),29,7,253,North Carolina,USA,2012,1,17,6,7.7,4,0.7,6.7,10.50%,12.30%,19.10%,60.70%,6.90%,16.8,C
+81,3/5/2018,2018,Bucks,Tyler Zeller,sore back (DTD),29,7,253,North Carolina,USA,2012,1,17,6,7.7,4,0.7,6.7,10.50%,12.30%,19.10%,60.70%,6.90%,16.8,C
+82,12/15/2017,2017,Heat,Justise Winslow,strained left knee (DTD),23,6.58,225,Duke,USA,2015,1,10,66,12.6,5.4,4.3,3.4,3.10%,14.10%,20.60%,51.30%,21.30%,24.7,PF
+83,1/15/2018,2018,76ers,Richaun Holmes,gastroenteritis (DTD),25,6.83,235,Bowling Green,USA,2015,2,37,70,8.2,4.7,0.9,-5.4,9.50%,17.30%,17.40%,64.70%,8.20%,15.5,C
+84,10/8/2017,2017,76ers,Richaun Holmes,fractured wrist (out indefinitely),25,6.83,235,Bowling Green,USA,2015,2,37,70,8.2,4.7,0.9,-5.4,9.50%,17.30%,17.40%,64.70%,8.20%,15.5,C
+85,11/20/2017,2017,76ers,Richaun Holmes,illness (DTD),25,6.83,235,Bowling Green,USA,2015,2,37,70,8.2,4.7,0.9,-5.4,9.50%,17.30%,17.40%,64.70%,8.20%,15.5,C
+86,1/15/2018,2018,Lakers,Brandon Ingram,sprained left ankle/knee (DTD),21,6.75,190,Duke,USA,2016,1,2,52,18.3,5.1,3,-1.5,2.20%,11.30%,22.70%,55.50%,12.70%,33.5,SF
+87,1/19/2018,2018,Lakers,Brandon Ingram,sprained left ankle (DTD),21,6.75,190,Duke,USA,2016,1,2,52,18.3,5.1,3,-1.5,2.20%,11.30%,22.70%,55.50%,12.70%,33.5,SF
+88,1/15/2018,2018,Lakers,Lonzo Ball,sprained left knee (DTD),21,6.5,190,California-Los Angeles,USA,2017,1,2,47,9.9,5.3,5.4,-0.7,3.60%,12.40%,16.70%,48.70%,23.60%,34.2,PG
+89,3/30/2018,2018,Lakers,Lonzo Ball,bruised left knee (out for season),21,6.5,190,California-Los Angeles,USA,2017,1,2,47,9.9,5.3,5.4,-0.7,3.60%,12.40%,16.70%,48.70%,23.60%,34.2,PG
+90,12/24/2017,2017,Lakers,Lonzo Ball,sprained left shoulder (DTD),21,6.5,190,California-Los Angeles,USA,2017,1,2,47,9.9,5.3,5.4,-0.7,3.60%,12.40%,16.70%,48.70%,23.60%,34.2,PG
+91,1/16/2018,2018,Mavericks,J.J. Barea,strained left groin (DTD),35,6,185,Northeastern,Puerto Rico,Undrafted,Undrafted,Undrafted,38,10.9,2.5,5.6,3.2,1.60%,10.60%,26.30%,49.50%,45.40%,23.2,PG
+92,1/27/2018,2018,Mavericks,J.J. Barea,strained left oblique (DTD),35,6,185,Northeastern,Puerto Rico,Undrafted,Undrafted,Undrafted,38,10.9,2.5,5.6,3.2,1.60%,10.60%,26.30%,49.50%,45.40%,23.2,PG
+93,1/17/2018,2018,Grizzlies,Marc Gasol,illness (DTD),34,7.08,255,None,Spain,2007,2,48,79,13.6,7.9,4.4,3.5,3.40%,22.70%,21.00%,54.60%,22.20%,33,C
+94,2/24/2018,2018,Grizzlies,Marc Gasol,DNP,34,7.08,255,None,Spain,2007,2,48,79,13.6,7.9,4.4,3.5,3.40%,22.70%,21.00%,54.60%,22.20%,33,C
+95,3/19/2018,2018,Grizzlies,Marc Gasol,illness (DTD),34,7.08,255,None,Spain,2007,2,48,79,13.6,7.9,4.4,3.5,3.40%,22.70%,21.00%,54.60%,22.20%,33,C
+96,1/17/2018,2018,Pistons,Luke Kennard,thumb injury (DTD),23,6.42,206,Duke,USA,2017,1,12,63,9.7,2.9,1.8,0.3,0.80%,12.10%,17.90%,56.00%,12.20%,20,SG
+97,2/3/2018,2018,Pistons,Luke Kennard,sore left big toe (DTD),23,6.42,206,Duke,USA,2017,1,12,63,9.7,2.9,1.8,0.3,0.80%,12.10%,17.90%,56.00%,12.20%,20,SG
+98,1/18/2018,2018,Bulls,Kris Dunn,concussion (out indefinitely),25,6.33,205,Providence,USA,2016,1,5,46,11.3,4.1,6,-7.6,1.30%,11.90%,19.80%,48.40%,29.00%,29.3,PG
+99,3/16/2018,2018,Bulls,Kris Dunn,sprained right toe (out for season),25,6.33,205,Providence,USA,2016,1,5,46,11.3,4.1,6,-7.6,1.30%,11.90%,19.80%,48.40%,29.00%,29.3,PG
+100,10/7/2017,2017,Bulls,Kris Dunn,dislocated left index finger (out indefinitely),25,6.33,205,Providence,USA,2016,1,5,46,11.3,4.1,6,-7.6,1.30%,11.90%,19.80%,48.40%,29.00%,29.3,PG
+101,12/29/2017,2017,Bulls,Kris Dunn,patellar tendinitis in left knee (DTD),25,6.33,205,Providence,USA,2016,1,5,46,11.3,4.1,6,-7.6,1.30%,11.90%,19.80%,48.40%,29.00%,29.3,PG
+102,1/18/2018,2018,Lakers,Kentavious Caldwell-Pope,strained right Achilles (DTD),26,6.42,205,Georgia,USA,2013,1,8,82,11.4,2.9,1.3,-3.7,2.20%,8.80%,17.50%,56.80%,7.70%,33.2,SG
+103,1/19/2018,2018,Bucks,Giannis Antetokounmpo,sore right knee (DTD),24,6.92,242,None,Greece,2013,1,15,72,27.7,12.5,5.9,12.5,6.60%,27.30%,31.40%,64.40%,29.40%,36.7,PF
+104,11/22/2017,2017,Bucks,Giannis Antetokounmpo,sore right knee (DTD),24,6.92,242,None,Greece,2013,1,15,72,27.7,12.5,5.9,12.5,6.60%,27.30%,31.40%,64.40%,29.40%,36.7,PF
+105,1/19/2018,2018,Warriors,Jordan Bell,left ankle injury (out indefinitely),24,6.75,224,Oregon,USA,2017,2,38,68,3.3,2.7,1.1,-5.3,6.80%,15.40%,13.30%,53.10%,13.40%,14.2,C
+106,3/7/2018,2018,Warriors,Jordan Bell,sprained right ankle (DTD),24,6.75,224,Oregon,USA,2017,2,38,68,3.3,2.7,1.1,-5.3,6.80%,15.40%,13.30%,53.10%,13.40%,14.2,C
+107,1/20/2018,2018,Grizzlies,Andrew Harrison,left shoulder injury (DTD),24,6.5,213,Kentucky,USA,2015,2,44,17,3.2,1.2,1.4,-5.5,3.20%,7.40%,17.10%,44.30%,19.40%,23.7,PG
+108,3/2/2018,2018,Grizzlies,Andrew Harrison,right wrist injury (DTD),24,6.5,213,Kentucky,USA,2015,2,44,17,3.2,1.2,1.4,-5.5,3.20%,7.40%,17.10%,44.30%,19.40%,23.7,PG
+109,3/22/2018,2018,Grizzlies,Andrew Harrison,right wrist injury (DTD),24,6.5,213,Kentucky,USA,2015,2,44,17,3.2,1.2,1.4,-5.5,3.20%,7.40%,17.10%,44.30%,19.40%,23.7,PG
+110,3/28/2018,2018,Grizzlies,Andrew Harrison,right wrist injury (out for season),24,6.5,213,Kentucky,USA,2015,2,44,17,3.2,1.2,1.4,-5.5,3.20%,7.40%,17.10%,44.30%,19.40%,23.7,PG
+111,1/20/2018,2018,Heat,Goran Dragic,bruised left knee (DTD),33,6.25,190,None,Slovenia,2008,2,45,36,13.7,3.1,4.8,1.3,1.90%,8.70%,22.40%,51.70%,25.90%,31.7,PG
+112,12/18/2017,2017,Heat,Goran Dragic,sore left elbow (DTD),33,6.25,190,None,Slovenia,2008,2,45,36,13.7,3.1,4.8,1.3,1.90%,8.70%,22.40%,51.70%,25.90%,31.7,PG
+113,1/20/2018,2018,Jazz,Rodney Hood,bruised lower leg (DTD),26,6.67,206,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,1.20%,7.10%,17.80%,54.50%,10.10%,26.9,SG
+114,3/10/2018,2018,Cavaliers,Rodney Hood,strained lower back (DTD),26,6.67,206,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,1.20%,7.10%,17.80%,54.50%,10.10%,26.9,SG
+115,3/17/2018,2018,Cavaliers,Rodney Hood,strained lower back (DTD),26,6.67,206,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,1.20%,7.10%,17.80%,54.50%,10.10%,26.9,SG
+116,11/28/2017,2017,Jazz,Rodney Hood,sore left ankle (DTD),26,6.67,206,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,1.20%,7.10%,17.80%,54.50%,10.10%,26.9,SG
+117,12/7/2017,2017,Jazz,Rodney Hood,sore left ankle (DTD),26,6.67,206,Duke,USA,2014,1,23,72,11.2,2.2,1.8,-7.4,1.20%,7.10%,17.80%,54.50%,10.10%,26.9,SG
+118,1/20/2018,2018,Timberwolves,Jamal Crawford,sprained left big toe (DTD),39,6.42,185,Michigan,USA,2000,1,8,64,7.9,1.3,3.6,-15.1,0.60%,6.10%,19.80%,52.20%,28.30%,20.7,SG
+119,1/20/2018,2018,Timberwolves,Jimmy Butler,sore right knee (DTD),29,6.67,232,Marquette,USA,2011,1,30,65,18.7,5.3,4,3.6,5.40%,9.40%,21.80%,57.10%,17.90%,36.7,SG
+120,2/25/2018,2018,Timberwolves,Jimmy Butler,surgery on right knee to repair meniscus injury,29,6.67,232,Marquette,USA,2011,1,30,65,18.7,5.3,4,3.6,5.40%,9.40%,21.80%,57.10%,17.90%,36.7,SG
+121,10/24/2017,2017,Timberwolves,Jimmy Butler,upper respiratory illness (DTD),29,6.67,232,Marquette,USA,2011,1,30,65,18.7,5.3,4,3.6,5.40%,9.40%,21.80%,57.10%,17.90%,36.7,SG
+122,1/20/2018,2018,Rockets,Troy Williams,illness (DTD),24,6.58,218,Indiana,USA,Undrafted,Undrafted,Undrafted,21,5.3,2.8,0.5,-9.5,3.40%,14.40%,14.40%,53.10%,5.10%,14.6,SF
+123,4/2/2018,2018,Knicks,Troy Williams,fractured jaw (out for season),24,6.58,218,Indiana,USA,Undrafted,Undrafted,Undrafted,21,5.3,2.8,0.5,-9.5,3.40%,14.40%,14.40%,53.10%,5.10%,14.6,SF
+124,12/2/2017,2017,Rockets,Troy Williams,sprained MCL in right knee (DTD),24,6.58,218,Indiana,USA,Undrafted,Undrafted,Undrafted,21,5.3,2.8,0.5,-9.5,3.40%,14.40%,14.40%,53.10%,5.10%,14.6,SF
+125,1/21/2018,2018,Grizzlies,JaMychal Green,right ankle injury (DTD),29,6.75,227,Alabama,USA,Undrafted,Undrafted,Undrafted,65,9.4,6.3,0.8,-5.8,7.10%,21.80%,18.50%,58.70%,5.80%,28,PF
+126,3/2/2018,2018,Grizzlies,JaMychal Green,illness (DTD),29,6.75,227,Alabama,USA,Undrafted,Undrafted,Undrafted,65,9.4,6.3,0.8,-5.8,7.10%,21.80%,18.50%,58.70%,5.80%,28,PF
+127,4/1/2018,2018,Grizzlies,JaMychal Green,sore left knee (out for season),29,6.75,227,Alabama,USA,Undrafted,Undrafted,Undrafted,65,9.4,6.3,0.8,-5.8,7.10%,21.80%,18.50%,58.70%,5.80%,28,PF
+128,10/19/2017,2017,Grizzlies,JaMychal Green,sprained left ankle (DTD),29,6.75,227,Alabama,USA,Undrafted,Undrafted,Undrafted,65,9.4,6.3,0.8,-5.8,7.10%,21.80%,18.50%,58.70%,5.80%,28,PF
+129,1/22/2018,2018,Clippers,Jawun Evans,sore lower abdominal (DTD),22,6,190,Oklahoma State,USA,2017,2,39,8,0.8,1.5,1.3,-38,1.50%,17.20%,14.20%,21.40%,23.80%,16.2,PG
+130,1/24/2018,2018,Clippers,Jawun Evans,sore lower abdominal (DTD),22,6,190,Oklahoma State,USA,2017,2,39,8,0.8,1.5,1.3,-38,1.50%,17.20%,14.20%,21.40%,23.80%,16.2,PG
+131,3/30/2018,2018,Clippers,Jawun Evans,abdominal injury / sports hernia / athletic pubalgia (out for season),22,6,190,Oklahoma State,USA,2017,2,39,8,0.8,1.5,1.3,-38,1.50%,17.20%,14.20%,21.40%,23.80%,16.2,PG
+132,1/22/2018,2018,Hornets,Michael Kidd-Gilchrist,right axillary abscess (DTD),25,6.58,232,Kentucky,USA,2012,1,2,64,6.7,3.8,1,-0.9,6.90%,12.90%,15.30%,55.30%,7.70%,25,SF
+133,2/28/2018,2018,Hornets,Michael Kidd-Gilchrist,sore left hamstring (DTD),25,6.58,232,Kentucky,USA,2012,1,2,64,6.7,3.8,1,-0.9,6.90%,12.90%,15.30%,55.30%,7.70%,25,SF
+134,1/22/2018,2018,Spurs,Pau Gasol,sprained right wrist (DTD),38,7,250,None,Spain,2001,1,3,30,3.9,4.6,1.7,-6.2,5.80%,30.40%,15.10%,52.90%,20.90%,23.5,C
+135,3/7/2018,2018,Spurs,Pau Gasol,sprained right shoulder (DTD),38,7,250,None,Spain,2001,1,3,30,3.9,4.6,1.7,-6.2,5.80%,30.40%,15.10%,52.90%,20.90%,23.5,C
+136,3/8/2018,2018,Spurs,Pau Gasol,sprained ACL in right knee (DTD),38,7,250,None,Spain,2001,1,3,30,3.9,4.6,1.7,-6.2,5.80%,30.40%,15.10%,52.90%,20.90%,23.5,C
+137,1/24/2018,2018,Celtics,Marcus Smart,right hand injury (DTD),25,6.33,220,Oklahoma State,USA,2014,1,6,80,8.9,2.9,4,3.8,2.50%,7.70%,14.40%,56.80%,19.00%,29.9,SG
+138,3/12/2018,2018,Celtics,Marcus Smart,sprained right thumb (out indefinitely),25,6.33,220,Oklahoma State,USA,2014,1,6,80,8.9,2.9,4,3.8,2.50%,7.70%,14.40%,56.80%,19.00%,29.9,SG
+139,3/16/2018,2018,Celtics,Marcus Smart,surgery on right thumb (out indefinitely),25,6.33,220,Oklahoma State,USA,2014,1,6,80,8.9,2.9,4,3.8,2.50%,7.70%,14.40%,56.80%,19.00%,29.9,SG
+140,1/24/2018,2018,Grizzlies,Jarell Martin,left knee injury (DTD),25,6.83,239,Louisiana State,USA,2015,1,25,42,2.7,1.7,0.4,4.4,3.10%,18.50%,15.30%,52.80%,7.80%,22.8,PF
+141,3/5/2018,2018,Grizzlies,Jarell Martin,right knee injury (DTD),25,6.83,239,Louisiana State,USA,2015,1,25,42,2.7,1.7,0.4,4.4,3.10%,18.50%,15.30%,52.80%,7.80%,22.8,PF
+142,4/5/2018,2018,Grizzlies,Jarell Martin,left ankle injury (out for season),25,6.83,239,Louisiana State,USA,2015,1,25,42,2.7,1.7,0.4,4.4,3.10%,18.50%,15.30%,52.80%,7.80%,22.8,PF
+143,1/24/2018,2018,Pistons,Reggie Bullock,thumb injury (DTD),28,6.58,205,North Carolina,USA,2013,1,25,63,11.3,2.7,2,-1.3,1.10%,8.20%,15.40%,56.30%,9.60%,27.9,SF
+144,3/13/2018,2018,Pistons,Reggie Bullock,back injury (DTD),28,6.58,205,North Carolina,USA,2013,1,25,63,11.3,2.7,2,-1.3,1.10%,8.20%,15.40%,56.30%,9.60%,27.9,SF
+145,1/24/2018,2018,Suns,Alex Len,sore right ankle (DTD),26,7.08,250,Maryland,Ukraine,2013,1,5,77,11.1,5.5,1.1,-4.4,9.00%,15.90%,21.40%,57.50%,8.60%,20.2,C
+146,3/28/2018,2018,Suns,Alex Len,sprained left ankle (DTD),26,7.08,250,Maryland,Ukraine,2013,1,5,77,11.1,5.5,1.1,-4.4,9.00%,15.90%,21.40%,57.50%,8.60%,20.2,C
+147,12/2/2017,2017,Suns,Alex Len,ankle injury (DTD),26,7.08,250,Maryland,Ukraine,2013,1,5,77,11.1,5.5,1.1,-4.4,9.00%,15.90%,21.40%,57.50%,8.60%,20.2,C
+148,1/25/2018,2018,Warriors,Patrick McCaw,strained back (DTD),23,6.58,185,UNLV,USA,2016,2,38,29,2.6,1.7,1,-6.4,1.70%,10.50%,9.30%,53.20%,9.90%,16.9,SG
+149,12/5/2017,2017,Warriors,Patrick McCaw,bruised nose (DTD),23,6.58,185,UNLV,USA,2016,2,38,29,2.6,1.7,1,-6.4,1.70%,10.50%,9.30%,53.20%,9.90%,16.9,SG
+150,12/6/2017,2017,Warriors,Patrick McCaw,concussion (DTD),23,6.58,185,UNLV,USA,2016,2,38,29,2.6,1.7,1,-6.4,1.70%,10.50%,9.30%,53.20%,9.90%,16.9,SG
+151,1/26/2018,2018,Grizzlies,Ben McLemore,sore right knee (DTD),26,6.42,201,Kansas,USA,2013,1,7,19,3.9,0.9,0.2,-3.5,1.80%,8.90%,18.50%,54.10%,3.50%,19.5,SG
+152,8/8/2017,2017,Grizzlies,Ben McLemore,surgery on right foot to repair fracture (out indefinitely),26,6.42,201,Kansas,USA,2013,1,7,19,3.9,0.9,0.2,-3.5,1.80%,8.90%,18.50%,54.10%,3.50%,19.5,SG
+153,1/26/2018,2018,Kings,Willie Cauley-Stein,bruised right knee (DTD),25,7,240,Kentucky,USA,2015,1,6,81,11.9,8.4,2.4,1.2,7.40%,21.30%,17.30%,56.60%,12.10%,28,C
+154,12/2/2017,2017,Kings,Willie Cauley-Stein,sore back (DTD),25,7,240,Kentucky,USA,2015,1,6,81,11.9,8.4,2.4,1.2,7.40%,21.30%,17.30%,56.60%,12.10%,28,C
+155,12/5/2017,2017,Kings,Willie Cauley-Stein,strained lower back (DTD),25,7,240,Kentucky,USA,2015,1,6,81,11.9,8.4,2.4,1.2,7.40%,21.30%,17.30%,56.60%,12.10%,28,C
+156,1/26/2018,2018,Pelicans,DeMarcus Cousins,torn left Achilles tendon (out for season),28,6.92,270,Kentucky,USA,2010,1,5,30,16.3,8.2,3.6,4.5,5.90%,23.20%,28.10%,56.20%,20.60%,36.2,C
+157,1/27/2018,2018,Pelicans,DeMarcus Cousins,surgery to repair torn left Achilles tendon (out for season),28,6.92,270,Kentucky,USA,2010,1,5,30,16.3,8.2,3.6,4.5,5.90%,23.20%,28.10%,56.20%,20.60%,36.2,C
+158,1/31/2018,2018,Pelicans,DeMarcus Cousins,surgery to repair torn left Achilles tendon (out for season),28,6.92,270,Kentucky,USA,2010,1,5,30,16.3,8.2,3.6,4.5,5.90%,23.20%,28.10%,56.20%,20.60%,36.2,C
+159,1/26/2018,2018,Suns,Tyson Chandler,illness (DTD),36,7.08,240,None,USA,2001,1,2,55,3.1,5.6,0.7,-1.9,9.40%,21.30%,8.40%,63.00%,5.70%,25,C
+160,2/14/2018,2018,Suns,Tyson Chandler,neck spasms (DTD),36,7.08,240,None,USA,2001,1,2,55,3.1,5.6,0.7,-1.9,9.40%,21.30%,8.40%,63.00%,5.70%,25,C
+161,3/17/2018,2018,Suns,Tyson Chandler,neck injury (out for season),36,7.08,240,None,USA,2001,1,2,55,3.1,5.6,0.7,-1.9,9.40%,21.30%,8.40%,63.00%,5.70%,25,C
+162,11/8/2017,2017,Suns,Tyson Chandler,back spasms (DTD),36,7.08,240,None,USA,2001,1,2,55,3.1,5.6,0.7,-1.9,9.40%,21.30%,8.40%,63.00%,5.70%,25,C
+163,1/26/2018,2018,Celtics,Guerschon Yabusele,ankle injury (DTD),23,6.67,260,None,France,2016,1,16,41,2.3,1.3,0.4,-3.6,8.40%,10.40%,16.80%,54.20%,8.80%,7.1,PF
+164,1/26/2018,2018,Grizzlies,Tyreke Evans,illness (DTD),29,6.5,220,Memphis,USA,2009,1,4,69,10.2,2.9,2.4,1.9,2.30%,11.40%,25.50%,48.30%,17.60%,30.9,PG
+165,1/31/2018,2018,Grizzlies,Tyreke Evans,DNP,29,6.5,220,Memphis,USA,2009,1,4,69,10.2,2.9,2.4,1.9,2.30%,11.40%,25.50%,48.30%,17.60%,30.9,PG
+166,2/1/2018,2018,Grizzlies,Tyreke Evans,illness (DTD),29,6.5,220,Memphis,USA,2009,1,4,69,10.2,2.9,2.4,1.9,2.30%,11.40%,25.50%,48.30%,17.60%,30.9,PG
+167,12/13/2017,2017,Grizzlies,Tyreke Evans,sore right hip (DTD),29,6.5,220,Memphis,USA,2009,1,4,69,10.2,2.9,2.4,1.9,2.30%,11.40%,25.50%,48.30%,17.60%,30.9,PG
+168,1/27/2018,2018,Hornets,Michael Carter-Williams,strained left shoulder (DTD),27,6.5,190,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,4.30%,14.30%,17.60%,45.80%,26.20%,16.1,PG
+169,3/5/2018,2018,Hornets,Michael Carter-Williams,sprained left shoulder (out for season),27,6.5,190,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,4.30%,14.30%,17.60%,45.80%,26.20%,16.1,PG
+170,3/9/2018,2018,Hornets,Michael Carter-Williams,surgery on left shoulder to repair posterior tear in labrum (out for season),27,6.5,190,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,4.30%,14.30%,17.60%,45.80%,26.20%,16.1,PG
+171,10/11/2017,2017,Hornets,Michael Carter-Williams,sore knees (DTD),27,6.5,190,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,4.30%,14.30%,17.60%,45.80%,26.20%,16.1,PG
+172,10/20/2017,2017,Hornets,Michael Carter-Williams,sore knee (DTD),27,6.5,190,Syracuse,USA,2013,1,11,28,4.8,2.5,2.5,0.2,4.30%,14.30%,17.60%,45.80%,26.20%,16.1,PG
+173,1/27/2018,2018,Nets,Caris LeVert,sore left groin (DTD),24,6.58,204,Michigan,USA,2016,1,20,40,13.7,3.8,3.9,-0.2,3.00%,10.00%,23.50%,50.90%,23.10%,26.3,SF
+174,1/27/2018,2018,Nuggets,Tyler Lydon,arthroscopic surgery on left knee (out for season),23,6.83,225,Syracuse,USA,2017,1,24,25,0.9,0.7,0.2,-8.3,6.20%,13.30%,9.70%,59.50%,8.70%,2,PF
+175,1/28/2018,2018,Kings,Garrett Temple,sprained right ankle (DTD),33,6.5,195,Louisiana State,USA,Undrafted,Undrafted,Undrafted,75,7.8,2.9,1.4,-1.6,1.40%,9.20%,13.10%,54.30%,7.50%,24.8,SG
+176,2/26/2018,2018,Kings,Garrett Temple,back injury (DTD),33,6.5,195,Louisiana State,USA,Undrafted,Undrafted,Undrafted,75,7.8,2.9,1.4,-1.6,1.40%,9.20%,13.10%,54.30%,7.50%,24.8,SG
+177,3/21/2018,2018,Kings,Garrett Temple,sprained left ankle (out for season),33,6.5,195,Louisiana State,USA,Undrafted,Undrafted,Undrafted,75,7.8,2.9,1.4,-1.6,1.40%,9.20%,13.10%,54.30%,7.50%,24.8,SG
+178,1/28/2018,2018,Kings,Malachi Richardson,sprained left ankle (DTD),23,6.5,205,Syracuse,USA,2016,1,22,22,1.4,0.6,0,-4.6,1.60%,8.70%,14.20%,48.10%,0.00%,12.5,SG
+179,1/28/2018,2018,Pistons,Avery Bradley,sore right groin/hamstring (DTD),28,6.17,180,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,2.20%,6.50%,16.00%,49.60%,11.40%,31.2,SG
+180,3/13/2018,2018,Clippers,Avery Bradley,surgery to repair athletic pubalgia / sports hernia (out for season),28,6.17,180,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,2.20%,6.50%,16.00%,49.60%,11.40%,31.2,SG
+181,12/15/2017,2017,Pistons,Avery Bradley,strained right adductor (DTD),28,6.17,180,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,2.20%,6.50%,16.00%,49.60%,11.40%,31.2,SG
+182,12/17/2017,2017,Pistons,Avery Bradley,strained right adductor (DTD),28,6.17,180,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,2.20%,6.50%,16.00%,49.60%,11.40%,31.2,SG
+183,12/22/2017,2017,Pistons,Avery Bradley,sore right groin (DTD),28,6.17,180,Texas,USA,2010,1,19,63,9.9,2.8,2.4,-1.5,2.20%,6.50%,16.00%,49.60%,11.40%,31.2,SG
+184,1/29/2018,2018,Rockets,Trevor Ariza,strained left hamstring (DTD),33,6.67,215,California-Los Angeles,USA,2004,2,43,69,12.5,5.4,3.7,-6.8,2.10%,13.90%,16.40%,53.40%,14.90%,33.9,SF
+185,10/24/2017,2017,Rockets,Trevor Ariza,sprained left foot (DTD),33,6.67,215,California-Los Angeles,USA,2004,2,43,69,12.5,5.4,3.7,-6.8,2.10%,13.90%,16.40%,53.40%,14.90%,33.9,SF
+186,1/30/2018,2018,Cavaliers,Kevin Love,fractured left hand (out indefinitely),30,6.83,251,California-Los Angeles,USA,2008,1,5,22,17,10.9,2.2,-4.2,5.10%,34.40%,25.90%,56.10%,12.50%,28,C
+187,3/28/2018,2018,Cavaliers,Kevin Love,concussion (out indefinitely),30,6.83,251,California-Los Angeles,USA,2008,1,5,22,17,10.9,2.2,-4.2,5.10%,34.40%,25.90%,56.10%,12.50%,28,C
+188,5/26/2018,2018,Cavaliers,Kevin Love,concussion (DTD),30,6.83,251,California-Los Angeles,USA,2008,1,5,22,17,10.9,2.2,-4.2,5.10%,34.40%,25.90%,56.10%,12.50%,28,C
+189,12/9/2017,2017,Cavaliers,Kevin Love,sore left hip (DTD),30,6.83,251,California-Los Angeles,USA,2008,1,5,22,17,10.9,2.2,-4.2,5.10%,34.40%,25.90%,56.10%,12.50%,28,C
+190,1/30/2018,2018,Hornets,Marvin Williams,sprained left ankle (DTD),33,6.75,237,North Carolina,USA,2005,1,2,75,10.1,5.4,1.2,-0.4,3.30%,15.20%,14.70%,54.80%,6.10%,25.7,PF
+191,1/30/2018,2018,Magic,Aaron Gordon,strained left hip flexor (DTD),23,6.75,220,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,4.70%,16.50%,21.30%,53.80%,16.60%,32.9,PF
+192,3/9/2018,2018,Magic,Aaron Gordon,concussion (DTD),23,6.75,220,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,4.70%,16.50%,21.30%,53.80%,16.60%,32.9,PF
+193,4/6/2018,2018,Magic,Aaron Gordon,sore right calf (DTD),23,6.75,220,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,4.70%,16.50%,21.30%,53.80%,16.60%,32.9,PF
+194,12/9/2017,2017,Magic,Aaron Gordon,concussion (DTD),23,6.75,220,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,4.70%,16.50%,21.30%,53.80%,16.60%,32.9,PF
+195,12/16/2017,2017,Magic,Aaron Gordon,strained right calf (DTD),23,6.75,220,Arizona,USA,2014,1,4,78,16,7.4,3.7,1.5,4.70%,16.50%,21.30%,53.80%,16.60%,32.9,PF
+196,1/30/2018,2018,Rockets,Chris Paul,sore right groin (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+197,3/22/2018,2018,Rockets,Chris Paul,sore left hamstring (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+198,3/30/2018,2018,Rockets,Chris Paul,sore left hip / rest (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+199,4/1/2018,2018,Rockets,Chris Paul,sore left leg (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+200,5/25/2018,2018,Rockets,Chris Paul,strained right hamstring (out for season),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+201,10/18/2017,2017,Rockets,Chris Paul,bruised left knee (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+202,12/21/2017,2017,Rockets,Chris Paul,strained left adductor (DTD),34,6,175,Wake Forest,USA,2005,1,4,58,15.6,4.6,8.2,8.3,1.90%,12.30%,22.00%,56.00%,38.20%,31.8,PG
+203,1/31/2018,2018,Grizzlies,Deyonta Davis,sore knees (DTD),22,6.92,237,Michigan State,USA,2016,2,31,9,4,4,0.6,-9.8,6.30%,19.30%,9.90%,68.20%,6.30%,15.2,C
+204,2/6/2018,2018,Grizzlies,Deyonta Davis,sore knees (DTD),22,6.92,237,Michigan State,USA,2016,2,31,9,4,4,0.6,-9.8,6.30%,19.30%,9.90%,68.20%,6.30%,15.2,C
+205,2/27/2018,2018,Grizzlies,Deyonta Davis,left ankle injury (DTD),22,6.92,237,Michigan State,USA,2016,2,31,9,4,4,0.6,-9.8,6.30%,19.30%,9.90%,68.20%,6.30%,15.2,C
+206,2/2/2018,2018,Celtics,Marcus Morris,bruised left hip (DTD),29,6.75,235,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,3.50%,17.60%,20.30%,56.80%,7.30%,26.8,PF
+207,3/28/2018,2018,Celtics,Marcus Morris,sprained right ankle (DTD),29,6.75,235,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,3.50%,17.60%,20.30%,56.80%,7.30%,26.8,PF
+208,12/6/2017,2017,Celtics,Marcus Morris,left knee injury (DTD),29,6.75,235,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,3.50%,17.60%,20.30%,56.80%,7.30%,26.8,PF
+209,12/10/2017,2017,Celtics,Marcus Morris,rehab of left knee (DTD),29,6.75,235,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,3.50%,17.60%,20.30%,56.80%,7.30%,26.8,PF
+210,12/26/2017,2017,Celtics,Marcus Morris,left knee injury (DTD),29,6.75,235,Kansas,USA,2011,1,14,75,13.9,6.1,1.5,1.4,3.50%,17.60%,20.30%,56.80%,7.30%,26.8,PF
+211,2/2/2018,2018,Bucks,Malcolm Brogdon,partially torn quadriceps tendon in left leg (out indefinitely),26,6.42,229,Virginia,USA,2016,2,36,64,15.6,4.5,3.2,10.7,3.50%,10.70%,20.20%,61.40%,15.70%,29.9,PG
+212,10/23/2017,2017,Bucks,Malcolm Brogdon,sprained left ankle (DTD),26,6.42,229,Virginia,USA,2016,2,36,64,15.6,4.5,3.2,10.7,3.50%,10.70%,20.20%,61.40%,15.70%,29.9,PG
+213,2/3/2018,2018,Heat,Hassan Whiteside,illness (DTD),30,7,265,Marshall,USA,2010,2,33,72,12.3,11.3,0.8,0.8,13.90%,30.50%,21.50%,56.40%,5.40%,25.3,C
+214,10/20/2017,2017,Heat,Hassan Whiteside,bruised left knee (DTD),30,7,265,Marshall,USA,2010,2,33,72,12.3,11.3,0.8,0.8,13.90%,30.50%,21.50%,56.40%,5.40%,25.3,C
+215,11/29/2017,2017,Heat,Hassan Whiteside,bone bruise in left knee (DTD),30,7,265,Marshall,USA,2010,2,33,72,12.3,11.3,0.8,0.8,13.90%,30.50%,21.50%,56.40%,5.40%,25.3,C
+216,2/3/2018,2018,Jazz,Donovan Mitchell,flu (DTD),22,6.25,215,Louisville,USA,2017,1,13,77,23.8,4.1,4.2,6.8,2.20%,9.30%,30.90%,53.70%,20.90%,33.4,SG
+217,12/20/2017,2017,Jazz,Donovan Mitchell,bruised right big toe (DTD),22,6.25,215,Louisville,USA,2017,1,13,77,23.8,4.1,4.2,6.8,2.20%,9.30%,30.90%,53.70%,20.90%,33.4,SG
+218,2/3/2018,2018,Wizards,Mike Scott,illness (DTD),30,6.67,237,Virginia,USA,2012,2,43,79,5.8,3.5,0.8,1.8,2.90%,14.70%,13.90%,52.80%,6.40%,18.5,PF
+219,2/4/2018,2018,Hawks,DeAndre' Bembry,strained left adductor (DTD),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+220,2/8/2018,2018,Hawks,DeAndre' Bembry,strained left adductor (DTD),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+221,2/9/2018,2018,Hawks,DeAndre' Bembry,strained left adductor (DTD),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+222,2/26/2018,2018,Hawks,DeAndre' Bembry,strained abdominal (DTD),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+223,4/12/2018,2018,Hawks,DeAndre' Bembry,fractured right wrist (out for season),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+224,9/13/2017,2017,Hawks,DeAndre' Bembry,strained right triceps (out indefinitely),24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+225,10/24/2017,2017,Hawks,DeAndre' Bembry,surgery on right wrist to repair fracture,24,6.5,210,Saint Joseph's,USA,2016,1,21,82,8.4,4.4,2.5,-5,2.60%,14.80%,16.80%,50.80%,15.00%,17.5,SF
+226,2/4/2018,2018,Hawks,Tyler Cavanaugh,sprained right ankle (DTD),25,6.75,238,George Washington,USA,Undrafted,Undrafted,Undrafted,11,0.8,0.7,0.1,-40.7,6.50%,12.80%,11.80%,41.40%,4.30%,13.3,PF
+227,2/5/2018,2018,Bucks,Matthew Dellavedova,sprained right ankle (DTD),28,6.33,200,Saint Mary's (CA),Australia,Undrafted,Undrafted,Undrafted,48,5.9,1.6,3.8,-3.8,0.70%,8.10%,17.30%,53.20%,32.90%,18.7,PG
+228,11/15/2017,2017,Bucks,Matthew Dellavedova,left knee tendinitis (DTD),28,6.33,200,Saint Mary's (CA),Australia,Undrafted,Undrafted,Undrafted,48,5.9,1.6,3.8,-3.8,0.70%,8.10%,17.30%,53.20%,32.90%,18.7,PG
+229,2/5/2018,2018,Suns,Devin Booker,left hip pointer (DTD),22,6.5,210,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,1.70%,9.90%,32.00%,58.40%,32.70%,34.5,SG
+230,3/10/2018,2018,Suns,Devin Booker,strained left tricep (DTD),22,6.5,210,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,1.70%,9.90%,32.00%,58.40%,32.70%,34.5,SG
+231,3/17/2018,2018,Suns,Devin Booker,sprained right hand (out for season),22,6.5,210,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,1.70%,9.90%,32.00%,58.40%,32.70%,34.5,SG
+232,11/26/2017,2017,Suns,Devin Booker,right big toe injury (DTD),22,6.5,210,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,1.70%,9.90%,32.00%,58.40%,32.70%,34.5,SG
+233,12/6/2017,2017,Suns,Devin Booker,strained adductor in left groin (out indefinitely),22,6.5,210,Kentucky,USA,2015,1,13,64,26.6,4.1,6.8,-6.9,1.70%,9.90%,32.00%,58.40%,32.70%,34.5,SG
+234,2/5/2018,2018,Pacers,Darren Collison,arthroscopic surgery on left knee (out indefinitely),31,6,175,California-Los Angeles,USA,2009,1,21,76,11.2,3.1,6,2.2,1.70%,8.90%,17.60%,57.40%,30.20%,29.2,PG
+235,12/10/2017,2017,Pacers,Darren Collison,sore left knee (DTD),31,6,175,California-Los Angeles,USA,2009,1,21,76,11.2,3.1,6,2.2,1.70%,8.90%,17.60%,57.40%,30.20%,29.2,PG
+236,2/6/2018,2018,Bucks,John Henson,sore right hamstring (DTD),28,6.92,219,North Carolina,USA,2012,1,14,14,5.6,5.1,1,1.7,7.40%,23.30%,17.30%,55.30%,10.80%,25.9,C
+237,2/10/2018,2018,Bucks,John Henson,sore right hamstring (DTD),28,6.92,219,North Carolina,USA,2012,1,14,14,5.6,5.1,1,1.7,7.40%,23.30%,17.30%,55.30%,10.80%,25.9,C
+238,3/30/2018,2018,Bucks,John Henson,right index finger injury (DTD),28,6.92,219,North Carolina,USA,2012,1,14,14,5.6,5.1,1,1.7,7.40%,23.30%,17.30%,55.30%,10.80%,25.9,C
+239,11/21/2017,2017,Bucks,John Henson,eye injury (DTD),28,6.92,219,North Carolina,USA,2012,1,14,14,5.6,5.1,1,1.7,7.40%,23.30%,17.30%,55.30%,10.80%,25.9,C
+240,2/7/2018,2018,Heat,Kelly Olynyk,strained left shoulder (DTD),28,7,240,Gonzaga,Canada,2013,1,13,79,10,4.7,1.8,1.9,3.80%,16.00%,17.50%,61.00%,11.30%,23.4,PF
+241,2/7/2018,2018,Heat,Wayne Ellington,strained right shoulder (DTD),31,6.42,200,North Carolina,USA,2009,1,28,53,10.3,2,1.4,-0.5,1.00%,7.30%,16.70%,56.90%,8.60%,26.5,SG
+242,3/1/2018,2018,Heat,Wayne Ellington,bruised left quadricep (DTD),31,6.42,200,North Carolina,USA,2009,1,28,53,10.3,2,1.4,-0.5,1.00%,7.30%,16.70%,56.90%,8.60%,26.5,SG
+243,2/7/2018,2018,Knicks,Ron Baker,surgery on right shoulder to repair dislocation (out for season),26,6.33,220,Wichita State,USA,Undrafted,Undrafted,Undrafted,15,0.9,0.7,1,-5.2,0.60%,6.90%,7.50%,30.90%,13.90%,13.3,SG
+244,11/13/2017,2017,Knicks,Ron Baker,shoulder injury (DTD),26,6.33,220,Wichita State,USA,Undrafted,Undrafted,Undrafted,15,0.9,0.7,1,-5.2,0.60%,6.90%,7.50%,30.90%,13.90%,13.3,SG
+245,2/7/2018,2018,Rockets,Eric Gordon,sore lower back (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+246,2/14/2018,2018,Rockets,Eric Gordon,bruised right knee (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+247,2/23/2018,2018,Rockets,Eric Gordon,illness (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+248,3/30/2018,2018,Rockets,Eric Gordon,sore left / right knee (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+249,4/11/2018,2018,Rockets,Eric Gordon,ankle injury / rest (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+250,11/22/2017,2017,Rockets,Eric Gordon,tightness in right calf (DTD),30,6.33,215,Indiana,USA,2008,1,7,68,16.2,2.2,1.9,8.1,0.70%,5.90%,21.50%,54.90%,9.00%,31.2,SG
+251,2/7/2018,2018,Rockets,Ryan Anderson,sprained right ankle (DTD),31,6.83,240,California,USA,2008,1,21,25,2.5,2.2,0.8,-12.8,5.50%,11.20%,12.00%,41.40%,8.80%,26.1,PF
+252,2/26/2018,2018,Rockets,Ryan Anderson,sore left groin/hip (DTD),31,6.83,240,California,USA,2008,1,21,25,2.5,2.2,0.8,-12.8,5.50%,11.20%,12.00%,41.40%,8.80%,26.1,PF
+253,4/4/2018,2018,Rockets,Ryan Anderson,sprained left ankle (DTD),31,6.83,240,California,USA,2008,1,21,25,2.5,2.2,0.8,-12.8,5.50%,11.20%,12.00%,41.40%,8.80%,26.1,PF
+254,2/8/2018,2018,Knicks,Enes Kanter,oral surgery (DTD),27,6.92,250,Kentucky,Turkey,2011,1,3,67,13.7,9.8,1.7,-6.2,13.80%,24.50%,21.90%,59.40%,12.00%,25.8,C
+255,3/11/2018,2018,Knicks,Enes Kanter,back spasms (DTD),27,6.92,250,Kentucky,Turkey,2011,1,3,67,13.7,9.8,1.7,-6.2,13.80%,24.50%,21.90%,59.40%,12.00%,25.8,C
+256,2/8/2018,2018,Mavericks,Johnathan Motley,sprained left ankle (DTD),24,6.83,230,Baylor,USA,Undrafted,Undrafted,Undrafted,22,4.6,2.3,0.5,-8.9,10.40%,21.30%,26.60%,56.30%,12.90%,16,PF
+257,2/8/2018,2018,Mavericks,Seth Curry,surgery on left leg to repair stress fracture (out for season),28,6.17,185,Duke,USA,Undrafted,Undrafted,Undrafted,74,7.9,1.6,0.9,4.3,1.90%,6.20%,16.40%,59.50%,6.80%,,
+258,10/7/2017,2017,Mavericks,Seth Curry,stress reaction in tibia in left leg (out for season),28,6.17,185,Duke,USA,Undrafted,Undrafted,Undrafted,74,7.9,1.6,0.9,4.3,1.90%,6.20%,16.40%,59.50%,6.80%,,
+259,2/10/2018,2018,Suns,Tyler Ulis,back injury (DTD),23,5.83,160,Kentucky,USA,2016,2,34,1,0,0,0,0,0.00%,0.00%,0.00%,0.00%,0.00%,23.4,PG
+260,2/10/2018,2018,Wizards,Markieff Morris,illness (DTD),29,6.83,245,Kansas,USA,2011,1,13,58,9.4,4.6,1.4,-5.9,4.50%,16.10%,19.10%,52.10%,9.20%,27,PF
+261,9/22/2017,2017,Wizards,Markieff Morris,surgery to repair sports hernia (out indefinitely),29,6.83,245,Kansas,USA,2011,1,13,58,9.4,4.6,1.4,-5.9,4.50%,16.10%,19.10%,52.10%,9.20%,27,PF
+262,12/13/2017,2017,Wizards,Markieff Morris,sore right hip (DTD),29,6.83,245,Kansas,USA,2011,1,13,58,9.4,4.6,1.4,-5.9,4.50%,16.10%,19.10%,52.10%,9.20%,27,PF
+263,2/11/2018,2018,Mavericks,Salah Mejri,stiff neck (DTD),33,7.17,235,None,Tunisia,Undrafted,Undrafted,Undrafted,36,3.9,3.6,1,-4.4,8.10%,21.60%,15.30%,55.90%,13.70%,12,C
+264,3/28/2018,2018,Mavericks,Salah Mejri,bruised right knee (DTD),33,7.17,235,None,Tunisia,Undrafted,Undrafted,Undrafted,36,3.9,3.6,1,-4.4,8.10%,21.60%,15.30%,55.90%,13.70%,12,C
+265,4/6/2018,2018,Mavericks,Salah Mejri,rest / knee injury (out for season),33,7.17,235,None,Tunisia,Undrafted,Undrafted,Undrafted,36,3.9,3.6,1,-4.4,8.10%,21.60%,15.30%,55.90%,13.70%,12,C
+266,2/11/2018,2018,Wizards,Tim Frazier,fractured nose (DTD),28,6.08,170,None,USA,Undrafted,Undrafted,Undrafted,59,5.3,2.8,4.2,-2.7,3.50%,10.60%,13.20%,54.40%,28.60%,14.2,PG
+267,2/12/2018,2018,Jazz,Tony Bradley,gastroenteritis (DTD),21,6.83,248,North Carolina,USA,2017,1,28,3,5.7,5,0.3,-18.9,19.60%,18.80%,20.00%,50.40%,4.20%,3.2,C
+268,2/14/2018,2018,76ers,Joel Embiid,sore right ankle (DTD),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+269,3/29/2018,2018,76ers,Joel Embiid,fractured left orbital bone (out indefinitely),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+270,3/31/2018,2018,76ers,Joel Embiid,surgery to repair fractured left orbital bone (out indefinitely),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+271,12/10/2017,2017,76ers,Joel Embiid,back injury (DTD),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+272,12/17/2017,2017,76ers,Joel Embiid,back injury (DTD),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+273,12/30/2017,2017,76ers,Joel Embiid,back injury (DTD),25,7,250,Kansas,Cameroon,2014,1,3,64,27.5,13.6,3.7,7.6,7.50%,29.20%,32.70%,59.30%,18.50%,30.3,C
+274,2/14/2018,2018,Hawks,Dennis Schroder,tightness in lower back (DTD),25,6.08,172,None,Germany,2013,1,17,79,15.5,3.6,4.1,3.6,1.50%,10.20%,23.80%,50.80%,20.90%,31,PG
+275,3/11/2018,2018,Hawks,Dennis Schroder,sprained left elbow (DTD),25,6.08,172,None,Germany,2013,1,17,79,15.5,3.6,4.1,3.6,1.50%,10.20%,23.80%,50.80%,20.90%,31,PG
+276,3/25/2018,2018,Hawks,Dennis Schroder,sprained left ankle (out for season),25,6.08,172,None,Germany,2013,1,17,79,15.5,3.6,4.1,3.6,1.50%,10.20%,23.80%,50.80%,20.90%,31,PG
+277,12/22/2017,2017,Hawks,Dennis Schroder,left ankle injury (DTD),25,6.08,172,None,Germany,2013,1,17,79,15.5,3.6,4.1,3.6,1.50%,10.20%,23.80%,50.80%,20.90%,31,PG
+278,3/12/2018,2018,Hawks,Kent Bazemore,bone bruise in right knee (out for season),29,6.42,201,Old Dominion,USA,Undrafted,Undrafted,Undrafted,67,11.6,3.9,2.3,-7.7,2.00%,12.60%,21.50%,50.70%,14.40%,27.5,SG
+279,2/14/2018,2018,Nets,Jahlil Okafor,tightness in left calf (DTD),23,6.92,275,Duke,USA,2015,1,3,59,8.2,4.7,0.7,-5.5,8.40%,19.60%,19.80%,60.30%,6.40%,12.6,C
+280,2/26/2018,2018,Nets,Jahlil Okafor,illness (DTD),23,6.92,275,Duke,USA,2015,1,3,59,8.2,4.7,0.7,-5.5,8.40%,19.60%,19.80%,60.30%,6.40%,12.6,C
+281,10/18/2017,2017,76ers,Jahlil Okafor,illness (DTD),23,6.92,275,Duke,USA,2015,1,3,59,8.2,4.7,0.7,-5.5,8.40%,19.60%,19.80%,60.30%,6.40%,12.6,C
+282,2/16/2018,2018,Lakers,Channing Frye,appendectomy (out indefinitely),36,7,255,Arizona,USA,2005,1,8,36,3.6,1.4,0.6,-22.7,1.00%,15.80%,17.40%,52.40%,10.00%,13.1,C
+283,2/17/2018,2018,Lakers,Channing Frye,appendectomy (out indefinitely),36,7,255,Arizona,USA,2005,1,8,36,3.6,1.4,0.6,-22.7,1.00%,15.80%,17.40%,52.40%,10.00%,13.1,C
+284,2/24/2018,2018,Lakers,Channing Frye,recovering from appendectomy (DTD),36,7,255,Arizona,USA,2005,1,8,36,3.6,1.4,0.6,-22.7,1.00%,15.80%,17.40%,52.40%,10.00%,13.1,C
+285,2/22/2018,2018,Grizzlies,Chandler Parsons,illness (DTD),30,6.83,230,Florida,USA,2011,2,38,25,7.5,2.8,1.7,-5.4,0.70%,12.60%,19.20%,48.40%,14.30%,19.2,SF
+286,3/24/2018,2018,Grizzlies,Chandler Parsons,sore right knee (DTD),30,6.83,230,Florida,USA,2011,2,38,25,7.5,2.8,1.7,-5.4,0.70%,12.60%,19.20%,48.40%,14.30%,19.2,SF
+287,11/29/2017,2017,Grizzlies,Chandler Parsons,sore right knee (DTD),30,6.83,230,Florida,USA,2011,2,38,25,7.5,2.8,1.7,-5.4,0.70%,12.60%,19.20%,48.40%,14.30%,19.2,SF
+288,12/29/2017,2017,Grizzlies,Chandler Parsons,sore right knee (DTD),30,6.83,230,Florida,USA,2011,2,38,25,7.5,2.8,1.7,-5.4,0.70%,12.60%,19.20%,48.40%,14.30%,19.2,SF
+289,2/23/2018,2018,Clippers,Danilo Gallinari,sprained right hand (DTD),30,6.83,225,None,Italy,2008,1,6,68,19.8,6.1,2.6,2.3,2.70%,17.10%,23.70%,63.30%,13.40%,32,SF
+290,3/2/2018,2018,Clippers,Danilo Gallinari,fractured right hand (out indefinitely),30,6.83,225,None,Italy,2008,1,6,68,19.8,6.1,2.6,2.3,2.70%,17.10%,23.70%,63.30%,13.40%,32,SF
+291,4/3/2018,2018,Clippers,Danilo Gallinari,sore right hand (out for season),30,6.83,225,None,Italy,2008,1,6,68,19.8,6.1,2.6,2.3,2.70%,17.10%,23.70%,63.30%,13.40%,32,SF
+292,7/30/2017,2017,Clippers,Danilo Gallinari,fractured bone in right hand (out indefinitely),30,6.83,225,None,Italy,2008,1,6,68,19.8,6.1,2.6,2.3,2.70%,17.10%,23.70%,63.30%,13.40%,32,SF
+293,11/6/2017,2017,Clippers,Danilo Gallinari,strained left gluteus muscle (DTD),30,6.83,225,None,Italy,2008,1,6,68,19.8,6.1,2.6,2.3,2.70%,17.10%,23.70%,63.30%,13.40%,32,SF
+294,2/23/2018,2018,Jazz,Raul Neto,sprained right ankle (DTD),27,6.08,179,None,Brazil,2013,2,47,37,5.3,1.7,2.5,17.5,1.40%,10.50%,18.40%,55.80%,25.10%,12.1,PG
+295,3/12/2018,2018,Jazz,Raul Neto,fractured left wrist (out indefinitely),27,6.08,179,None,Brazil,2013,2,47,37,5.3,1.7,2.5,17.5,1.40%,10.50%,18.40%,55.80%,25.10%,12.1,PG
+296,12/5/2017,2017,Jazz,Raul Neto,sore right foot (DTD),27,6.08,179,None,Brazil,2013,2,47,37,5.3,1.7,2.5,17.5,1.40%,10.50%,18.40%,55.80%,25.10%,12.1,PG
+297,12/11/2017,2017,Jazz,Raul Neto,concussion (DTD),27,6.08,179,None,Brazil,2013,2,47,37,5.3,1.7,2.5,17.5,1.40%,10.50%,18.40%,55.80%,25.10%,12.1,PG
+298,2/23/2018,2018,Spurs,Danny Green,illness (DTD),32,6.5,215,North Carolina,USA,2009,2,46,80,10.3,4,1.6,13.4,2.80%,10.70%,13.90%,63.20%,7.30%,25.6,SG
+299,12/9/2017,2017,Spurs,Danny Green,tightness in left groin (DTD),32,6.5,215,North Carolina,USA,2009,2,46,80,10.3,4,1.6,13.4,2.80%,10.70%,13.90%,63.20%,7.30%,25.6,SG
+300,12/16/2017,2017,Spurs,Danny Green,tightness in left groin (DTD),32,6.5,215,North Carolina,USA,2009,2,46,80,10.3,4,1.6,13.4,2.80%,10.70%,13.90%,63.20%,7.30%,25.6,SG
+301,12/21/2017,2017,Spurs,Danny Green,tightness in left groin (DTD),32,6.5,215,North Carolina,USA,2009,2,46,80,10.3,4,1.6,13.4,2.80%,10.70%,13.90%,63.20%,7.30%,25.6,SG
+302,2/26/2018,2018,Rockets,Clint Capela,illness (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+303,3/27/2018,2018,Rockets,Clint Capela,sprained left thumb (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+304,4/11/2018,2018,Rockets,Clint Capela,hand injury (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+305,12/16/2017,2017,Rockets,Clint Capela,bruised left heel (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+306,12/20/2017,2017,Rockets,Clint Capela,bruised left heel (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+307,12/27/2017,2017,Rockets,Clint Capela,fractured right orbital bone (DTD),25,6.83,240,None,Switzerland,2014,1,25,67,16.6,12.7,1.4,5.4,13.00%,24.10%,18.00%,65.80%,7.00%,27.5,C
+308,2/28/2018,2018,Bucks,Tony Snell,bruised right thigh (DTD),27,6.58,213,,USA,2013,1,20,74,6,2.1,0.9,6.6,2.10%,8.60%,12.70%,58.50%,6.90%,27.4,SG
+309,12/8/2017,2017,Bucks,Tony Snell,patella tendinitis in left knee (DTD),27,6.58,213,,USA,2013,1,20,74,6,2.1,0.9,6.6,2.10%,8.60%,12.70%,58.50%,6.90%,27.4,SG
+310,2/28/2018,2018,Celtics,Daniel Theis,sore right hamstring (DTD),27,6.67,243,None,Germany,Undrafted,Undrafted,Undrafted,66,5.7,3.4,1,7.4,8.80%,14.50%,15.00%,62.40%,10.80%,14.9,C
+311,3/12/2018,2018,Celtics,Daniel Theis,torn meniscus in left knee (out for season),27,6.67,243,None,Germany,Undrafted,Undrafted,Undrafted,66,5.7,3.4,1,7.4,8.80%,14.50%,15.00%,62.40%,10.80%,14.9,C
+312,2/28/2018,2018,Lakers,Josh Hart,fractured left hand (out indefinitely),24,6.42,215,Villanova,USA,2017,1,30,67,7.8,3.7,1.4,0.4,1.90%,10.90%,13.00%,52.60%,7.20%,23.2,SG
+313,3/2/2018,2018,Lakers,Josh Hart,surgery on left hand to repair fracture (out indefinitely),24,6.42,215,Villanova,USA,2017,1,30,67,7.8,3.7,1.4,0.4,1.90%,10.90%,13.00%,52.60%,7.20%,23.2,SG
+314,3/4/2018,2018,Cavaliers,Tristan Thompson,sprained right ankle (DTD),28,6.83,238,Texas,Canada,2011,1,4,43,10.9,10.2,2,-12.3,13.70%,23.70%,17.50%,55.10%,11.00%,20.2,C
+315,11/2/2017,2017,Cavaliers,Tristan Thompson,strained left calf (out indefinitely),28,6.83,238,Texas,Canada,2011,1,4,43,10.9,10.2,2,-12.3,13.70%,23.70%,17.50%,55.10%,11.00%,20.2,C
+316,12/14/2017,2017,Cavaliers,Tristan Thompson,strained left calf (DTD),28,6.83,238,Texas,Canada,2011,1,4,43,10.9,10.2,2,-12.3,13.70%,23.70%,17.50%,55.10%,11.00%,20.2,C
+317,3/8/2018,2018,Magic,Evan Fournier,sprained MCL in left knee (out for season),26,6.58,205,None,France,2012,1,20,81,15.1,3.2,3.6,1.7,1.40%,8.60%,21.70%,53.60%,17.00%,32.2,SF
+318,12/7/2017,2017,Magic,Evan Fournier,sprained right ankle (DTD),26,6.58,205,None,France,2012,1,20,81,15.1,3.2,3.6,1.7,1.40%,8.60%,21.70%,53.60%,17.00%,32.2,SF
+319,3/9/2018,2018,Celtics,Jaylen Brown,concussion (out indefinitely),22,6.58,220,California,USA,2016,1,3,74,13,4.2,1.4,2.3,3.20%,12.20%,21.50%,54.70%,7.90%,30.7,SG
+320,4/30/2018,2018,Celtics,Jaylen Brown,strained right hamstring (DTD),22,6.58,220,California,USA,2016,1,3,74,13,4.2,1.4,2.3,3.20%,12.20%,21.50%,54.70%,7.90%,30.7,SG
+321,12/21/2017,2017,Celtics,Jaylen Brown,sore left Achilles (DTD),22,6.58,220,California,USA,2016,1,3,74,13,4.2,1.4,2.3,3.20%,12.20%,21.50%,54.70%,7.90%,30.7,SG
+322,12/27/2017,2017,Celtics,Jaylen Brown,sore right knee (DTD),22,6.58,220,California,USA,2016,1,3,74,13,4.2,1.4,2.3,3.20%,12.20%,21.50%,54.70%,7.90%,30.7,SG
+323,3/9/2018,2018,Thunder,Terrance Ferguson,concussion (out indefinitely),21,6.58,190,None,USA,2017,1,21,74,6.9,1.9,1,3.9,1.50%,5.50%,10.40%,56.60%,4.60%,12.5,SG
+324,3/10/2018,2018,Cavaliers,Cedi Osman,strained left hip (out indefinitely),24,6.67,215,None,Turkey,2015,2,31,76,13,4.7,2.6,-12.8,1.80%,13.40%,18.20%,53.60%,12.00%,11,SF
+325,3/11/2018,2018,Mavericks,Wesley Matthews,fractured right fibula (out for season),32,6.42,220,Marquette,USA,Undrafted,Undrafted,Undrafted,69,12.2,2.5,2.3,-2,1.50%,6.30%,17.50%,54.60%,11.30%,33.8,SF
+326,3/12/2018,2018,Hawks,Jaylen Morris,sprained left ankle (out for season),23,6.42,185,Molloy,USA,Undrafted,Undrafted,Undrafted,4,2.5,1.3,1,22.5,0.00%,14.70%,15.00%,46.00%,17.40%,16.3,SG
+327,3/13/2018,2018,Nets,Jarrett Allen,sore left foot (DTD),21,6.92,237,Texas,USA,2017,1,22,80,10.9,8.4,1.4,-2.4,8.80%,20.80%,15.80%,63.20%,7.60%,20,C
+328,10/31/2017,2017,Nets,Jarrett Allen,strained left foot (DTD),21,6.92,237,Texas,USA,2017,1,22,80,10.9,8.4,1.4,-2.4,8.80%,20.80%,15.80%,63.20%,7.60%,20,C
+329,3/13/2018,2018,Warriors,Draymond Green,sore right shoulder (DTD),29,6.58,230,Michigan State,USA,2012,2,35,66,7.4,7.3,6.9,10.7,3.10%,18.00%,12.80%,52.60%,26.10%,32.7,PF
+330,3/22/2018,2018,Warriors,Draymond Green,bruised pelvis (DTD),29,6.58,230,Michigan State,USA,2012,2,35,66,7.4,7.3,6.9,10.7,3.10%,18.00%,12.80%,52.60%,26.10%,32.7,PF
+331,3/25/2018,2018,Warriors,Draymond Green,flu (DTD),29,6.58,230,Michigan State,USA,2012,2,35,66,7.4,7.3,6.9,10.7,3.10%,18.00%,12.80%,52.60%,26.10%,32.7,PF
+332,3/14/2018,2018,Celtics,Kyrie Irving,sore left knee (DTD),27,6.25,193,Duke,Australia,2011,1,1,67,23.8,5,6.9,6.2,3.10%,11.30%,28.60%,59.20%,33.00%,32.2,PG
+333,3/23/2018,2018,Celtics,Kyrie Irving,surgery on left knee (out for season),27,6.25,193,Duke,Australia,2011,1,1,67,23.8,5,6.9,6.2,3.10%,11.30%,28.60%,59.20%,33.00%,32.2,PG
+334,4/5/2018,2018,Celtics,Kyrie Irving,surgery on left knee to remove 2 screws (out for season) (date approximate),27,6.25,193,Duke,Australia,2011,1,1,67,23.8,5,6.9,6.2,3.10%,11.30%,28.60%,59.20%,33.00%,32.2,PG
+335,3/14/2018,2018,Heat,Josh Richardson,sore left foot (DTD),25,6.5,200,Tennessee,USA,2015,2,40,73,16.6,3.6,4.1,1,2.00%,7.80%,20.30%,53.60%,17.70%,33.2,SF
+336,3/14/2018,2018,Lakers,Kyle Kuzma,sprained right ankle (DTD),23,6.75,220,Utah,USA,2017,1,27,70,18.7,5.5,2.5,-1.3,2.50%,12.70%,23.30%,54.60%,11.30%,31.2,PF
+337,3/14/2018,2018,Pacers,Domantas Sabonis,sprained left ankle (DTD),23,6.92,240,Gonzaga,Lithuania,2016,1,11,74,14.1,9.3,2.9,5.2,9.90%,26.90%,22.60%,63.00%,18.00%,24.5,C
+338,3/16/2018,2018,76ers,Timothe Luwawu-Cabarrot,patellar tendinitis in right knee (DTD),24,6.5,210,None,France,2016,1,24,50,4.6,1.9,0.5,-14.4,1.50%,12.50%,15.60%,48.90%,5.70%,15.5,SF
+339,3/17/2018,2018,Bulls,Noah Vonleh,sprained right toe (DTD),23,6.75,250,Indiana,USA,2014,1,9,68,8.4,7.8,1.9,-7.6,6.00%,23.40%,14.40%,56.10%,10.80%,16.2,PF
+340,10/5/2017,2017,Blazers,Noah Vonleh,strained right shoulder (DTD),23,6.75,250,Indiana,USA,2014,1,9,68,8.4,7.8,1.9,-7.6,6.00%,23.40%,14.40%,56.10%,10.80%,16.2,PF
+341,3/17/2018,2018,Nuggets,Gary Harris,right knee injury (DTD),24,6.33,210,Michigan State,USA,2014,1,19,57,12.9,2.8,2.2,6.2,2.40%,7.00%,19.50%,52.60%,11.00%,34.4,SG
+342,3/24/2018,2018,Pelicans,Rajon Rondo,sprained right wrist (DTD),33,6.08,186,Kentucky,USA,2006,1,21,46,9.2,5.3,8,-8.6,2.30%,14.20%,17.20%,47.30%,36.00%,26.2,PG
+343,3/27/2018,2018,Pelicans,Rajon Rondo,sprained right wrist (DTD),33,6.08,186,Kentucky,USA,2006,1,21,46,9.2,5.3,8,-8.6,2.30%,14.20%,17.20%,47.30%,36.00%,26.2,PG
+344,10/9/2017,2017,Pelicans,Rajon Rondo,surgery to repair sports hernia (out indefinitely),33,6.08,186,Kentucky,USA,2006,1,21,46,9.2,5.3,8,-8.6,2.30%,14.20%,17.20%,47.30%,36.00%,26.2,PG
+345,3/18/2018,2018,Hornets,Nicolas Batum,left Achilles tendinitis (DTD),30,6.67,200,None,France,2008,1,25,75,9.3,5.2,3.3,-0.5,2.80%,13.10%,12.90%,58.10%,14.50%,31,SG
+346,3/21/2018,2018,Hornets,Nicolas Batum,sore left Achilles (DTD),30,6.67,200,None,France,2008,1,25,75,9.3,5.2,3.3,-0.5,2.80%,13.10%,12.90%,58.10%,14.50%,31,SG
+347,10/5/2017,2017,Hornets,Nicolas Batum,torn ligament in left elbow (out indefinitely),30,6.67,200,None,France,2008,1,25,75,9.3,5.2,3.3,-0.5,2.80%,13.10%,12.90%,58.10%,14.50%,31,SG
+348,11/24/2017,2017,Hornets,Nicolas Batum,ulnar nerve contusion (DTD),30,6.67,200,None,France,2008,1,25,75,9.3,5.2,3.3,-0.5,2.80%,13.10%,12.90%,58.10%,14.50%,31,SG
+349,3/19/2018,2018,Kings,Bogdan Bogdanovic,left hamstring injury (DTD),26,6.5,205,None,Serbia,2014,1,27,70,14.1,3.5,3.8,-1.1,1.90%,9.80%,22.00%,53.00%,19.90%,27.9,SG
+350,10/17/2017,2017,Kings,Bogdan Bogdanovic,sprained right ankle (DTD),26,6.5,205,None,Serbia,2014,1,27,70,14.1,3.5,3.8,-1.1,1.90%,9.80%,22.00%,53.00%,19.90%,27.9,SG
+351,3/20/2018,2018,Pelicans,Jrue Holiday,illness (DTD),29,6.33,205,UCLA,USA,2009,1,17,67,21.2,5,7.7,4.4,3.00%,9.90%,25.00%,55.50%,30.80%,36.1,SG
+352,3/20/2018,2018,Raptors,DeMar DeRozan,bruised left thigh (DTD),29,6.58,220,Southern California,USA,2009,1,9,77,21.2,6,6.2,0,2.00%,14.70%,27.70%,54.20%,27.70%,33.9,SG
+353,3/21/2018,2018,Grizzlies,Ivan Rabb,right heel injury (DTD),22,6.83,220,California,USA,2017,2,35,49,5.8,4.2,1.1,-6.2,9.70%,19.70%,16.60%,58.60%,12.30%,14.3,PF
+354,3/23/2018,2018,Grizzlies,Ivan Rabb,right heel injury (DTD),22,6.83,220,California,USA,2017,2,35,49,5.8,4.2,1.1,-6.2,9.70%,19.70%,16.60%,58.60%,12.30%,14.3,PF
+355,11/17/2017,2017,Grizzlies,Ivan Rabb,concussion (DTD),22,6.83,220,California,USA,2017,2,35,49,5.8,4.2,1.1,-6.2,9.70%,19.70%,16.60%,58.60%,12.30%,14.3,PF
+356,3/21/2018,2018,Nets,Dante Cunningham,DNP,32,6.67,230,Villanova,USA,2009,2,33,64,3,2.9,0.8,-8.2,4.90%,14.80%,8.60%,58.50%,7.20%,21.4,SF
+357,4/5/2018,2018,Nets,Dante Cunningham,back injury (DTD),32,6.67,230,Villanova,USA,2009,2,33,64,3,2.9,0.8,-8.2,4.90%,14.80%,8.60%,58.50%,7.20%,21.4,SF
+358,12/11/2017,2017,Pelicans,Dante Cunningham,right knee injury (DTD),32,6.67,230,Villanova,USA,2009,2,33,64,3,2.9,0.8,-8.2,4.90%,14.80%,8.60%,58.50%,7.20%,21.4,SF
+359,3/22/2018,2018,Bulls,Antonio Blakeney,fractured left wrist (out for season),22,6.33,192,Louisiana State,USA,Undrafted,Undrafted,Undrafted,57,7.3,1.9,0.7,-7.8,0.80%,11.40%,24.00%,48.70%,7.90%,16.5,SG
+360,3/22/2018,2018,Magic,Jonathan Isaac,sprained left foot (DTD),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+361,4/3/2018,2018,Magic,Jonathan Isaac,sprained left ankle (out for season),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+362,11/12/2017,2017,Magic,Jonathan Isaac,sprained right ankle (DTD),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+363,11/13/2017,2017,Magic,Jonathan Isaac,sprained right ankle (DTD),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+364,11/15/2017,2017,Magic,Jonathan Isaac,sprained right ankle (DTD),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+365,12/22/2017,2017,Magic,Jonathan Isaac,sore right ankle (DTD),21,6.83,210,Florida State,USA,2017,1,6,75,9.6,5.5,1.1,1,4.80%,15.20%,16.00%,53.70%,5.50%,19.9,PF
+366,3/23/2018,2018,Blazers,Shabazz Napier,left big toe injury (DTD),27,6.08,180,Connecticut,USA,2014,1,24,56,9.4,1.8,2.6,1.3,1.70%,7.90%,23.40%,53.40%,23.50%,20.7,PG
+367,3/23/2018,2018,Timberwolves,Derrick Rose,sprained right ankle (DTD),30,6.25,200,Memphis,USA,2008,1,1,51,18,2.7,4.3,0.7,2.20%,7.00%,26.10%,55.70%,24.40%,16.8,PG
+368,10/20/2017,2017,Cavaliers,Derrick Rose,sprained left ankle (DTD),30,6.25,200,Memphis,USA,2008,1,1,51,18,2.7,4.3,0.7,2.20%,7.00%,26.10%,55.70%,24.40%,16.8,PG
+369,3/24/2018,2018,Lakers,Luol Deng,sprained left ankle (DTD),34,6.75,237,Duke,United Kingdo...,2004,1,7,22,7.1,3.3,0.8,10,4.90%,12.50%,15.50%,58.80%,6.20%,13,SF
+370,3/24/2018,2018,Rockets,Luc Mbah a Moute,sore left knee (DTD),32,6.67,230,California-Los Angeles,Cameroon,2008,2,37,4,5,1.8,0.5,7.8,3.40%,6.50%,14.10%,49.50%,4.50%,25.6,PF
+371,4/10/2018,2018,Rockets,Luc Mbah a Moute,dislocated right shoulder (DTD),32,6.67,230,California-Los Angeles,Cameroon,2008,2,37,4,5,1.8,0.5,7.8,3.40%,6.50%,14.10%,49.50%,4.50%,25.6,PF
+372,11/9/2017,2017,Rockets,Luc Mbah a Moute,knee injury (DTD),32,6.67,230,California-Los Angeles,Cameroon,2008,2,37,4,5,1.8,0.5,7.8,3.40%,6.50%,14.10%,49.50%,4.50%,25.6,PF
+373,3/25/2018,2018,Knicks,Damyean Dotson,sprained right foot (DTD),25,6.5,210,Houston,USA,2017,2,44,73,10.7,3.6,1.8,-8,1.60%,10.80%,16.90%,52.60%,10.40%,10.8,SG
+374,3/25/2018,2018,Knicks,Kyle O'Quinn,strained left hip (DTD),29,6.83,250,Norfolk State,USA,2012,2,49,45,3.5,2.6,1.2,-0.3,7.80%,21.60%,19.60%,53.70%,20.40%,18,C
+375,3/26/2018,2018,Knicks,Emmanuel Mudiay,illness (DTD),23,6.42,200,None,Democratic Re...,2015,1,7,59,14.8,3.3,3.9,-10.8,1.90%,9.80%,24.80%,53.10%,24.20%,19.5,PG
+376,3/27/2018,2018,Heat,Bam Adebayo,sprained right ankle (DTD),21,6.83,255,Kentucky,USA,2017,1,14,82,8.9,7.3,2.2,0.5,8.30%,22.10%,15.70%,62.30%,14.60%,19.8,C
+377,3/27/2018,2018,Mavericks,Dwight Powell,left knee injury (DTD),27,6.92,240,Stanford,Canada,2014,2,45,77,10.6,5.3,1.5,0.9,8.10%,16.00%,16.70%,68.20%,10.10%,21.2,C
+378,3/27/2018,2018,Mavericks,Dwight Powell,bursitis in knee (DTD),27,6.92,240,Stanford,Canada,2014,2,45,77,10.6,5.3,1.5,0.9,8.10%,16.00%,16.70%,68.20%,10.10%,21.2,C
+379,11/27/2017,2017,Mavericks,Nerlens Noel,thumb injury (DTD),25,6.92,220,Kentucky,USA,2013,1,6,77,4.9,4.2,0.6,-2.6,10.50%,17.60%,13.70%,60.80%,6.70%,15.7,C
+380,12/1/2017,2017,Mavericks,Nerlens Noel,surgery on thumb (out indefinitely),25,6.92,220,Kentucky,USA,2013,1,6,77,4.9,4.2,0.6,-2.6,10.50%,17.60%,13.70%,60.80%,6.70%,15.7,C
+381,3/27/2018,2018,Blazers,Maurice Harkless,surgery on left knee (out indefinitely),26,6.75,220,"St. John's, N.Y.",USA,2012,1,15,60,7.7,4.5,1.2,7.9,5.20%,12.80%,13.50%,54.70%,6.80%,21.4,SF
+382,3/27/2018,2018,Warriors,Chris Boucher,sprained left ankle (DTD),26,6.83,200,Oregon,Canada,Undrafted,Undrafted,Undrafted,28,3.3,2,0.1,-4.2,8.60%,20.90%,21.40%,56.30%,2.00%,1,PF
+383,3/28/2018,2018,76ers,Justin Anderson,sore right ankle (DTD),25,6.5,230,Virginia,USA,2015,1,21,48,3.7,1.8,0.5,-5.7,4.60%,11.90%,16.60%,51.60%,7.30%,13.7,SF
+384,11/17/2017,2017,76ers,Justin Anderson,shin splints in left leg (DTD),25,6.5,230,Virginia,USA,2015,1,21,48,3.7,1.8,0.5,-5.7,4.60%,11.90%,16.60%,51.60%,7.30%,13.7,SF
+385,3/28/2018,2018,Knicks,Courtney Lee,left foot injury (DTD),33,6.42,215,Western Kentucky,USA,2008,1,22,34,4,1.6,1.1,-6.4,1.90%,10.50%,15.00%,49.20%,13.00%,30.4,SG
+386,4/11/2018,2018,Knicks,Courtney Lee,sprained left ankle (out for season),33,6.42,215,Western Kentucky,USA,2008,1,22,34,4,1.6,1.1,-6.4,1.90%,10.50%,15.00%,49.20%,13.00%,30.4,SG
+387,3/28/2018,2018,Suns,Elfrid Payton,left knee injury (out for season),25,6.33,185,Louisiana-Lafayette,USA,2014,1,10,42,10.6,5.2,7.6,-2.2,3.70%,12.90%,17.70%,50.20%,31.80%,28.7,PG
+388,11/11/2017,2017,Magic,Elfrid Payton,sore left hamstring (DTD),25,6.33,185,Louisiana-Lafayette,USA,2014,1,10,42,10.6,5.2,7.6,-2.2,3.70%,12.90%,17.70%,50.20%,31.80%,28.7,PG
+389,3/29/2018,2018,Bulls,Cristiano Felicio,sore lower back (DTD),26,6.83,265,None,Brazil,Undrafted,Undrafted,Undrafted,60,4,3.6,0.6,-8,10.10%,18.70%,13.80%,56.80%,7.00%,17.8,C
+390,12/11/2017,2017,Bulls,Lauri Markkanen,back spasms / sore lower back (DTD),22,7,240,Arizona,Finland,2017,1,7,52,18.7,9,1.4,-5.5,4.30%,23.40%,24.50%,55.30%,7.00%,29.7,PF
+391,12/13/2017,2017,Bulls,Lauri Markkanen,back spasms (DTD),22,7,240,Arizona,Finland,2017,1,7,52,18.7,9,1.4,-5.5,4.30%,23.40%,24.50%,55.30%,7.00%,29.7,PF
+392,3/30/2018,2018,Jazz,Ricky Rubio,hamstring injury (DTD),28,6.33,190,None,Spain,2009,1,5,68,12.7,3.6,6.1,6.3,1.70%,10.70%,22.10%,52.00%,31.30%,29.3,PG
+393,3/30/2018,2018,Jazz,Ricky Rubio,sore left hamstring (DTD),28,6.33,190,None,Spain,2009,1,5,68,12.7,3.6,6.1,6.3,1.70%,10.70%,22.10%,52.00%,31.30%,29.3,PG
+394,11/17/2017,2017,Jazz,Ricky Rubio,sore right Achilles (DTD),28,6.33,190,None,Spain,2009,1,5,68,12.7,3.6,6.1,6.3,1.70%,10.70%,22.10%,52.00%,31.30%,29.3,PG
+395,3/30/2018,2018,Suns,Jared Dudley,sore left ankle (DTD),33,6.58,237,Boston College,USA,2007,1,22,59,4.9,2.6,1.4,0.8,2.70%,9.60%,10.40%,55.40%,9.30%,14.3,PF
+396,3/30/2018,2018,Warriors,Andre Iguodala,sore left knee (DTD),35,6.5,215,Arizona,USA,2004,1,9,68,5.7,3.7,3.2,9,3.10%,11.70%,10.10%,58.70%,17.30%,25.3,SF
+397,5/22/2018,2018,Warriors,Andre Iguodala,bruised left leg (DTD),35,6.5,215,Arizona,USA,2004,1,9,68,5.7,3.7,3.2,9,3.10%,11.70%,10.10%,58.70%,17.30%,25.3,SF
+398,3/31/2018,2018,Hornets,Jeremy Lamb,sore left foot (DTD),27,6.42,185,Connecticut,USA,2012,1,12,79,15.3,5.5,2.2,0.7,2.70%,15.90%,22.00%,55.20%,11.90%,24.6,SG
+399,3/31/2018,2018,Knicks,Frank Ntilikina,illness (DTD),20,6.5,200,None,France,2017,1,8,43,5.7,2,2.8,-8.5,1.20%,8.00%,16.30%,41.70%,19.50%,21.9,PG
+400,4/1/2018,2018,Grizzlies,MarShon Brooks,left ankle injury (DTD),30,6.42,200,Providence,USA,2011,1,25,29,6.6,1.6,0.9,-2.8,3.00%,8.90%,23.30%,51.80%,11.20%,27.6,SG
+401,4/1/2018,2018,Hornets,Dwayne Bacon,sprained right ankle (out for season),23,6.58,221,Florida State,USA,2017,2,40,43,7.3,2.1,1.1,-2,1.00%,10.50%,16.70%,57.00%,9.20%,13.5,SG
+402,4/1/2018,2018,Timberwolves,Jeff Teague,knee injury (DTD),31,6.17,195,Wake Forest,USA,2009,1,19,42,12.1,2.5,8.2,-0.1,1.20%,6.70%,18.60%,52.80%,36.60%,33,PG
+403,11/24/2017,2017,Timberwolves,Jeff Teague,sore right Achilles (DTD),31,6.17,195,Wake Forest,USA,2009,1,19,42,12.1,2.5,8.2,-0.1,1.20%,6.70%,18.60%,52.80%,36.60%,33,PG
+404,4/1/2018,2018,Cavaliers,Kyle Korver,sore right foot (DTD),38,6.58,212,Creighton,USA,2003,2,51,70,8.6,2.3,1.2,3.6,0.60%,10.50%,17.40%,58.20%,8.80%,21.6,SG
+405,4/3/2018,2018,Hawks,Dewayne Dedmon,sore ribs (DTD),29,7,245,Southern California,USA,Undrafted,Undrafted,Undrafted,64,10.8,7.5,1.4,-4.1,6.30%,22.90%,16.60%,60.20%,7.90%,24.9,C
+406,11/29/2017,2017,Hawks,Dewayne Dedmon,stress reaction in left tibia (DTD),29,7,245,Southern California,USA,Undrafted,Undrafted,Undrafted,64,10.8,7.5,1.4,-4.1,6.30%,22.90%,16.60%,60.20%,7.90%,24.9,C
+407,4/3/2018,2018,Kings,Skal Labissiere,sprained left ankle (out for season),23,6.92,235,Kentucky,Haiti,2016,1,28,22,3,2,0.5,-8.3,5.10%,18.50%,15.40%,59.30%,7.80%,20.7,PF
+408,4/5/2018,2018,Mavericks,Dirk Nowitzki,surgery on left ankle to remove loose debris (out for season),41,7,245,None,Germany,1998,1,9,51,7.3,3.1,0.7,-4.8,0.60%,18.00%,21.70%,46.90%,6.80%,24.7,C
+409,4/5/2018,2018,Suns,Alan Williams,sore right knee (out for season),26,6.67,265,California-Santa Barbara,USA,Undrafted,Undrafted,Undrafted,5,3.6,3.8,0.6,27.1,11.40%,40.50%,22.20%,61.00%,17.60%,14,PF
+410,9/25/2017,2017,Suns,Alan Williams,surgery on right knee to repair torn meniscus (out indefinitely),26,6.67,265,California-Santa Barbara,USA,Undrafted,Undrafted,Undrafted,5,3.6,3.8,0.6,27.1,11.40%,40.50%,22.20%,61.00%,17.60%,14,PF
+411,4/6/2018,2018,Magic,Nikola Vucevic,tightness in lower back (DTD),28,7,260,Southern California,Montenegro,2011,1,16,80,20.8,12,3.8,4,8.80%,28.60%,27.60%,57.30%,20.80%,29.5,C
+412,12/23/2017,2017,Magic,Nikola Vucevic,fractured left hand (out indefinitely),28,7,260,Southern California,Montenegro,2011,1,16,80,20.8,12,3.8,4,8.80%,28.60%,27.60%,57.30%,20.80%,29.5,C
+413,4/6/2018,2018,Pelicans,Ian Clark,sprained right ankle (DTD),28,6.25,175,Belmont,USA,Undrafted,Undrafted,Undrafted,60,6.7,1.5,1.6,-3.4,1.20%,7.10%,18.50%,50.20%,13.20%,19.7,SG
+414,4/6/2018,2018,Suns,Troy Daniels,sprained right ankle (DTD),27,6.33,205,Virginia Commonwealth,USA,Undrafted,Undrafted,Undrafted,51,6.2,1.4,0.5,-6.4,1.60%,7.90%,17.10%,55.80%,5.20%,20.5,SG
+415,4/10/2018,2018,Suns,Troy Daniels,sprained right ankle (DTD),27,6.33,205,Virginia Commonwealth,USA,Undrafted,Undrafted,Undrafted,51,6.2,1.4,0.5,-6.4,1.60%,7.90%,17.10%,55.80%,5.20%,20.5,SG
+416,4/6/2018,2018,Wizards,Ian Mahinmi,concussion (DTD),32,6.92,262,None,France,2005,1,28,34,4.1,3.8,0.7,-3.2,8.80%,16.10%,12.80%,53.10%,7.30%,14.9,C
+417,12/12/2017,2017,Wizards,Ian Mahinmi,sore right knee (DTD),32,6.92,262,None,France,2005,1,28,34,4.1,3.8,0.7,-3.2,8.80%,16.10%,12.80%,53.10%,7.30%,14.9,C
+418,4/7/2018,2018,Knicks,Tim Hardaway Jr.,sprained left ankle (out for season),27,6.5,205,Michigan,USA,2013,1,24,65,18.1,3.4,2.4,-9.1,1.50%,9.00%,24.60%,52.70%,12.50%,,
+419,4/8/2018,2018,Suns,Josh Jackson,bruised right quadriceps (out for season),22,6.67,200,Kansas,USA,2017,1,4,79,11.5,4.4,2.3,-9.6,3.20%,13.60%,23.40%,48.70%,14.20%,25.4,SF
+420,4/9/2018,2018,Clippers,Lou Williams,sprained right ankle (out for season),32,6.08,175,None,USA,2005,2,45,75,20,3,5.4,3.9,1.90%,8.10%,30.80%,55.40%,31.80%,32.8,SG
+421,12/18/2017,2017,Clippers,Lou Williams,sprained left / right foot (DTD),32,6.08,175,None,USA,2005,2,45,75,20,3,5.4,3.9,1.90%,8.10%,30.80%,55.40%,31.80%,32.8,SG
+422,4/9/2018,2018,Nets,Joe Harris,sprained left ankle (out for season),27,6.5,218,Virginia,USA,2014,2,33,76,13.7,3.8,2.4,-1.6,2.20%,9.60%,16.70%,64.50%,11.40%,25.3,SG
+423,12/9/2017,2017,Nets,Joe Harris,illness (DTD),27,6.5,218,Virginia,USA,2014,2,33,76,13.7,3.8,2.4,-1.6,2.20%,9.60%,16.70%,64.50%,11.40%,25.3,SG
+424,4/10/2018,2018,Mavericks,Doug McDermott,elbow injury (out for season),27,6.67,225,Creighton,USA,2014,1,11,77,7.3,1.4,0.9,3.6,1.20%,6.60%,15.20%,61.70%,7.00%,21.8,SF
+425,4/10/2018,2018,Thunder,Alex Abrines,concussion (DTD),25,6.5,200,None,Spain,2013,2,32,31,5.3,1.5,0.6,1.6,0.70%,6.70%,12.00%,50.70%,4.70%,15.1,SG
+426,4/18/2018,2018,Timberwolves,Justin Patton,surgery on left foot (out for season),22,7,241,Creighton,USA,2017,1,16,3,1.7,2,1,-12.9,6.50%,17.40%,14.00%,31.70%,25.00%,4,C
+427,7/4/2017,2017,Timberwolves,Justin Patton,surgery on left foot to repair fracture (out indefinitely),22,7,241,Creighton,USA,2017,1,16,3,1.7,2,1,-12.9,6.50%,17.40%,14.00%,31.70%,25.00%,4,C
+428,4/23/2018,2018,Timberwolves,Tyus Jones,sore right knee (DTD),23,6.17,196,Duke,USA,2015,1,24,68,6.9,2,4.8,-0.3,1.40%,6.90%,13.90%,49.10%,28.40%,17.9,PG
+429,4/26/2018,2018,Nuggets,Mason Plumlee,surgery to repair core muscle injury,29,6.92,235,Duke,USA,2013,1,22,82,7.8,6.4,3,3.2,9.10%,19.80%,15.90%,60.20%,19.90%,19.4,C
+430,4/27/2018,2018,Wizards,Otto Porter Jr.,surgery on left leg to remove blood around a contusion (out indefinitely),26,6.67,198,Georgetown,USA,2013,1,3,56,13.9,5.6,2.1,-0.4,3.10%,15.30%,18.50%,56.90%,10.00%,,
+431,12/17/2017,2017,Wizards,Otto Porter Jr.,hip injury / bruised right thigh (DTD),26,6.67,198,Georgetown,USA,2013,1,3,56,13.9,5.6,2.1,-0.4,3.10%,15.30%,18.50%,56.90%,10.00%,,
+432,5/7/2018,2018,Jazz,Dante Exum,strained left hamstring (out for season),23,6.5,190,None,Australia,2014,1,5,42,6.9,1.6,2.6,3.2,2.40%,7.70%,20.70%,51.60%,25.10%,16.8,PG
+433,10/7/2017,2017,Jazz,Dante Exum,separated left shoulder (out indefinitely),23,6.5,190,None,Australia,2014,1,5,42,6.9,1.6,2.6,3.2,2.40%,7.70%,20.70%,51.60%,25.10%,16.8,PG
+434,10/16/2017,2017,Jazz,Dante Exum,surgery to repair separated left shoulder (out indefinitely),23,6.5,190,None,Australia,2014,1,5,42,6.9,1.6,2.6,3.2,2.40%,7.70%,20.70%,51.60%,25.10%,16.8,PG
+435,5/9/2018,2018,Thunder,Paul George,arthroscopic surgery on right knee (out indefinitely),29,6.75,220,Fresno State,USA,2010,1,10,77,28,8.2,4.1,8.2,3.30%,17.30%,28.50%,58.30%,17.30%,36.6,SF
+436,12/29/2017,2017,Thunder,Paul George,sore left knee (DTD),29,6.75,220,Fresno State,USA,2010,1,10,77,28,8.2,4.1,8.2,3.30%,17.30%,28.50%,58.30%,17.30%,36.6,SF
+437,7/25/2017,2017,Suns,Brandon Knight,torn ACL in left knee (out for season),27,6.25,195,Kentucky,USA,2011,1,8,39,6.8,1.5,1.8,-12,1.20%,7.00%,17.80%,48.40%,14.70%,,
+438,8/10/2017,2017,Thunder,Patrick Patterson,arthroscopic surgery on his left knee (out indefinitely),30,6.75,230,Kentucky,USA,2010,1,14,63,3.6,2.3,0.5,-5.7,4.30%,11.40%,11.80%,49.30%,4.90%,15.5,PF
+439,8/28/2017,2017,Pelicans,Solomon Hill,surgery to repair torn left hamstring (out indefinitely),28,6.58,225,Arizona,USA,2013,1,23,44,4.3,3,1.3,-6.5,3.60%,10.20%,10.40%,49.70%,8.00%,15.6,SF
+440,9/1/2017,2017,Pelicans,Frank Jackson,fractured right foot (out for season),21,6.25,205,Duke,USA,2017,2,31,61,8.1,2.2,1.1,-5,1.90%,8.50%,17.80%,51.70%,8.00%,,
+441,9/6/2017,2017,Bulls,Cameron Payne,surgery to repair fractured right foot (out indefinitely),24,6.25,190,Murray State,USA,2015,1,14,40,6.3,1.8,2.7,-15.2,1.70%,8.30%,16.90%,51.90%,22.50%,23.3,PG
+442,9/30/2017,2017,Pacers,Glenn Robinson III,high ankle sprain (DTD),25,6.5,222,Michigan,USA,2014,2,40,47,4.2,1.5,0.4,-0.8,2.60%,8.90%,14.60%,51.10%,5.30%,,
+443,10/14/2017,2017,Pacers,Glenn Robinson III,surgery on left ankle (out indefinitely),25,6.5,222,Michigan,USA,2014,2,40,47,4.2,1.5,0.4,-0.8,2.60%,8.90%,14.60%,51.10%,5.30%,,
+444,10/11/2017,2017,Hawks,Miles Plumlee,strained right quadriceps (DTD),30,6.92,249,Duke,USA,2012,1,26,18,4.4,2.2,0.9,-10.2,8.50%,14.10%,16.60%,65.40%,15.50%,16.7,C
+445,10/12/2017,2017,Heat,Rodney McGruder,surgery on lower left leg to repair stress fracture (out indefinitely) (date approximate),27,6.33,200,Kansas State,USA,Undrafted,Undrafted,Undrafted,66,7.6,3.6,1.7,-1.4,3.50%,10.60%,14.70%,51.00%,10.30%,16.6,SG
+446,10/12/2017,2017,Suns,Davon Reed,surgery on left knee to repair torn meniscus (out indefinitely),24,6.42,208,Miami (FL),USA,2017,2,32,10,1.2,0.6,0.3,18.7,3.30%,7.30%,10.40%,50.00%,6.80%,11.5,SG
+447,10/17/2017,2017,Celtics,Gordon Hayward,fractured tibia in left leg and dislocated left ankle (out for season),29,6.67,225,Butler,USA,2010,1,9,72,11.5,4.5,3.4,5.1,2.60%,14.10%,18.30%,57.50%,18.50%,5,SF
+448,10/18/2017,2017,Celtics,Gordon Hayward,surgery on left ankle/leg to repair fractured tibia and dislocated ankle (out for season),29,6.67,225,Butler,USA,2010,1,9,72,11.5,4.5,3.4,5.1,2.60%,14.10%,18.30%,57.50%,18.50%,5,SF
+449,10/18/2017,2017,Blazers,Zach Collins,illness (DTD),21,7,235,Gonzaga,USA,2017,1,10,77,6.6,4.2,0.9,0.1,7.80%,14.40%,16.60%,56.20%,7.60%,15.8,C
+450,10/18/2017,2017,Bucks,Jabari Parker,placed on IL recovering from surgery on left knee to repair torn ACL,24,6.67,245,Duke,USA,2014,1,2,64,14.5,6.6,2.4,-6.2,4.50%,18.70%,23.60%,56.00%,14.00%,24,PF
+451,10/18/2017,2017,Nets,Jeremy Lin,ruptured patella tendon in right knee (out for season),30,6.25,200,Harvard,USA,Undrafted,Undrafted,Undrafted,74,9.6,2.4,3.1,-5.1,1.40%,10.20%,21.30%,55.80%,24.90%,25,PG
+452,10/18/2017,2017,Pacers,Ike Anigbogu,knee injury (DTD),20,6.83,250,California-Los Angeles,USA,2017,2,47,3,0,1,0.3,-14.3,14.30%,25.00%,26.70%,0.00%,20.00%,2.7,C
+453,10/21/2017,2017,Raptors,Jonas Valanciunas,sore/sprained left ankle (DTD),27,7,265,None,Lithuania,2011,1,5,49,15.6,8.6,1.4,2.7,9.60%,26.80%,27.40%,61.60%,10.90%,22.4,C
+454,10/23/2017,2017,Hawks,Ersan Ilyasova,strained left knee (DTD),32,6.83,235,None,Turkey,2005,2,36,67,6.8,4.5,0.8,9.7,7.10%,15.10%,15.10%,54.80%,5.60%,25.1,PF
+455,10/25/2017,2017,76ers,Markelle Fultz,sore right shoulder (DTD),21,6.33,200,Washington,USA,2017,1,1,19,8.2,3.7,3.1,-0.4,5.60%,8.80%,18.90%,45.20%,21.20%,18.1,SG
+456,10/26/2017,2017,Mavericks,Dorian Finney-Smith,left knee tendinitis (DTD),26,6.67,220,Florida,USA,Undrafted,Undrafted,Undrafted,81,7.5,4.8,1.2,-1.9,6.40%,11.90%,13.50%,53.00%,7.00%,21.3,PF
+457,10/27/2017,2017,Hornets,Treveon Graham,bruised right quadriceps (DTD),25,6.42,225,Virginia Commonwealth,USA,Undrafted,Undrafted,Undrafted,35,5.3,3.1,1,2.3,2.80%,10.70%,12.30%,45.80%,6.20%,16.7,SG
+458,11/10/2017,2017,Hornets,Treveon Graham,bruised right quadriceps (DTD),25,6.42,225,Virginia Commonwealth,USA,Undrafted,Undrafted,Undrafted,35,5.3,3.1,1,2.3,2.80%,10.70%,12.30%,45.80%,6.20%,16.7,SG
+459,10/28/2017,2017,Nets,Quincy Acy,strained left groin (DTD),28,6.58,240,Baylor,USA,2012,2,37,10,1.7,2.5,0.8,2.8,2.20%,15.30%,8.80%,37.90%,8.80%,19.4,PF
+460,10/29/2017,2017,Cavaliers,Iman Shumpert,sore right knee (DTD),29,6.42,215,Georgia Tech,USA,2011,1,17,62,7.5,3,1.8,-1.4,1.60%,10.10%,14.30%,49.90%,9.80%,19.7,SG
+461,11/18/2017,2017,Cavaliers,Iman Shumpert,left knee injury (DTD),29,6.42,215,Georgia Tech,USA,2011,1,17,62,7.5,3,1.8,-1.4,1.60%,10.10%,14.30%,49.90%,9.80%,19.7,SG
+462,12/1/2017,2017,Cavaliers,Iman Shumpert,arthroscopic surgery on left knee (out indefinitely),29,6.42,215,Georgia Tech,USA,2011,1,17,62,7.5,3,1.8,-1.4,1.60%,10.10%,14.30%,49.90%,9.80%,19.7,SG
+463,10/29/2017,2017,Hornets,Frank Kaminsky,illness (DTD),26,7,242,Wisconsin,USA,2015,1,9,47,8.6,3.5,1.3,0.9,4.80%,16.40%,21.60%,58.70%,12.90%,23.2,PF
+464,12/7/2017,2017,Hornets,Frank Kaminsky,sprained right ankle (DTD),26,7,242,Wisconsin,USA,2015,1,9,47,8.6,3.5,1.3,0.9,4.80%,16.40%,21.60%,58.70%,12.90%,23.2,PF
+465,12/7/2017,2017,Hornets,Cody Zeller,torn meniscus in left knee (out indefinitely),26,7,240,Indiana,USA,2013,1,4,49,10.1,6.8,2.1,1.4,8.40%,17.10%,15.90%,61.10%,11.40%,19,C
+466,10/30/2017,2017,Raptors,Serge Ibaka,swollen left / right knee (DTD),29,6.83,235,None,Democratic Re...,2008,1,24,74,15,8.1,1.3,6.2,7.80%,20.40%,22.70%,58.20%,7.60%,27.5,PF
+467,11/1/2017,2017,Pistons,Jon Leuer,sprained left ankle (DTD),30,6.83,228,Wisconsin,USA,2011,2,40,41,3.8,2.4,0.3,-13.3,6.20%,18.20%,15.70%,61.60%,6.00%,17,PF
+468,11/2/2017,2017,Lakers,Andrew Bogut,tightness in back (DTD),34,7,260,Utah,Australia,2005,1,1,11,3.5,5,1,3.9,10.00%,29.70%,14.80%,52.30%,10.40%,9,C
+469,11/3/2017,2017,Lakers,Larry Nance Jr.,surgery on left hand/thumb to repair fracture (out indefinitley),26,6.75,230,Wyoming,USA,2015,1,27,67,9.4,8.2,3.2,-8.8,9.00%,22.40%,15.20%,58.30%,17.90%,,
+470,11/4/2017,2017,Bulls,David Nwaba,sprained right ankle (DTD),26,6.33,219,None,USA,Undrafted,Undrafted,Undrafted,51,6.5,3.2,1.1,-3.8,3.90%,12.80%,14.10%,55.80%,7.70%,23.5,SG
+471,11/4/2017,2017,Hawks,Mike Muscala,sprained left ankle (DTD),27,6.92,240,Bucknell,USA,2013,2,44,64,7,3.8,1.2,1,4.10%,13.30%,13.80%,56.40%,8.10%,20,C
+472,11/18/2017,2017,Hawks,Mike Muscala,sprained left ankle (DTD),27,6.92,240,Bucknell,USA,2013,2,44,64,7,3.8,1.2,1,4.10%,13.30%,13.80%,56.40%,8.10%,20,C
+473,11/6/2017,2017,76ers,Jerryd Bayless,bruised left wrist (DTD),30,6.25,200,Arizona,USA,2008,1,11,34,6.1,1.8,3.5,-12.4,1.50%,8.00%,17.20%,43.10%,26.20%,23.7,SG
+474,11/7/2017,2017,Nets,Rondae Hollis-Jefferson,bruised right hip (DTD),24,6.58,217,Arizona,USA,2015,1,23,59,8.9,5.3,1.6,0.7,6.00%,17.00%,21.00%,46.40%,11.90%,28.2,SF
+475,11/9/2017,2017,Clippers,Patrick Beverley,sore right knee (DTD),30,6.08,185,None,USA,2009,2,42,78,7.6,5,3.8,4,3.50%,13.50%,12.00%,56.10%,18.30%,30.4,SG
+476,11/22/2017,2017,Clippers,Patrick Beverley,arthroscopic surgery on right knee to repair lateral meniscus (out for season),30,6.08,185,None,USA,2009,2,42,78,7.6,5,3.8,4,3.50%,13.50%,12.00%,56.10%,18.30%,30.4,SG
+477,11/11/2017,2017,Jazz,Rudy Gobert,bruised tibia in right leg (DTD),27,7.08,245,None,France,2013,1,27,81,15.9,12.9,2,6.9,11.70%,27.00%,17.50%,68.20%,9.50%,32.4,C
+478,12/16/2017,2017,Jazz,Rudy Gobert,sprained left knee (DTD),27,7.08,245,None,France,2013,1,27,81,15.9,12.9,2,6.9,11.70%,27.00%,17.50%,68.20%,9.50%,32.4,C
+479,11/11/2017,2017,Timberwolves,Gorgui Dieng,sprained right index finger (DTD),29,6.92,252,Louisville,Senegal,2013,1,21,76,6.4,4.1,0.9,-3.8,7.20%,22.50%,19.40%,57.20%,10.60%,16.9,C
+480,11/12/2017,2017,Nets,D'Angelo Russell,bruised left knee (DTD),23,6.42,198,Ohio State,USA,2015,1,2,81,21.1,3.9,7,0.2,2.00%,9.90%,31.10%,53.30%,39.20%,25.7,PG
+481,11/17/2017,2017,Nets,D'Angelo Russell,arthroscopic surgery on left knee (out indefinitely),23,6.42,198,Ohio State,USA,2015,1,2,81,21.1,3.9,7,0.2,2.00%,9.90%,31.10%,53.30%,39.20%,25.7,PG
+482,11/12/2017,2017,Thunder,Carmelo Anthony,sore lower back (DTD),35,6.67,240,Syracuse,USA,2003,1,3,10,13.4,5.4,0.5,-9.9,2.70%,15.80%,19.90%,51.30%,2.80%,32.1,PF
+483,11/14/2017,2017,Heat,Okaro White,fractured left foot (out indefinitely),26,6.67,205,Florida State,USA,Undrafted,Undrafted,Undrafted,3,0,0.7,0,-26.2,9.10%,14.30%,10.50%,0.00%,0.00%,13.3,PF
+484,11/16/2017,2017,Raptors,Delon Wright,dislocated right shoulder (out indefinitely),27,6.42,183,Utah,USA,2015,1,20,75,8.7,3.5,3.3,-0.1,3.70%,11.30%,17.20%,52.30%,21.70%,20.8,PG
+485,11/19/2017,2017,Nuggets,Paul Millsap,sore left wrist (DTD),34,6.67,246,Louisiana Tech,USA,2006,2,47,70,12.6,7.2,2,8.6,7.80%,18.20%,19.10%,57.00%,10.40%,30.1,PF
+486,11/27/2017,2017,Nuggets,Paul Millsap,surgery on left wrist (out indefinitely),34,6.67,246,Louisiana Tech,USA,2006,2,47,70,12.6,7.2,2,8.6,7.80%,18.20%,19.10%,57.00%,10.40%,30.1,PF
+487,11/19/2017,2017,Warriors,Kevin Durant,sprained left ankle (DTD),30,6.75,240,Texas,USA,2007,1,2,78,26,6.4,5.9,11.4,1.30%,15.30%,28.30%,63.10%,25.10%,34.2,SF
+488,11/24/2017,2017,76ers,Ben Simmons,left elbow injury (DTD),22,6.83,230,Louisiana State,Australia,2016,1,1,79,16.9,8.8,7.7,2.4,6.20%,17.90%,21.50%,58.20%,34.10%,33.7,PG
+489,11/26/2017,2017,Nets,Allen Crabbe,sore lower back (DTD),27,6.5,212,California,USA,2013,2,31,43,9.6,3.4,1.1,0.3,1.30%,10.80%,15.90%,51.90%,5.90%,29.3,SG
+490,12/15/2017,2017,Nets,Allen Crabbe,sore left ankle / knee (DTD),27,6.5,212,California,USA,2013,2,31,43,9.6,3.4,1.1,0.3,1.30%,10.80%,15.90%,51.90%,5.90%,29.3,SG
+491,11/27/2017,2017,Hornets,Kemba Walker,sore left shoulder (DTD),29,6.08,184,Connecticut,USA,2011,1,9,82,25.6,4.4,5.9,0.4,1.70%,10.60%,30.80%,55.80%,28.70%,34.2,PG
+492,11/27/2017,2017,Spurs,Rudy Gay,sore right heel (DTD),32,6.67,230,Connecticut,USA,2006,1,8,69,13.7,6.8,2.6,4.1,3.40%,20.90%,21.60%,58.30%,14.50%,21.6,PF
+493,12/29/2017,2017,Spurs,Rudy Gay,bursitis in right heel (DTD),32,6.67,230,Connecticut,USA,2006,1,8,69,13.7,6.8,2.6,4.1,3.40%,20.90%,21.60%,58.30%,14.50%,21.6,PF
+494,11/28/2017,2017,Clippers,Blake Griffin,sprained MCL in left knee (out indefinitely),30,6.83,250,Oklahoma,USA,2009,1,1,75,24.5,7.5,5.4,0.5,3.60%,18.20%,29.60%,58.10%,26.80%,34,PF
+495,11/30/2017,2017,Magic,Terrence Ross,sprained MCL in right knee and fractured right leg (out indefinitely),28,6.58,206,Washington,USA,2012,1,8,81,15.1,3.5,1.7,-0.5,1.20%,11.30%,23.00%,56.10%,10.30%,25,SG
+496,11/30/2017,2017,Nuggets,Nikola Jokic,sprained left ankle (DTD),24,7,250,None,Serbia,2014,2,41,80,20.1,10.8,7.3,5.8,8.90%,24.90%,27.10%,58.90%,36.10%,32.6,C
+497,12/1/2017,2017,Bulls,Bobby Portis,right arm injury (DTD),24,6.92,250,Arkansas,USA,2015,1,22,50,14.2,8.1,1.4,-4.4,8.30%,22.60%,24.10%,52.90%,8.50%,22.5,PF
+498,12/4/2017,2017,Warriors,Zaza Pachulia,sore left shoulder (DTD),35,6.92,270,None,Georgia,2003,2,42,68,3.9,3.9,1.3,-4.6,10.10%,18.40%,14.70%,53.90%,16.10%,14.1,C
+499,12/8/2017,2017,Warriors,Zaza Pachulia,sore left shoulder (DTD),35,6.92,270,None,Georgia,2003,2,42,68,3.9,3.9,1.3,-4.6,10.10%,18.40%,14.70%,53.90%,16.10%,14.1,C
+500,12/5/2017,2017,Wizards,Jason Smith,knee injury (DTD),33,7,240,Colorado State,USA,2007,1,20,20,3.3,2.6,0.7,-12.1,7.70%,17.40%,16.90%,49.20%,11.20%,8.6,C
+501,12/7/2017,2017,76ers,Dario Saric,eye injury (DTD),25,6.83,223,None,Croatia,2014,1,12,81,10.6,5.6,1.6,-2,5.80%,15.30%,17.20%,56.30%,8.90%,29.6,PF
+502,12/8/2017,2017,Blazers,Jusuf Nurkic,sprained right ankle (DTD),24,7,275,None,Bosnia and He...,2014,1,16,72,15.6,10.4,3.2,10.5,11.90%,24.10%,24.10%,57.00%,16.80%,26.4,C
+503,12/9/2017,2017,76ers,T.J. McConnell,left shoulder injury (DTD),27,6.17,190,Arizona,USA,Undrafted,Undrafted,Undrafted,76,6.4,2.3,3.4,-0.7,1.80%,9.40%,14.80%,55.50%,24.90%,22.4,PG
+504,12/14/2017,2017,Warriors,Nick Young,concussion (DTD),34,6.58,210,Southern California,USA,2007,1,16,4,2.3,0.3,0.5,-5.1,0.00%,2.60%,12.60%,50.00%,7.70%,17.4,SG
+505,12/15/2017,2017,Cavaliers,John Holland,left shoulder subluxation (out) indefinitely,30,6.42,205,Boston U.,USA,Undrafted,Undrafted,Undrafted,1,0,0,0,50,0.00%,0.00%,0.00%,0.00%,0.00%,7.3,SF
+506,12/17/2017,2017,Kings,De'Aaron Fox,bruised right quadriceps (DTD),21,6.25,175,Kentucky,USA,2017,1,5,81,17.3,3.8,7.3,0.9,1.50%,9.50%,23.80%,54.40%,32.20%,27.8,PG
+507,12/17/2017,2017,Warriors,Shaun Livingston,sore right knee (DTD),33,6.58,192,None,USA,2004,1,4,64,4,1.8,1.8,3.2,4.30%,7.10%,11.80%,55.50%,15.40%,15.9,PG
+508,12/17/2017,2017,76ers,Furkan Korkmaz,left foot injury (out indefinitely),21,6.58,190,None,Turkey,2016,1,26,48,5.8,2.2,1.1,3.7,2.30%,13.00%,17.40%,52.80%,10.70%,5.7,SG
+509,12/18/2017,2017,Clippers,Wesley Johnson,sore left foot (DTD),31,6.58,215,Syracuse,USA,2010,1,4,38,3.4,1.9,0.6,-7.3,2.00%,10.40%,11.50%,46.90%,5.40%,20.1,SF
+510,12/19/2017,2017,Lakers,Brook Lopez,sprained right ankle (DTD),31,7,270,Stanford,USA,2008,1,10,81,12.5,4.9,1.2,11.5,1.40%,13.50%,16.50%,59.70%,5.50%,23.4,C
+511,12/21/2017,2017,Blazers,Damian Lillard,strained right hamstring (DTD),28,6.25,195,Weber State,USA,2012,1,6,80,25.8,4.6,6.9,8.2,2.30%,10.00%,28.10%,58.80%,29.90%,36.6,PG
+512,12/23/2017,2017,Kings,Vince Carter,rib injury (DTD),42,6.5,220,North Carolina,USA,1998,1,5,76,7.4,2.6,1.1,-6.3,2.10%,11.40%,16.40%,56.50%,9.70%,17.7,SF
+513,12/30/2017,2017,Pistons,Stanley Johnson,strained right hip flexor (DTD),23,6.58,245,Arizona,USA,2015,1,8,66,6.9,3.3,1.3,-7.9,2.50%,14.20%,18.60%,48.50%,11.80%,27.4,SF
