@@ -1,0 +1,2 @@
+[0627/200355.091:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0627/200355.093:ERROR:exception_snapshot_win.cc(98)] thread ID 2276 not found in process
