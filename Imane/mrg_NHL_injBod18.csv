@@ -1,0 +1,673 @@
+,POSITION,HEIGHT,WEIGHT,PLAYER,AGE,INJURY COUNT,GAMES MISSED,INJURY TYPE,TEAM
+0,LW,"6'2""",214,Abdelkader Justin,32,1,11,Leg,Detroit
+1,LW,"5'11""",196,Aberg Pontus,25,1,8,Lower body,Minnesota
+2,G,"6'4""",230,Andersen Frederik,29,2,6,Groin,Toronto
+3,G,"6'4""",230,Andersen Frederik,29,2,1,Knee,Toronto
+4,G,"6'2""",185,Anderson Craig,38,2,11,Concussion,Ottawa
+5,G,"6'2""",185,Anderson Craig,38,2,3,Eye,Ottawa
+6,RW,"5'11""",190,Anderson Joey,21,1,33,Ankle,New Jersey
+7,RW,"5'10""",188,Andrighetto Sven,26,1,6,Lower body,Colorado
+8,C,"6'4""",198,Anisimov Artem,31,1,4,Concussion,Chicago
+9,RW,"5'10""",176,Archibald Josh,26,1,4,Upper body,Arizona/Phoenix
+10,RW,"6'4""",210,Armia Joel,26,1,25,Knee,Montreal
+11,RW,"5'9""",180,Arvidsson Viktor,26,2,3,Lower body,Nashville
+12,RW,"5'9""",180,Arvidsson Viktor,26,2,21,Thumb,Nashville
+13,C,"6'2""",177,Athanasiou Andreas,24,1,2,Upper body,Detroit
+14,RW,"5'8""",179,Atkinson Cam,30,1,1,Facial,Columbus
+15,RW,"6'3""",215,Backes David,35,1,5,Upper body,Boston
+16,C,"6'0""",200,Backlund Mikael,30,1,4,Concussion,Calgary
+17,LW,"5'11""",190,Baertschi Sven,26,2,23,Concussion,Vancouver
+18,LW,"5'11""",190,Baertschi Sven,26,2,30,Concussion,Vancouver
+19,D,"6'1""",200,Barberio Mark,29,2,8,Head,Colorado
+20,D,"6'1""",200,Barberio Mark,29,2,19,Upper body,Colorado
+21,D,"5'10""",190,Barrie Tyson,27,1,4,Lower body,Colorado
+22,RW,"6'4""",207,Bastian Nathan,21,1,14,Upper body,New Jersey
+23,C,"6'3""",210,Beagle Jay,33,1,24,Arm,Vancouver
+24,D,"6'2""",200,Beaulieu Nathan,26,1,4,Upper body,Buffalo
+25,LW,"6'2""",205,Benn Jamie,29,2,1,Upper body,Dallas
+26,LW,"6'2""",205,Benn Jamie,29,2,2,Upper body,Dallas
+27,C,"6'1""",195,Bennett Sam,23,2,2,Upper body,Calgary
+28,C,"6'1""",195,Bennett Sam,23,2,5,Upper body,Calgary
+29,D,"6'1""",203,Benning Matt,25,1,4,Upper body,Edmonton
+30,C,"6'1""",195,Bergeron Patrice,33,1,16,Sternoclavicular,Boston
+31,LW,"6'4""",219,Berglund Patrik,31,1,5,Upper body,Buffalo
+32,G,"6'0""",184,Bernier Jonathan,30,1,4,Upper body,Detroit
+33,LW,"6'0""",190,Bertuzzi Tyler,24,1,7,Upper body,Detroit
+34,G,"6'7""",215,Bishop Ben,32,4,2,Lower body,Dallas
+35,G,"6'7""",215,Bishop Ben,32,4,4,Lower body,Dallas
+36,G,"6'7""",215,Bishop Ben,32,4,5,Lower body,Dallas
+37,G,"6'7""",215,Bishop Ben,32,4,6,Upper body,Dallas
+38,C,"6'1""",199,Bishop Clark,23,1,8,Lower body,Carolina
+39,C,"6'6""",215,Bjugstad Nick,26,1,16,Upper body,Florida
+40,G,"6'4""",225,Blackwood Mackenzie,22,1,3,Lower body,New Jersey
+41,LW,"6'2""",205,Blais Sammy,23,1,13,Lower body,St. Louis
+42,G,"6'2""",182,Bobrovsky Sergei,30,1,1,Upper body,Columbus
+43,LW,"6'0""",210,Boedker Mikkel,29,1,7,Mid-body,Ottawa
+44,RW,"6'1""",208,Boeser Brock,22,2,2,Groin,Vancouver
+45,RW,"6'1""",208,Boeser Brock,22,2,11,Groin,Vancouver
+46,D,"6'3""",221,Bogosian Zach,28,5,1,Lower body,Buffalo
+47,D,"6'3""",221,Bogosian Zach,28,5,2,Lower body,Buffalo
+48,D,"6'3""",221,Bogosian Zach,28,5,5,Lower body,Buffalo
+49,D,"6'3""",221,Bogosian Zach,28,5,8,Lower body,Buffalo
+50,D,"6'3""",221,Bogosian Zach,28,5,1,Upper body,Buffalo
+51,D,"6'1""",207,Borowiecki Mark,29,5,6,Foot,Ottawa
+52,D,"6'1""",207,Borowiecki Mark,29,5,12,Hand,Ottawa
+53,D,"6'1""",207,Borowiecki Mark,29,5,1,Lower body,Ottawa
+54,D,"6'1""",207,Borowiecki Mark,29,5,1,Upper body,Ottawa
+55,D,"6'1""",207,Borowiecki Mark,29,5,4,Upper body,Ottawa
+56,D,"6'4""",216,Bortuzzo Robert,30,2,1,Lower body,St. Louis
+57,D,"6'4""",216,Bortuzzo Robert,30,2,16,Lower body,St. Louis
+58,D,"6'4""",206,Bouwmeester Jay,35,1,3,Hip,St. Louis
+59,D,"6'2""",227,Boychuk Johnny,35,1,2,Concussion,NY Islanders
+60,C,"5'11""",185,Boyd Travis,25,1,12,Lower body,Washington
+61,C,"6'6""",245,Boyle Brian,34,2,1,Lower body,Nashville
+62,C,"6'6""",245,Boyle Brian,34,2,5,Upper body,New Jersey
+63,C,"6'1""",199,Bozak Tyler,33,1,9,Concussion,St. Louis
+64,C,"6'1""",202,Brassard Derick,31,3,1,Upper body,Florida
+65,C,"6'1""",202,Brassard Derick,31,3,9,Lower body,Pittsburgh
+66,C,"6'1""",202,Brassard Derick,31,3,1,Upper body,Pittsburgh
+67,LW,"5'10""",175,Bratt Jesper,20,3,13,Jaw,New Jersey
+68,LW,"5'10""",175,Bratt Jesper,20,3,2,Lower body,New Jersey
+69,LW,"5'10""",175,Bratt Jesper,20,3,15,Lower body,New Jersey
+70,D,"6'2""",205,Braun Justin,32,1,4,Knee,San Jose
+71,D,"6'2""",175,Brisebois Guillaume,21,1,7,Hip,Vancouver
+72,RW,"6'1""",208,Brodzinski Jonny,26,1,59,Shoulder,Los Angeles
+73,G,"6'3""",204,Brossoit Laurent,26,1,8,Lower body,Winnipeg/Atlanta
+74,RW,"6'0""",210,Brown Dustin,34,1,10,Finger,Los Angeles
+75,RW,"6'3""",196,Buchnevich Pavel,24,2,1,Concussion,NY Rangers
+76,RW,"6'3""",196,Buchnevich Pavel,24,2,13,Thumb,NY Rangers
+77,D,"5'10""",190,Butcher Will,24,1,1,Lower body,New Jersey
+78,D,"6'5""",4,Byfuglien Dustin,34,4,19,Ankle,Winnipeg/Atlanta
+79,D,"6'5""",4,Byfuglien Dustin,34,4,4,Concussion,Winnipeg/Atlanta
+80,D,"6'5""",4,Byfuglien Dustin,34,4,15,Leg,Winnipeg/Atlanta
+81,D,"6'5""",4,Byfuglien Dustin,34,4,2,Upper body,Winnipeg/Atlanta
+82,RW,"5'9""",163,Byron Paul,30,4,6,Arm,Montreal
+83,RW,"5'9""",163,Byron Paul,30,4,14,Lower body,Montreal
+84,RW,"5'9""",163,Byron Paul,30,4,2,Upper body,Montreal
+85,RW,"5'9""",163,Byron Paul,30,4,1,Wrist,Montreal
+86,C,"5'10""",176,Caggiula Drake,25,3,13,Concussion,Chicago
+87,C,"5'10""",176,Caggiula Drake,25,3,4,Hand,Edmonton
+88,C,"5'10""",176,Caggiula Drake,25,3,3,Lower body,Edmonton
+89,RW,"5'10""",187,Callahan Ryan,34,2,4,Shoulder,Tampa Bay
+90,RW,"5'10""",187,Callahan Ryan,34,2,2,Upper body,Tampa Bay
+91,G,"6'2""",197,Campbell Jack,27,1,23,Knee,Los Angeles
+92,D,"6'1""",196,Capobianco Kyle,21,1,28,Lower body,Arizona/Phoenix
+93,D,"6'5""",212,Carlo Brandon,22,1,9,Upper body,Boston
+94,D,"6'3""",218,Carlson John,29,1,1,Lower body,Washington
+95,C,"6'0""",200,Carpenter Ryan,28,1,8,Upper body,Vegas
+96,D,"5'11""",192,Carrick Connor,25,1,27,Foot,Dallas
+97,LW,"6'2""",212,Carrier William,24,1,14,Upper body,Vegas
+98,C,"6'3""",219,Carter Jeff,34,2,5,Lower body,Los Angeles
+99,C,"6'3""",219,Carter Jeff,34,2,1,Upper body,Los Angeles
+100,D,"6'2""",209,Ceci Cody,25,2,3,Upper body,Ottawa
+101,D,"6'2""",209,Ceci Cody,25,2,4,Upper body,Ottawa
+102,LW,"6'2""",202,Cehlarik Peter,23,1,2,Lower body,Boston
+103,D,"6'4""",225,Cernak Erik,22,1,2,Lower body,Tampa Bay
+104,D,"6'2""",196,Chabot Thomas,22,2,4,Toe,Ottawa
+105,D,"6'2""",196,Chabot Thomas,22,2,8,Upper body,Ottawa
+106,D,"6'9""",250,Chara Zdeno,42,1,19,Knee,Boston
+107,D,"6'3""",219,Chiarot Ben,28,1,4,Lower body,Winnipeg/Atlanta
+108,RW,"6'4""",208,Chiasson Alex,28,1,3,Knee,Edmonton
+109,D,"6'1""",165,Cholowski Dennis,21,1,2,Upper body,Detroit
+110,D,"6'2""",210,Chychrun Jakob,21,3,16,Knee,Arizona/Phoenix
+111,D,"6'2""",210,Chychrun Jakob,21,3,4,Lower body,Arizona/Phoenix
+112,D,"6'2""",210,Chychrun Jakob,21,3,2,Upper body,Arizona/Phoenix
+113,C,"5'11""",195,Cizikas Casey,28,3,1,Lower body,NY Islanders
+114,C,"5'11""",195,Cizikas Casey,28,3,2,Lower body,NY Islanders
+115,C,"5'11""",195,Cizikas Casey,28,3,6,Lower body,NY Islanders
+116,D,"6'1""",196,Claesson Fredrik,26,2,13,Shoulder,NY Rangers
+117,D,"6'1""",196,Claesson Fredrik,26,2,9,Upper body,NY Rangers
+118,LW,"6'2""",211,Clifford Kyle,28,1,7,Upper body,Los Angeles
+119,RW,"5'11""",216,Clutterbuck Cal,31,3,1,Lower body,NY Islanders
+120,RW,"5'11""",216,Clutterbuck Cal,31,3,2,Upper body,NY Islanders
+121,RW,"5'11""",216,Clutterbuck Cal,31,3,3,Upper body,NY Islanders
+122,D,"6'5""",223,Coburn Braydon,34,1,1,Upper body,Tampa Bay
+123,C,"5'10""",177,Cogliano Andrew,32,1,3,Upper body,Dallas
+124,D,"6'1""",219,Cole Ian,30,1,11,Orbital bone,Colorado
+125,C,"5'11""",200,Coleman Blake,27,1,4,Upper body,New Jersey
+126,LW,"6'1""",200,Comeau Blake,33,1,3,Upper body,Dallas
+127,LW,"6'0""",193,Compher J.T.,24,1,16,Concussion,Colorado
+128,LW,"6'2""",205,Comtois Maxime,20,1,14,Lower body,Anaheim
+129,D,"6'2""",205,Connauton Kevin,29,2,1,Lower body,Arizona/Phoenix
+130,D,"6'2""",205,Connauton Kevin,29,2,5,Lower body,Arizona/Phoenix
+131,C,"6'1""",206,Copp Andrew,24,1,3,Concussion,Winnipeg/Atlanta
+132,C,"6'3""",211,Couturier Sean,26,1,2,Lower body,Philadelphia
+133,G,"6'2""",216,Crawford Corey,34,3,5,Concussion,Chicago
+134,G,"6'2""",216,Crawford Corey,34,3,28,Concussion,Chicago
+135,G,"6'2""",216,Crawford Corey,34,3,1,Groin,Chicago
+136,C,"5'11""",200,Crosby Sidney,31,1,3,Upper body,Pittsburgh
+137,C,"6'1""",202,Cullen Matt,42,1,11,Lower body,Pittsburgh
+138,D,"5'11""",195,Daley Trevor,35,5,2,Back,Detroit
+139,D,"5'11""",195,Daley Trevor,35,5,11,Back,Detroit
+140,D,"5'11""",195,Daley Trevor,35,5,16,Foot,Detroit
+141,D,"5'11""",195,Daley Trevor,35,5,5,Lower body,Detroit
+142,D,"5'11""",195,Daley Trevor,35,5,4,Upper body,Detroit
+143,G,"6'6""",232,Darling Scott,30,1,8,Lower body,Carolina
+144,D,"6'2""",208,Davidson Brandon,27,1,24,Leg,Chicago
+145,LW,"6'0""",188,DeBrusk Jake,22,2,9,Concussion,Boston
+146,LW,"6'0""",188,DeBrusk Jake,22,2,5,Foot,Boston
+147,D,"6'3""",192,DeKeyser Danny,29,3,8,Hand,Detroit
+148,D,"6'3""",192,DeKeyser Danny,29,3,19,Hand,Detroit
+149,D,"6'3""",192,DeKeyser Danny,29,3,3,Lower body,Detroit
+150,D,"6'1""",195,DeMelo Dylan,26,1,5,Upper body,Ottawa
+151,D,"6'1""",195,Demers Jason,31,1,47,Knee,Arizona/Phoenix
+152,G,"6'4""",192,Demko Thatcher,23,1,9,Knee,Vancouver
+153,D,"6'0""",204,Dermott Travis,22,1,14,Shoulder,Toronto
+154,LW,"6'1""",221,Deslauriers Nicolas,28,1,6,Facial,Montreal
+155,C,"6'2""",200,Dickinson Jason,24,2,11,Back,Dallas
+156,C,"6'2""",200,Dickinson Jason,24,2,2,Lower body,Dallas
+157,D,"6'0""",169,Djoos Christian,24,1,24,Thigh,Washington
+158,G,"6'3""",210,Domingue Louis,27,1,4,Lower body,Tampa Bay
+159,C,"5'10""",180,Dowling Justin,28,1,3,Upper body,Dallas
+160,LW,"5'10""",183,Dube Dillon,20,2,4,Concussion,Calgary
+161,LW,"5'10""",183,Dube Dillon,20,2,1,Lower body,Calgary
+162,C,"6'2""",205,Dubinsky Brandon,33,3,7,Hip,Columbus
+163,C,"6'2""",205,Dubinsky Brandon,33,3,4,Lower body,Columbus
+164,C,"6'2""",205,Dubinsky Brandon,33,3,10,Oblique,Columbus
+165,C,"5'11""",195,Duchene Matt,28,1,6,Groin,Ottawa
+166,D,"6'4""",207,Dumoulin Brian,27,2,3,Concussion,Pittsburgh
+167,D,"6'4""",207,Dumoulin Brian,27,2,3,Lower body,Pittsburgh
+168,D,"6'0""",203,Dunn Vince,22,1,2,Lower body,St. Louis
+169,C,"6'0""",195,Dvorak Christian,23,2,4,Lower body,Arizona/Phoenix
+170,C,"6'0""",195,Dvorak Christian,23,2,58,Pectoral,Arizona/Phoenix
+171,LW,"6'0""",190,Dzingel Ryan,27,1,2,Lower body,Ottawa
+172,C,"6'0""",190,Eakin Cody,28,1,3,Lower body,Vegas
+173,RW,"5'11""",203,Eaves Patrick,35,2,33,Ribs,Anaheim
+174,RW,"5'11""",203,Eaves Patrick,35,2,13,Shoulder,Anaheim
+175,RW,"5'11""",187,Eberle Jordan,29,1,4,Upper body,NY Islanders
+176,D,"6'3""",212,Edler Alexander,33,2,11,Concussion,Vancouver
+177,D,"6'3""",212,Edler Alexander,33,2,15,Knee,Vancouver
+178,D,"6'4""",215,Edmundson Joel,26,3,2,Groin,St. Louis
+179,D,"6'4""",215,Edmundson Joel,26,3,2,Hand,St. Louis
+180,D,"6'4""",215,Edmundson Joel,26,3,11,Lower body,St. Louis
+181,LW,"6'0""",172,Ehlers Nikolaj,23,1,20,Shoulder,Winnipeg/Atlanta
+182,C,"6'2""",206,Eichel Jack,22,1,3,Upper body,Buffalo
+183,D,"6'2""",200,Ekman-Larsson Oliver,27,1,1,Knee,Arizona/Phoenix
+184,C,"6'2""",207,Eller Lars,30,1,1,Lower body,Washington
+185,G,"6'2""",209,Elliott Brian,34,1,40,Lower body,Philadelphia
+186,D,"6'2""",214,Engelland Deryk,37,1,3,Arm,Vegas
+187,LW,"5'9""",161,Ennis Tyler,29,1,18,Ankle,Toronto
+188,D,"6'4""",220,Ericsson Jonathan,35,2,5,Lower body,Detroit
+189,D,"6'4""",220,Ericsson Jonathan,35,2,7,Upper body,Detroit
+190,C,"6'1""",208,Eriksson Ek Joel,22,2,6,Lower body,Minnesota
+191,C,"6'1""",208,Eriksson Ek Joel,22,2,7,Lower body,Minnesota
+192,LW,"6'1""",214,Erne Adam,24,1,1,Upper body,Tampa Bay
+193,LW,"5'10""",190,Fabbri Robby,23,2,10,Groin,St. Louis
+194,LW,"5'10""",190,Fabbri Robby,23,2,10,Shoulder,St. Louis
+195,C,"6'3""",220,Faksa Radek,25,1,1,Neck,Dallas
+196,D,"6'5""",224,Falk Justin,30,1,12,Concussion,Ottawa
+197,D,"6'0""",206,Fantenberg Oscar,27,1,3,Lower body,Los Angeles
+198,RW,"6'1""",192,Fast Jesper,27,2,5,Upper body,NY Rangers
+199,RW,"6'1""",192,Fast Jesper,27,2,10,Upper body,NY Rangers
+200,LW,"6'1""",217,Ferland Micheal,27,5,1,Back,Carolina
+201,LW,"6'1""",217,Ferland Micheal,27,5,4,Concussion,Carolina
+202,LW,"6'1""",217,Ferland Micheal,27,5,1,Upper body,Carolina
+203,LW,"6'1""",217,Ferland Micheal,27,5,2,Upper body,Carolina
+204,LW,"6'1""",217,Ferland Micheal,27,5,3,Upper body,Carolina
+205,C,"6'0""",196,Filppula Valtteri,35,2,2,Upper body,NY Islanders
+206,C,"6'0""",196,Filppula Valtteri,35,2,8,Upper body,NY Islanders
+207,D,"6'3""",221,Fleury Haydn,22,2,3,Concussion,Carolina
+208,D,"6'3""",221,Fleury Haydn,22,2,9,Concussion,Carolina
+209,G,"6'2""",180,Fleury Marc-Andre,34,1,9,Lower body,Vegas
+210,LW,"6'2""",174,Formenton Alex,19,1,3,Concussion,Ottawa
+211,LW,"6'1""",205,Forsberg Filip,24,2,1,Upper body,Nashville
+212,LW,"6'1""",205,Forsberg Filip,24,2,17,Upper body,Nashville
+213,D,"6'0""",186,Forsling Gustav,23,3,6,Shoulder,Chicago
+214,D,"6'0""",186,Forsling Gustav,23,3,8,Torso,Chicago
+215,D,"6'0""",186,Forsling Gustav,23,3,8,Wrist,Chicago
+216,D,"6'2""",206,Fowler Cam,27,1,23,Facial,Anaheim
+217,C,"5'11""",192,Fritz Tanner,27,1,5,Hand,NY Islanders
+218,RW,"6'1""",190,Frolik Michael,31,1,15,Lower body,Calgary
+219,LW,"6'1""",205,Gaborik Marian,37,1,82,Back,Ottawa
+220,RW,"6'4""",212,Gabriel Kurtis,26,1,3,Upper body,New Jersey
+221,C,"6'1""",207,Galchenyuk Alex,25,2,3,Lower body,Arizona/Phoenix
+222,C,"6'1""",207,Galchenyuk Alex,25,2,7,Lower body,Arizona/Phoenix
+223,D,"6'2""",203,Gardiner Jake,29,2,2,Back,Toronto
+224,D,"6'2""",203,Gardiner Jake,29,2,18,Back,Toronto
+225,C,"6'5""",235,Gauthier Frederik,24,1,2,Foot,Toronto
+226,C,"6'4""",225,Getzlaf Ryan,34,4,5,Groin,Anaheim
+227,C,"6'4""",225,Getzlaf Ryan,34,4,1,Upper body,Anaheim
+228,C,"6'4""",225,Getzlaf Ryan,34,4,4,Upper body,Anaheim
+229,C,"6'4""",225,Getzlaf Ryan,34,4,5,Upper body,Anaheim
+230,C,"5'8""",175,Gibbons Brian,31,1,1,Hand,Anaheim
+231,G,"6'2""",206,Gibson John,25,1,9,Upper body,Anaheim
+232,D,"6'1""",212,Girardi Dan,35,1,13,Lower body,Tampa Bay
+233,LW,"6'2""",207,Girgensons Zemgus,25,1,4,Upper body,Buffalo
+234,D,"5'11""",185,Goligoski Alex,33,1,5,Lower body,Arizona/Phoenix
+235,D,"5'11""",180,Gostisbehere Shayne,26,1,3,Lower body,Philadelphia
+236,RW,"6'1""",188,Grabner Michael,31,1,41,Eye,Arizona/Phoenix
+237,C,"6'3""",215,Grant Derek,29,1,3,Upper body,Anaheim
+238,D,"6'1""",207,Green Mike,33,1,13,Lower body,Detroit
+239,C,"5'6""",180,Grimaldi Rocco,26,1,6,Upper body,Nashville
+240,D,"5'9""",174,Grzelcyk Matt,25,3,8,Arm,Boston
+241,D,"5'9""",174,Grzelcyk Matt,25,3,2,Lower body,Boston
+242,D,"5'9""",174,Grzelcyk Matt,25,3,4,Lower body,Boston
+243,D,"6'5""",217,Gudbranson Erik,27,2,2,Back,Vancouver
+244,D,"6'5""",217,Gudbranson Erik,27,2,3,Neck,Vancouver
+245,D,"6'2""",197,Guhle Brendan,21,1,14,Oblique,Anaheim
+246,D,"6'2""",198,Gunnarsson Carl,32,3,10,Knee,St. Louis
+247,D,"6'2""",198,Gunnarsson Carl,32,3,20,Upper body,St. Louis
+248,D,"6'2""",198,Gunnarsson Carl,32,3,24,Upper body,St. Louis
+249,LW,"5'11""",186,Hagelin Carl,30,1,20,Knee,Los Angeles
+250,D,"6'2""",196,Hajek Libor,21,1,14,Shoulder,NY Rangers
+251,LW,"6'1""",205,Hall Taylor,27,2,47,Knee,New Jersey
+252,LW,"6'1""",205,Hall Taylor,27,2,2,Lower body,New Jersey
+253,D,"6'1""",204,Hamhuis Dan,36,2,9,Lower body,Nashville
+254,D,"6'1""",204,Hamhuis Dan,36,2,14,Lower body,Nashville
+255,D,"6'2""",205,Hamonic Travis,28,2,8,Facial,Calgary
+256,D,"6'2""",205,Hamonic Travis,28,2,1,Lower body,Calgary
+257,LW,"6'1""",200,Hannikainen Markus,26,1,6,Upper body,Columbus
+258,C,"6'6""",230,Hanzal Martin,32,3,1,Back,Dallas
+259,C,"6'6""",230,Hanzal Martin,32,3,29,Back,Dallas
+260,C,"6'6""",230,Hanzal Martin,32,3,45,Back,Dallas
+261,D,"6'6""",222,Harpur Ben,24,1,4,Shoulder,Ottawa
+262,D,"6'2""",207,Harrington Scott,26,1,2,Concussion,Columbus
+263,G,"6'2""",181,Hart Carter,20,1,7,Ankle,Philadelphia
+264,C,"6'0""",193,Haula Erik,28,1,67,Lower body,Vegas
+265,C,"5'11""",196,Hawryluk Jayce,23,1,4,Lower body,Florida
+266,C,"6'5""",216,Hayes Kevin,27,1,9,Upper body,NY Rangers
+267,D,"6'6""",223,Hedman Victor,28,3,1,Lower body,Tampa Bay
+268,D,"6'6""",223,Hedman Victor,28,3,4,Upper body,Tampa Bay
+269,D,"6'6""",223,Hedman Victor,28,3,7,Upper body,Tampa Bay
+270,LW,"6'0""",196,Helm Darren,32,1,21,Upper body,Detroit
+271,C,"6'0""",211,Hendricks Matt,38,2,6,Leg,Minnesota
+272,C,"6'0""",211,Hendricks Matt,38,2,3,Upper body,Minnesota
+273,C,"6'2""",215,Hertl Tomas,25,2,3,Head,San Jose
+274,C,"6'2""",215,Hertl Tomas,25,2,2,Lower body,San Jose
+275,D,"6'0""",183,Hickey Thomas,30,1,29,Upper body,NY Islanders
+276,C,"5'9""",173,Hinostroza Vinnie,25,1,10,Lower body,Arizona/Phoenix
+277,C,"6'1""",175,Hischier Nico,20,2,4,Upper body,New Jersey
+278,C,"6'1""",175,Hischier Nico,20,2,9,Upper body,New Jersey
+279,G,"6'2""",211,Holtby Braden,29,1,2,Upper body,Washington
+280,D,"6'3""",206,Holzer Korbinian,31,1,42,Wrist,Anaheim
+281,RW,"5'11""",189,Hornqvist Patric,32,3,3,Concussion,Pittsburgh
+282,RW,"5'11""",189,Hornqvist Patric,32,3,4,Concussion,Pittsburgh
+283,RW,"5'11""",189,Hornqvist Patric,32,3,6,Upper body,Pittsburgh
+284,G,"6'1""",218,Howard Jimmy,35,1,1,Back,Detroit
+285,C,"6'3""",195,Howden Brett,21,1,15,Knee,NY Rangers
+286,D,"5'10""",175,Hughes Quinn,19,1,8,Ankle,Vancouver
+287,D,"5'11""",200,Hunwick Matt,34,4,1,Lower body,Buffalo
+288,D,"5'11""",200,Hunwick Matt,34,4,3,Lower body,Buffalo
+289,D,"5'11""",200,Hunwick Matt,34,4,32,Neck,Buffalo
+290,D,"5'11""",200,Hunwick Matt,34,4,9,Upper body,Buffalo
+291,D,"6'2""",206,Hutton Ben,26,1,11,Foot,Vancouver
+292,G,"6'1""",202,Hutton Carter,33,1,1,Upper body,Buffalo
+293,LW,"6'1""",209,Hyman Zach,27,1,8,Ankle,Toronto
+294,C,"5'11""",186,Jarnkrok Calle,27,1,3,Lower body,Nashville
+295,D,"6'3""",201,Jaros Christian,23,4,3,Finger,Ottawa
+296,D,"6'3""",201,Jaros Christian,23,4,4,Hamstring,Ottawa
+297,D,"6'3""",201,Jaros Christian,23,4,2,Lower body,Ottawa
+298,D,"6'3""",201,Jaros Christian,23,4,4,Lower body,Ottawa
+299,C,"6'2""",206,Jenner Boone,26,1,3,Ankle,Columbus
+300,LW,"6'1""",205,Johansson Marcus,28,3,10,Lung,Boston
+301,LW,"6'1""",205,Johansson Marcus,28,3,1,Lower body,New Jersey
+302,LW,"6'1""",205,Johansson Marcus,28,3,10,Upper body,New Jersey
+303,D,"6'4""",225,Johns Stephen,27,1,82,Head,Dallas
+304,G,"6'3""",197,Johnson Chad,33,1,26,Head,Anaheim
+305,D,"6'4""",225,Johnson Erik,31,1,2,Concussion,Colorado
+306,C,"5'8""",183,Johnson Tyler,28,2,1,Lower body,Tampa Bay
+307,C,"5'8""",183,Johnson Tyler,28,2,1,Upper body,Tampa Bay
+308,LW,"5'10""",181,Johnsson Andreas,24,2,1,Concussion,Toronto
+309,LW,"5'10""",181,Johnsson Andreas,24,2,1,Leg,Toronto
+310,D,"6'4""",210,Jones Seth,24,1,7,Knee,Columbus
+311,RW,"6'1""",190,Joseph Mathieu,22,1,6,Lower body,Tampa Bay
+312,C,"5'11""",191,Jost Tyson,21,1,4,Head,Colorado
+313,D,"6'2""",174,Juulsen Noah,22,2,9,Facial,Montreal
+314,D,"6'2""",174,Juulsen Noah,22,2,2,Upper body,Montreal
+315,C,"6'0""",192,Kadri Nazem,28,1,8,Concussion,Toronto
+316,C,"6'2""",194,Kamenev Vladislav,22,1,52,Shoulder,Colorado
+317,C,"6'2""",188,Kampf David,24,2,2,Facial,Chicago
+318,C,"6'2""",188,Kampf David,24,2,12,Foot,Chicago
+319,LW,"6'2""",210,Kane Evander,27,1,5,Mid-body,San Jose
+320,RW,"6'1""",192,Kapanen Kasperi,22,1,4,Concussion,Toronto
+321,D,"6'0""",190,Karlsson Erik,29,3,1,Groin,San Jose
+322,D,"6'0""",190,Karlsson Erik,29,3,17,Groin,San Jose
+323,D,"6'0""",190,Karlsson Erik,29,3,9,Lower body,San Jose
+324,C,"6'0""",180,Karlsson Melker,28,1,3,Lower body,San Jose
+325,RW,"5'11""",186,Kase Ondrej,23,2,18,Concussion,Anaheim
+326,RW,"5'11""",186,Kase Ondrej,23,2,34,Shoulder,Anaheim
+327,RW,"6'3""",211,Kassian Zack,28,1,1,Neck,Edmonton
+328,C,"6'2""",201,Kempe Adrian,22,1,1,Upper body,Los Angeles
+329,RW,"6'0""",185,Kempe Mario,30,1,2,Upper body,Arizona/Phoenix
+330,D,"6'0""",194,Kempny Michal,28,2,8,Hamstring,Washington
+331,D,"6'0""",194,Kempny Michal,28,2,2,Upper body,Washington
+332,C,"5'10""",175,Kerfoot Alexander,24,1,4,Upper body,Colorado
+333,C,"6'2""",206,Kesler Ryan,34,3,3,Hip,Anaheim
+334,C,"6'2""",206,Kesler Ryan,34,3,14,Hip,Anaheim
+335,C,"6'2""",206,Kesler Ryan,34,3,5,Lower body,Anaheim
+336,LW,"6'4""",212,Khaira Jujhar,24,1,5,Foot,Edmonton
+337,D,"6'0""",207,Kiselevich Bogdan,29,1,2,Jaw,Florida
+338,D,"6'3""",216,Klefbom Oscar,25,1,21,Hand,Edmonton
+339,D,"6'2""",180,Klingberg John,26,1,18,Hand,Dallas
+340,RW,"6'2""",195,Knight Corban,28,2,44,Collarbone,Philadelphia
+341,RW,"6'2""",195,Knight Corban,28,2,5,Upper body,Philadelphia
+342,C,"6'3""",219,Koivu Mikko,36,2,29,Knee,Minnesota
+343,C,"6'3""",219,Koivu Mikko,36,2,4,Lower body,Minnesota
+344,LW,"6'3""",222,Kovalchuk Ilya,36,2,10,Ankle,Los Angeles
+345,LW,"6'3""",222,Kovalchuk Ilya,36,2,1,Upper body,Los Angeles
+346,LW,"6'3""",216,Kreider Chris,28,1,3,Lower body,NY Rangers
+347,D,"5'9""",186,Krug Torey,28,2,11,Ankle,Boston
+348,D,"5'9""",186,Krug Torey,28,2,6,Concussion,Boston
+349,C,"6'0""",186,Kruger Marcus,29,2,4,Concussion,Chicago
+350,C,"6'0""",186,Kruger Marcus,29,2,3,Leg,Chicago
+351,G,"6'5""",215,Kuemper Darcy,29,2,7,Lower body,Arizona/Phoenix
+352,G,"6'5""",215,Kuemper Darcy,29,2,1,Upper body,Arizona/Phoenix
+353,D,"6'1""",204,Kulikov Dmitry,28,2,4,Upper body,Winnipeg/Atlanta
+354,D,"6'1""",204,Kulikov Dmitry,28,2,12,Upper body,Winnipeg/Atlanta
+355,C,"6'0""",195,Kunin Luke,21,1,2,Upper body,Minnesota
+356,C,"6'2""",213,Kuraly Sean,26,2,2,Concussion,Boston
+357,C,"6'2""",213,Kuraly Sean,26,2,8,Hand,Boston
+358,C,"6'2""",204,Kuznetsov Evgeny,27,1,6,Upper body,Washington
+359,D,"6'2""",200,LaDue Paul,26,1,5,Upper body,Los Angeles
+360,LW,"6'3""",192,Ladd Andrew,33,2,6,Knee,NY Islanders
+361,LW,"6'3""",192,Ladd Andrew,33,2,44,Leg,NY Islanders
+362,LW,"6'1""",215,Landeskog Gabriel,26,1,9,Shoulder,Colorado
+363,RW,"6'1""",198,Larkin Dylan,22,2,5,Neck,Detroit
+364,RW,"6'1""",198,Larkin Dylan,22,2,1,Oblique,Detroit
+365,D,"6'2""",197,Larsson Jacob,22,1,4,Charley horse,Anaheim
+366,C,"5'11""",198,Larsson Johan,26,2,3,Foot,Buffalo
+367,C,"5'11""",198,Larsson Johan,26,2,2,Upper body,Buffalo
+368,G,"6'4""",240,Lehner Robin,27,2,1,Back,NY Islanders
+369,G,"6'4""",240,Lehner Robin,27,2,3,Upper body,NY Islanders
+370,LW,"5'10""",179,Leipsic Brendan,25,1,9,Lower body,Los Angeles
+371,LW,"6'2""",192,Leivo Josh,26,1,3,Back,Vancouver
+372,D,"6'0""",201,Letang Kris,32,3,1,Lower body,Pittsburgh
+373,D,"6'0""",201,Letang Kris,32,3,4,Upper body,Pittsburgh
+374,D,"6'0""",201,Letang Kris,32,3,11,Upper body,Pittsburgh
+375,C,"6'1""",202,Lewis Trevor,32,1,38,Foot,Los Angeles
+376,D,"6'3""",211,Lindholm Hampus,25,1,6,Lower body,Anaheim
+377,D,"6'1""",205,Lovejoy Ben,35,2,3,Lower body,New Jersey
+378,D,"6'1""",205,Lovejoy Ben,35,2,6,Upper body,New Jersey
+379,C,"6'5""",210,Lowry Adam,26,1,2,Upper body,Winnipeg/Atlanta
+380,LW,"6'3""",231,Lucic Milan,31,2,2,Hip,Edmonton
+381,LW,"6'3""",231,Lucic Milan,31,2,1,Lower body,Edmonton
+382,G,"6'3""",215,Luongo Roberto,40,2,8,Knee,Florida
+383,G,"6'3""",215,Luongo Roberto,40,2,5,Lower body,Florida
+384,G,"6'1""",198,Lyon Alex,26,1,1,Lower body,Philadelphia
+385,D,"6'2""",206,Maatta Olli,24,1,21,Upper body,Pittsburgh
+386,D,"6'3""",203,MacDermid Kurtis,25,1,3,Upper body,Los Angeles
+387,D,"6'1""",204,MacDonald Andrew,32,1,6,Lower body,Philadelphia
+388,C,"5'11""",177,MacKenzie Derek,38,1,81,Shoulder,Florida
+389,C,"5'9""",177,Malgin Denis,22,1,6,Upper body,Florida
+390,C,"6'3""",195,Malkin Evgeni,32,2,5,Upper body,Pittsburgh
+391,C,"6'3""",195,Malkin Evgeni,32,2,8,Upper body,Pittsburgh
+392,D,"6'3""",216,Manson Josh,27,1,4,Upper body,Anaheim
+393,RW,"6'5""",225,Mantha Anthony,24,1,15,Hand,Detroit
+394,LW,"5'9""",181,Marchand Brad,31,1,1,Upper body,Boston
+395,LW,"6'3""",225,Maroon Patrick,31,1,4,Upper body,St. Louis
+396,LW,"6'3""",220,Martin Matt,30,2,4,Upper body,NY Islanders
+397,LW,"6'3""",220,Martin Matt,30,2,10,Upper body,NY Islanders
+398,D,"6'1""",209,Martinez Alec,31,2,8,Upper body,Los Angeles
+399,D,"6'1""",209,Martinez Alec,31,2,14,Upper body,Los Angeles
+400,C,"6'3""",229,Martinsen Andreas,29,1,3,Back,Chicago
+401,C,"6'3""",223,Matthews Auston,21,1,14,Shoulder,Toronto
+402,D,"6'0""",208,McAvoy Charlie,21,2,20,Concussion,Boston
+403,D,"6'0""",208,McAvoy Charlie,21,2,7,Lower body,Boston
+404,D,"6'1""",210,McCabe Jake,25,3,1,Upper body,Buffalo
+405,D,"6'1""",210,McCabe Jake,25,3,9,Upper body,Buffalo
+406,D,"6'1""",210,McCabe Jake,25,3,13,Upper body,Buffalo
+407,C,"6'1""",185,McCann Jared,23,1,1,Upper body,Florida
+408,C,"5'11""",185,McCormick Max,27,1,7,Lower body,Ottawa
+409,G,"6'2""",203,McElhinney Curtis,36,2,4,Knee,Carolina
+410,G,"6'2""",203,McElhinney Curtis,36,2,5,Lower body,Carolina
+411,LW,"6'1""",205,McGinn Jamie,30,1,48,Back,Florida
+412,LW,"6'2""",204,McLeod Cody,35,1,14,Hand,NY Rangers
+413,D,"6'4""",210,McQuaid Adam,32,2,5,Upper body,Columbus
+414,D,"6'4""",210,McQuaid Adam,32,2,21,Lower body,NY Rangers
+415,RW,"6'0""",210,Meier Timo,22,2,3,Upper body,San Jose
+416,RW,"6'0""",210,Meier Timo,22,2,1,Wrist,San Jose
+417,D,"5'9""",183,Mete Victor,21,1,2,Hand,Montreal
+418,D,"6'4""",230,Methot Marc,34,3,2,Lower body,Dallas
+419,D,"6'4""",230,Methot Marc,34,3,70,Lower body,Dallas
+420,D,"6'4""",230,Methot Marc,34,3,1,Soreness,Dallas
+421,D,"6'1""",196,Miller Colin,26,1,13,Upper body,Vegas
+422,C,"6'1""",218,Miller J.T.,26,1,6,Upper body,Tampa Bay
+423,D,"6'2""",210,Miller Kevan,31,4,13,Hand,Boston
+424,D,"6'2""",210,Miller Kevan,31,4,13,Larynx,Boston
+425,D,"6'2""",210,Miller Kevan,31,4,1,Lower body,Boston
+426,D,"6'2""",210,Miller Kevan,31,4,16,Upper body,Boston
+427,G,"6'2""",168,Miller Ryan,38,2,24,Knee,Anaheim
+428,G,"6'2""",168,Miller Ryan,38,2,1,Lower body,Anaheim
+429,C,"6'0""",209,Mittelstadt Casey,20,1,2,Lower body,Buffalo
+430,D,"6'2""",210,Moore John,28,2,3,Lower body,Boston
+431,D,"6'2""",210,Moore John,28,2,6,Upper body,Boston
+432,D,"6'0""",195,Morrissey Josh,24,3,1,Lower body,Winnipeg/Atlanta
+433,D,"6'0""",195,Morrissey Josh,24,3,2,Lower body,Winnipeg/Atlanta
+434,D,"6'0""",195,Morrissey Josh,24,3,20,Upper body,Winnipeg/Atlanta
+435,C,"5'10""",192,Motte Tyler,24,1,6,Upper body,Vancouver
+436,G,"6'1""",190,Mrazek Petr,27,1,9,Lower body,Carolina
+437,D,"6'3""",210,Mueller Mirco,24,1,11,Shoulder,New Jersey
+438,D,"6'4""",212,Murphy Connor,26,1,30,Back,Chicago
+439,G,"6'4""",178,Murray Matt,25,3,1,Concussion,Pittsburgh
+440,G,"6'4""",178,Murray Matt,25,3,9,Lower body,Pittsburgh
+441,G,"6'4""",178,Murray Matt,25,3,1,Upper body,Pittsburgh
+442,D,"6'1""",205,Murray Ryan,25,2,1,Lower body,Columbus
+443,D,"6'1""",205,Murray Ryan,25,2,24,Upper body,Columbus
+444,D,"6'8""",229,Myers Tyler,29,1,2,Lower body,Winnipeg/Atlanta
+445,C,"6'0""",184,Namestnikov Vladislav,26,1,3,Concussion,NY Rangers
+446,LW,"6'3""",212,Neal James,31,2,17,Lower body,Calgary
+447,LW,"6'3""",212,Neal James,31,2,1,Upper body,Calgary
+448,D,"6'1""",183,Nelson Casey,26,1,29,Upper body,Buffalo
+449,D,"6'3""",219,Nemeth Patrik,27,1,2,Upper body,Colorado
+450,G,"6'1""",209,Neuvirth Michal,31,2,9,Groin,Philadelphia
+451,G,"6'1""",209,Neuvirth Michal,31,2,42,Lower body,Philadelphia
+452,RW,"6'4""",210,Nichushkin Valeri,24,3,2,Lower body,Dallas
+453,RW,"6'4""",210,Nichushkin Valeri,24,3,3,Lower body,Dallas
+454,RW,"6'4""",210,Nichushkin Valeri,24,3,3,Upper body,Dallas
+455,C,"6'1""",188,Nielsen Frans,35,1,5,Concussion,Detroit
+456,LW,"5'11""",190,Nieto Matt,26,2,2,Lower body,Colorado
+457,LW,"5'11""",190,Nieto Matt,26,2,15,Lower body,Colorado
+458,G,"6'6""",232,Nilsson Anders,29,1,11,Finger,Vancouver
+459,D,"6'1""",203,Niskanen Matt,32,1,2,Head,Washington
+460,RW,"6'1""",205,Noesen Stefan,26,3,23,Lower body,New Jersey
+461,RW,"6'1""",205,Noesen Stefan,26,3,1,Upper body,New Jersey
+462,RW,"6'1""",205,Noesen Stefan,26,3,4,Upper body,New Jersey
+463,C,"6'1""",194,Nordstrom Joakim,27,1,10,Leg,Boston
+464,LW,"6'3""",210,Nosek Tomas,26,1,1,Lower body,Vegas
+465,LW,"6'1""",196,Nylander Alexander,21,1,2,Leg,Buffalo
+466,D,"6'0""",182,Oesterle Jordan,27,1,1,Upper body,Arizona/Phoenix
+467,RW,"6'0""",220,Okposo Kyle,31,1,4,Concussion,Buffalo
+468,D,"6'7""",255,Oleksiak Jamie,26,1,3,Concussion,Pittsburgh
+469,D,"6'3""",217,Orpik Brooks,38,1,27,Lower body,Washington
+470,RW,"5'11""",195,Oshie T.J.,32,1,11,Concussion,Washington
+471,LW,"6'3""",206,Paajarvi Magnus,28,1,2,Upper body,Ottawa
+472,LW,"6'2""",206,Pacioretty Max,30,3,3,Leg,Vegas
+473,LW,"6'2""",206,Pacioretty Max,30,3,7,Lower body,Vegas
+474,LW,"6'2""",206,Pacioretty Max,30,3,4,Upper body,Vegas
+475,C,"5'10""",184,Pageau Jean-Gabriel,26,1,42,Achilles,Ottawa
+476,LW,"6'0""",188,Palat Ondrej,28,2,16,Lower body,Tampa Bay
+477,LW,"6'0""",188,Palat Ondrej,28,2,2,Upper body,Tampa Bay
+478,RW,"5'11""",185,Palmieri Kyle,28,3,3,Lower body,New Jersey
+479,RW,"5'11""",185,Palmieri Kyle,28,3,4,Lower body,New Jersey
+480,RW,"5'11""",185,Palmieri Kyle,28,3,1,Upper body,New Jersey
+481,LW,"5'11""",168,Panarin Artemi,27,1,1,Lower body,Columbus
+482,C,"6'1""",198,Paquette Cedric,25,1,1,Lower body,Tampa Bay
+483,LW,"5'11""",193,Parise Zach,34,2,1,Foot,Minnesota
+484,LW,"5'11""",193,Parise Zach,34,2,4,Lower body,Minnesota
+485,RW,"6'0""",194,Pastrnak David,23,1,16,Thumb,Boston
+486,C,"6'2""",198,Patrick Nolan,20,4,1,Upper body,Philadelphia
+487,C,"6'2""",198,Patrick Nolan,20,4,2,Upper body,Philadelphia
+488,C,"6'2""",198,Patrick Nolan,20,4,3,Upper body,Philadelphia
+489,C,"6'2""",198,Patrick Nolan,20,4,4,Upper body,Philadelphia
+490,C,"5'11""",190,Pavelski Joe,34,1,7,Lower body,San Jose
+491,LW,"6'3""",211,Perlini Brendan,23,1,3,Concussion,Chicago
+492,LW,"6'0""",200,Perron David,31,1,24,Concussion,St. Louis
+493,RW,"6'3""",206,Perry Corey,34,1,51,Knee,Anaheim
+494,D,"6'3""",206,Pesce Brett,24,1,9,Lower body,Carolina
+495,D,"6'4""",216,Petrovic Alex,27,1,6,Concussion,Edmonton
+496,C,"6'2""",176,Pettersson Elias,20,2,6,Concussion,Vancouver
+497,C,"6'2""",176,Pettersson Elias,20,2,5,Knee,Vancouver
+498,D,"6'4""",222,Phaneuf Dion,34,1,7,Upper body,Los Angeles
+499,D,"6'3""",210,Pietrangelo Alex,29,1,11,Hand,St. Louis
+500,D,"5'11""",191,Pilut Lawrence,23,1,3,Lower body,Buffalo
+501,D,"6'0""",186,Pionk Neal,23,3,1,Eye,NY Rangers
+502,D,"6'0""",186,Pionk Neal,23,3,1,Lower body,NY Rangers
+503,D,"6'0""",186,Pionk Neal,23,3,3,Lower body,NY Rangers
+504,C,"6'0""",186,Pirri Brandon,28,2,4,Lower body,Vegas
+505,C,"6'0""",186,Pirri Brandon,28,2,2,Neck,Vegas
+506,C,"6'2""",200,Pitlick Tyler,27,1,30,Wrist,Dallas
+507,C,"5'11""",193,Plekanec Tomas,36,1,10,Back,Montreal
+508,C,"5'10""",166,Point Brayden,23,1,1,Lower body,Tampa Bay
+509,G,"6'3""",215,Price Carey,31,1,3,Lower body,Montreal
+510,RW,"6'4""",201,Puljujarvi Jesse,21,1,25,Hip,Edmonton
+511,D,"6'1""",200,Pysyk Mark,27,1,6,Upper body,Florida
+512,C,"6'1""",195,Quenneville John,23,2,2,Upper body,New Jersey
+513,C,"6'1""",195,Quenneville John,23,2,4,Upper body,New Jersey
+514,G,"6'1""",216,Quick Jonathan,33,2,13,Knee,Los Angeles
+515,G,"6'1""",216,Quick Jonathan,33,2,5,Lower body,Los Angeles
+516,G,"6'0""",195,Raanta Antti,30,2,59,Knee,Arizona/Phoenix
+517,G,"6'0""",195,Raanta Antti,30,2,7,Lower body,Arizona/Phoenix
+518,LW,"6'4""",200,Radil Lukas,28,1,4,Lower body,San Jose
+519,LW,"6'1""",205,Radulov Alexander,33,2,4,Lower body,Dallas
+520,LW,"6'1""",205,Radulov Alexander,33,2,6,Lower body,Dallas
+521,LW,"6'0""",200,Raffl Michael,30,1,14,Lower body,Philadelphia
+522,C,"6'1""",202,Rakell Rickard,26,1,13,Ankle,Anaheim
+523,G,"6'3""",176,Rask Tuukka,32,1,1,Concussion,Boston
+524,C,"6'2""",200,Rask Victor,26,2,20,Hand,Carolina
+525,C,"6'2""",200,Rask Victor,26,2,12,Lower body,Minnesota
+526,C,"6'6""",221,Rasmussen Michael,20,2,10,Hamstring,Detroit
+527,C,"6'6""",221,Rasmussen Michael,20,2,8,Upper body,Detroit
+528,RW,"6'0""",183,Rattie Ty,26,1,7,Mid-body,Edmonton
+529,G,"6'2""",220,Reimer James,31,1,5,Lower body,Florida
+530,C,"6'0""",190,Richardson Brad,34,1,13,Upper body,Arizona/Phoenix
+531,RW,"5'11""",186,Rieder Tobias,26,1,13,Upper body,Edmonton
+532,LW,"5'10""",192,Rinaldo Zac,29,2,2,Lower body,Nashville
+533,LW,"5'10""",192,Rinaldo Zac,29,2,30,Shoulder,Nashville
+534,RW,"6'4""",220,Ritchie Brett,26,4,1,Hand,Dallas
+535,RW,"6'4""",220,Ritchie Brett,26,4,2,Hand,Dallas
+536,RW,"6'4""",220,Ritchie Brett,26,4,1,Upper body,Dallas
+537,RW,"6'4""",220,Ritchie Brett,26,4,4,Upper body,Dallas
+538,LW,"6'2""",234,Ritchie Nick,23,3,2,Lower body,Anaheim
+539,LW,"6'2""",234,Ritchie Nick,23,3,4,Upper body,Anaheim
+540,LW,"6'2""",234,Ritchie Nick,23,3,6,Upper body,Anaheim
+541,G,"6'3""",206,Rittich David,26,1,2,Lower body,Calgary
+542,RW,"6'2""",189,Rodewald Jack,25,1,4,Abdominal,Ottawa
+543,LW,"5'11""",182,Rodrigues Evan,25,1,2,Upper body,Buffalo
+544,LW,"5'11""",199,Roussel Antoine,29,3,4,Concussion,Vancouver
+545,LW,"5'11""",199,Roussel Antoine,29,3,12,Knee,Vancouver
+546,LW,"5'11""",199,Roussel Antoine,29,3,1,Upper body,Vancouver
+547,RW,"6'2""",206,Rowney Carter,30,1,20,Upper body,Anaheim
+548,D,"5'11""",191,Ruhwedel Chad,29,1,19,Upper body,Pittsburgh
+549,D,"5'10""",170,Russell Kris,32,1,10,Groin,Edmonton
+550,RW,"5'11""",192,Rust Bryan,27,2,1,Lower body,Pittsburgh
+551,RW,"5'11""",192,Rust Bryan,27,2,9,Lower body,Pittsburgh
+552,RW,"6'2""",209,Ryan Bobby,32,1,3,Concussion,Ottawa
+553,LW,"6'1""",206,Saad Brandon,26,1,2,Arm,Chicago
+554,RW,"5'11""",203,Salomaki Miikka,26,1,34,Upper body,Nashville
+555,LW,"6'4""",207,Sanford Zach,24,1,3,Concussion,St. Louis
+556,D,"6'3""",208,Scandella Marco,29,5,1,Lower body,Buffalo
+557,D,"6'3""",208,Scandella Marco,29,5,4,Lower body,Buffalo
+558,D,"6'3""",208,Scandella Marco,29,5,1,Upper body,Buffalo
+559,D,"6'3""",208,Scandella Marco,29,5,4,Upper body,Buffalo
+560,D,"6'3""",208,Scandella Marco,29,5,8,Vertigo,Buffalo
+561,C,"6'0""",192,Sceviour Colton,30,1,17,Hand,Florida
+562,RW,"6'1""",200,Schenn Brayden,27,2,4,Upper body,St. Louis
+563,RW,"6'1""",200,Schenn Brayden,27,2,6,Upper body,St. Louis
+564,RW,"6'1""",192,Scherbak Nikita,23,2,1,Lower body,Los Angeles
+565,RW,"6'1""",192,Scherbak Nikita,23,2,8,Lower body,Montreal
+566,D,"6'0""",190,Schlemko David,32,2,16,Knee,Montreal
+567,D,"6'0""",190,Schlemko David,32,2,7,Upper body,Montreal
+568,C,"6'0""",177,Schmaltz Nick,23,1,43,Lower body,Arizona/Phoenix
+569,G,"6'3""",200,Schneider Cory,33,2,17,Abdominal,New Jersey
+570,G,"6'3""",200,Schneider Cory,33,2,8,Hip,New Jersey
+571,D,"6'2""",193,Schultz Justin,28,1,53,Leg,Pittsburgh
+572,LW,"5'10""",190,Schwartz Jaden,27,2,2,Foot,St. Louis
+573,LW,"5'10""",190,Schwartz Jaden,27,2,11,Upper body,St. Louis
+574,D,"6'3""",220,Seabrook Brent,34,1,3,Abdominal,Chicago
+575,D,"6'2""",198,Seeler Nick,26,1,2,Upper body,Minnesota
+576,D,"6'0""",200,Sekera Andrej,33,1,58,Achilles,Edmonton
+577,D,"6'0""",206,Shattenkirk Kevin,30,1,7,Shoulder,NY Rangers
+578,RW,"5'11""",182,Shaw Andrew,27,1,15,Neck,Montreal
+579,LW,"5'8""",175,Sheary Conor,27,1,4,Upper body,Buffalo
+580,C,"6'1""",205,Shore Devin,24,2,2,Knee,Anaheim
+581,C,"6'1""",205,Shore Devin,24,2,4,Lower body,Dallas
+582,RW,"6'1""",204,Silfverberg Jakob,28,2,5,Finger,Anaheim
+583,RW,"6'1""",204,Silfverberg Jakob,28,2,4,Lower body,Anaheim
+584,C,"5'11""",190,Simon Dominik,24,1,8,Lower body,Pittsburgh
+585,C,"6'1""",200,Sissons Colton,25,1,7,Ankle,Nashville
+586,D,"6'3""",214,Skjei Brady,25,1,1,Knee,NY Rangers
+587,D,"6'2""",195,Smith Brendan,30,1,2,Upper body,NY Rangers
+588,RW,"6'1""",208,Smith Craig,29,1,6,Lower body,Nashville
+589,LW,"6'2""",208,Smith Zack,31,2,3,Back,Ottawa
+590,LW,"6'2""",208,Smith Zack,31,2,9,Facial,Ottawa
+591,LW,"5'10""",184,Sobotka Vladimir,32,2,3,Upper body,Buffalo
+592,LW,"5'10""",184,Sobotka Vladimir,32,2,5,Upper body,Buffalo
+593,LW,"5'11""",175,Sorensen Marcus,27,1,2,Mouth,San Jose
+594,RW,"5'11""",185,Soshnikov Nikita,25,1,10,Concussion,St. Louis
+595,G,"6'3""",201,Sparks Garret,26,1,5,Concussion,Toronto
+596,C,"5'11""",191,Spooner Ryan,27,2,1,Lower body,NY Rangers
+597,C,"5'11""",191,Spooner Ryan,27,2,11,Groin,Vancouver
+598,C,"6'4""",220,Staal Jordan,30,2,5,Concussion,Carolina
+599,C,"6'4""",220,Staal Jordan,30,2,27,Concussion,Carolina
+600,D,"6'4""",213,Staal Marc,32,1,2,Lower body,NY Rangers
+601,RW,"6'2""",215,Stafford Drew,33,1,4,Upper body,New Jersey
+602,C,"6'0""",193,Stastny Paul,33,1,30,Lower body,Vegas
+603,D,"5'10""",186,Stecher Troy,25,1,3,Concussion,Vancouver
+604,C,"6'0""",196,Stepan Derek,29,1,10,Leg,Arizona/Phoenix
+605,G,"6'6""",210,Stolarz Anthony,25,1,16,Lower body,Philadelphia
+606,D,"6'3""",210,Stone Michael,29,1,49,Blood clots,Calgary
+607,D,"5'11""",190,Stralman Anton,32,2,12,Lower body,Tampa Bay
+608,D,"5'11""",190,Stralman Anton,32,2,17,Upper body,Tampa Bay
+609,D,"6'0""",210,Subban P.K.,30,1,19,Upper body,Nashville
+610,C,"6'3""",209,Sundqvist Oskar,25,1,8,Upper body,St. Louis
+611,C,"6'3""",190,Sutter Brandon,30,2,26,Hernia,Vancouver
+612,C,"6'3""",190,Sutter Brandon,30,2,30,Shoulder,Vancouver
+613,LW,"6'0""",180,Tanev Brandon,27,1,2,Finger,Winnipeg/Atlanta
+614,RW,"6'0""",225,Tarasenko Vladimir,27,1,5,Upper body,St. Louis
+615,RW,"6'1""",175,Terry Troy,21,1,3,Leg,Anaheim
+616,C,"6'0""",188,Thomas Robert,20,1,7,Shoulder,St. Louis
+617,C,"6'4""",220,Thornton Joe,40,1,9,Knee,San Jose
+618,LW,"6'3""",196,Tkachuk Brady,19,2,2,Groin,Ottawa
+619,LW,"6'3""",196,Tkachuk Brady,19,2,9,Leg,Ottawa
+620,C,"5'10""",186,Trocheck Vincent,25,1,27,Ankle,Florida
+621,C,"6'1""",190,Turris Kyle,29,1,17,Lower body,Nashville
+622,D,"6'1""",185,Vaakanainen Urho,20,1,26,Concussion,Boston
+623,D,"6'2""",212,Valimaki Juuso,20,1,28,Lower body,Calgary
+624,LW,"6'2""",214,Vanek Thomas,35,3,3,Hip,Detroit
+625,LW,"6'2""",214,Vanek Thomas,35,3,8,Lower body,Detroit
+626,LW,"6'2""",214,Vanek Thomas,35,3,7,Mid-body,Detroit
+627,G,"6'2""",205,Varlamov Semyon,31,1,2,Lower body,Colorado
+628,G,"6'3""",207,Vasilevskiy Andrei,24,1,14,Foot,Tampa Bay
+629,D,"5'10""",185,Vatanen Sami,28,2,14,Concussion,New Jersey
+630,D,"5'10""",185,Vatanen Sami,28,2,3,Lower body,New Jersey
+631,RW,"6'1""",226,Virtanen Jake,22,2,2,Lower body,Vancouver
+632,RW,"6'1""",226,Virtanen Jake,22,2,10,Ribs,Vancouver
+633,D,"6'1""",205,Vlasic Marc-Edouard,32,1,10,Wrist,San Jose
+634,RW,"6'2""",214,Voracek Jakub,29,1,2,Lower body,Philadelphia
+635,LW,"6'1""",185,Wagner Austin,22,2,4,Lower body,Los Angeles
+636,LW,"6'1""",185,Wagner Austin,22,2,1,Upper body,Los Angeles
+637,RW,"6'0""",198,Wagner Chris,28,2,1,Lower body,Boston
+638,RW,"6'0""",198,Wagner Chris,28,2,2,Lower body,Boston
+639,D,"5'11""",196,Walker Sean,24,1,2,Facial,Los Angeles
+640,G,"6'1""",194,Ward Cam,35,1,4,Knee,Chicago
+641,D,"6'4""",229,Weber Shea,33,1,24,Knee,Montreal
+642,D,"5'11""",200,Weber Yannick,30,1,1,Upper body,Nashville
+643,D,"6'0""",200,Weegar MacKenzie,25,4,4,Concussion,Florida
+644,D,"6'0""",200,Weegar MacKenzie,25,4,4,Lower body,Florida
+645,D,"6'0""",200,Weegar MacKenzie,25,4,3,Shoulder,Florida
+646,D,"6'0""",200,Weegar MacKenzie,25,4,7,Upper body,Florida
+647,C,"6'0""",183,White Colin,22,2,5,Neck,Ottawa
+648,C,"6'0""",183,White Colin,22,2,5,Shoulder,Ottawa
+649,D,"5'10""",180,Wideman Chris,29,1,1,Lower body,Ottawa
+650,C,"6'1""",221,Wilson Colin,29,3,1,Lower body,Colorado
+651,C,"6'1""",221,Wilson Colin,29,3,8,Shoulder,Colorado
+652,C,"6'1""",221,Wilson Colin,29,3,8,Upper body,Colorado
+653,RW,"5'11""",183,Wilson Scott,27,1,43,Ankle,Buffalo
+654,LW,"6'2""",195,Wood Miles,23,3,12,Ankle,New Jersey
+655,LW,"6'2""",195,Wood Miles,23,3,4,Arm,New Jersey
+656,LW,"6'2""",195,Wood Miles,23,3,3,Lower body,New Jersey
+657,D,"6'0""",190,Yakovlev Egor,27,1,2,Upper body,New Jersey
+658,RW,"5'8""",153,Yamamoto Kailer,20,1,8,Upper body,Edmonton
+659,C,"6'3""",210,Zacha Pavel,22,1,16,Upper body,New Jersey
+660,D,"6'5""",230,Zadorov Nikita,24,2,10,Lower body,Colorado
+661,D,"6'5""",230,Zadorov Nikita,24,2,1,Upper body,Colorado
+662,C,"6'2""",185,Zajac Travis,34,1,1,Lower body,New Jersey
+663,C,"6'0""",197,Zetterberg Henrik,38,1,82,Back,Detroit
+664,RW,"5'8""",184,Zuccarello Mats,31,4,17,Arm,Dallas
+665,RW,"5'8""",184,Zuccarello Mats,31,4,1,Foot,NY Rangers
+666,RW,"5'8""",184,Zuccarello Mats,31,4,3,Groin,NY Rangers
+667,RW,"5'8""",184,Zuccarello Mats,31,4,7,Groin,NY Rangers
+668,D,"6'1""",195,de Haan Calvin,28,3,3,Eye,Carolina
+669,D,"6'1""",195,de Haan Calvin,28,3,2,Upper body,Carolina
+670,D,"6'1""",195,de Haan Calvin,28,3,3,Upper body,Carolina
+671,LW,"6'3""",217,van Riemsdyk James,30,1,16,Lower body,Philadelphia
